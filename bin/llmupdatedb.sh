@@ -8,11 +8,8 @@ fi
 progdir=$(dirname "$progfile")/..
 cd $progdir
 
-# STORE="--store"
-STORE=""
+STORE="--store"
+# STORE=""
 MODEL="minilm"
 
-llm embed-multi til -d .cgptdevbench/llmsearch.db -m minilm $STORE --files . '**/*.md'
-llm embed-multi til -d .cgptdevbench/llmsearch.db -m minilm $STORE --files . '**/src/**/*.java'
-llm embed-multi til -d .cgptdevbench/llmsearch.db -m minilm $STORE --files . '**/src/**/*.js'
-llm embed-multi til -d .cgptdevbench/llmsearch.db -m minilm $STORE --files . '**/src/**/*.html'
+llm embed-multi links -d db/llmsearch.db -m minilm $STORE --files . '20*/**/*.md'

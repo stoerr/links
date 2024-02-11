@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+function usage() {
+  cat <<EOF
+Usage: $0 [--help] [-h] url title
+Add a link to the database
+url: the url of the link
+title: the title of the link - one word usable as filename
+--help, -h: display this message
+EOF
+}
+
+# parse arguments
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    --help|-h)
+      usage
+      exit 0
+      ;;
+    *)
+      url=$1
+      title=$2
+      shift
+      ;;
+  esac
+  shift
+done
+
+# ensure mandatory arguments are present
+if [[ -z "$url" || -z "$title" || -n "$3" ]]; then
+  usage
+  exit 1
+fi
+
+# dir is the directory where the script is located
+dir=$(dirname "$(realpath $0)")/..
+
+# 2024/02-11/title.md
+filename="$(date +%Y/%m-%d)/$title.md"
+
+cp assets/linktmpl.prompt $filename
+intellij $filename
