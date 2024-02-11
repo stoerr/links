@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
 function usage() {
   cat <<EOF
-Usage: $0 [--help] [-h] url title
+Usage: $0 [--help] [-h] url
 Add a link to the database
 url: the url of the link
-title: the title of the link - one word usable as filename
 --help, -h: display this message
 EOF
 }
@@ -25,8 +24,10 @@ while [[ $# -gt 0 ]]; do
   shift
 done
 
+set -e
+
 # ensure mandatory arguments are present
-if [[ -z "$url" || -z "$title" || -n "$3" ]]; then
+if [[ -z "$url" || -n "$2" ]]; then
   usage
   exit 1
 fi
@@ -35,7 +36,27 @@ fi
 dir=$(dirname "$(realpath $0)")/..
 
 # 2024/02-11/title.md
-filename="$(date +%Y/%m-%d)/$title.md"
+filedir=$(date +%Y/%m-%d)
+tmpfilename="$filedir/tmp.md"
 
-cp assets/linktmpl.prompt $filename
-intellij $filename
+# cp assets/linktmpl.txt $filename
+bin/urlsummarize.sh "$url" > $tmpfilename
+
+# find a line like
+# filename: ApacheSling_ContentExportToFilesystem.md
+# and extract the filename
+
+filename=$(ggrep -oP 'filename: \K.*' $tmpfilename)
+if [[ -z "$filename" ]]; then
+  echo "Could not extract filename from $tmpfilename"
+  exit 1
+fi
+
+mv $tmpfilename $filedir/$filename
+
+# check that $filedir/$filename is a readable file and not a directory
+if [[ ! -f $filedir/$filename ]]; then
+  echo "Could not find file $filedir/$filename"
+  exit 1
+fi
+intellij $filedir/$filename

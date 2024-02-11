@@ -6,7 +6,7 @@ DO NOT print anything else except the template.
 ---
 filename: {suggested filename without whitespace}
 category: {comma separated list of categories}
-url: {url to the resource}
+url: {url to the webpage}
 ---
 
 # {Title}
@@ -15,12 +15,8 @@ url: {url to the resource}
 
 ## Description
 
-{One sentence description of the resource}
-
-## Purpose
-
-{One sentence purpose of the resource}
+{One sentence description of the webpage}
 
 ## Summary
 
-{One paragraph summary of the content}
+{summary of the content of the webpage, at most three paragraphs}
