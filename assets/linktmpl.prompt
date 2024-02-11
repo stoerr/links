@@ -1,9 +1,26 @@
+===============================================================================
+PROMPT for ChatGPT:
+Fill the following template with the information about the previous text and print the filled template.
+DO NOT print anything else except the template.
+
 ---
-filename: wizardzine.md
-category: productivity, development
+filename: {suggested filename without whitespace}
+category: {comma separated list of categories}
+url: {url to the resource}
 ---
 
-# Wizard Zines
+# {Title}
 
-https://wizardzines.com/comics/ - an entertaining set of tipps for programmers - with a surprising amount of useful
-nice little stuff you might not have heard about even as a seasoned SoftwareEngineer .
+{url}
+
+## Description
+
+{One sentence description of the resource}
+
+## Purpose
+
+{One sentence purpose of the resource}
+
+## Summary
+
+{One paragraph summary of the content}
