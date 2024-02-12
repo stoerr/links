@@ -32,6 +32,14 @@ if [[ -z "$url" || -n "$2" ]]; then
   exit 1
 fi
 
+# Check whether the url is already in one of the link files
+# refuse adding if it is - just print the file name and exit
+
+if grep -l "$url" 20*/**/*.md; then
+  echo "URL already in database"
+  exit 1
+fi
+
 # dir is the directory where the script is located
 dir=$(dirname "$(realpath $0)")/..
 
