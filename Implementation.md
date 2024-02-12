@@ -64,6 +64,13 @@ We collect the links into a big JSON file `db/links.json` that contains an array
 ]
 ```
 
-The script bin/collectLinks creates this file. The files should be sorted alphabetically by filename - this way
+The script bin/makeLinkJson.js creates this file. The files should be sorted alphabetically by filename - this way
 they are sorted by date and there is a deterministic order. It should use no additional libraries that aren't in 
 nodejs anyway.
+
+We put this into .git/hooks/pre-commit to make sure the file is always up to date.
+```bash
+#!/bin/sh
+node bin/makeLinkJson.js
+git add db/links.json
+```
