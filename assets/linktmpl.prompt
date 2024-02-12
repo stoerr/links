@@ -1,15 +1,18 @@
 ===============================================================================
 PROMPT for ChatGPT:
 Fill the following template with the information about the previous text and print the filled template.
+The same placeholders should get the same content.
 DO NOT print anything else except the template.
 
 ---
 filename: {suggested filename without whitespace}
 category: {comma separated list of categories}
 url: {url to the webpage}
+title: {title of the webpage}
+description: {One sentence description of the webpage}
 ---
 
-# {Title}
+# {title of the webpage}
 
 {url}
 
