@@ -32,6 +32,11 @@ if [[ -z "$url" || -n "$2" ]]; then
   exit 1
 fi
 
+
+# dir is the directory where the links project is located
+dir=$(dirname "$(realpath $0)")/..
+cd "$dir"
+
 # Check whether the url is already in one of the link files
 # refuse adding if it is - just print the file name and exit
 
@@ -40,12 +45,10 @@ if grep -l "$url" 20*/**/*.md; then
   exit 1
 fi
 
-# dir is the directory where the script is located
-dir=$(dirname "$(realpath $0)")/..
-
 # 2024/02-11/title.md
 filedir=$(date +%Y/%m-%d)
 tmpfilename="$filedir/tmp.md"
+mkdir -p "$filedir"
 
 # cp assets/linktmpl.txt $filename
 bin/urlsummarize.sh "$url" > $tmpfilename
