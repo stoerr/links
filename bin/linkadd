@@ -17,7 +17,6 @@ while [[ $# -gt 0 ]]; do
       ;;
     *)
       url=$1
-      title=$2
       shift
       ;;
   esac
@@ -61,6 +60,11 @@ filename=$(ggrep -oP 'filename: \K.*' $tmpfilename)
 if [[ -z "$filename" ]]; then
   echo "Could not extract filename from $tmpfilename"
   exit 1
+fi
+
+# add .md to filename if it isn't already there
+if [[ ! $filename == *.md ]]; then
+  filename="$filename.md"
 fi
 
 mv $tmpfilename $filedir/$filename

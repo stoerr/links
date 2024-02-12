@@ -2,7 +2,7 @@
 filename: TheArtOfCodingACruelOptimism
 category: AI, Coding, Education, Artificial Intelligence, Code Generation
 url: https://medium.com/electronic-life/the-art-of-coding-a-cruel-optimism-59fc52571e91
-title: The Art of Coding: A Cruel Optimism?
+title: The Art of Coding - A Cruel Optimism?
 description: An exploration into the potential and pitfalls of leveraging AI in the art of coding, particularly as a learning tool.
 ---
 

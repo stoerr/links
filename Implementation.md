@@ -17,4 +17,53 @@ opens the file in the editor. The file will contain a template for the link, whi
 
 ## Presentation and search
 
-Local search can be done 
+Local search can be done using [llm](https://github.com/simonw/llm).
+
+## Link files
+
+The link files are markdown files with a frontmatter that contains the URL, title, category and date.
+The rest of the file is the description and summary of the link. The files are saved in a directory structure
+that is based on the date of the link: e.g. 2024/02-11/My-Link-Title.md.
+Example link file:
+
+```
+---
+filename: TheArtOfCoding
+category: AI, Coding
+url: https://foo.bar/baz
+title: The Art of Coding
+description: An exploration into coding
+---
+
+# The Art of Coding
+
+https://foo.bar/baz
+
+## Description
+
+An exploration into coding
+
+## Summary
+
+The article describes much stuff about coding.
+```
+
+## JSON
+
+We collect the links into a big JSON file `db/links.json` that contains an array of links:
+```json
+[
+  {
+    "filepath": "2024/02-27/TheArtOfCoding.md",
+    "category": "AI, Coding",
+    "url": "https://foo.bar/baz",
+    "title": "The Art of Coding",
+    "description": "An exploration into coding",
+    "text": "(the full article without the frontmatter)"
+  }
+]
+```
+
+The script bin/collectLinks creates this file. The files should be sorted alphabetically by filename - this way
+they are sorted by date and there is a deterministic order. It should use no additional libraries that aren't in 
+nodejs anyway.
