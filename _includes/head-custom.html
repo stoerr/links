@@ -1,13 +1,9 @@
-<link rel="shortcut icon" type="image/x-icon" href="/til/favicon.ico">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SL01MYCNDC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-  gtag('config', 'G-SL01MYCNDC');
-</script>
-{% if page.noindex %}
-<meta name="robots" content="noindex">
-{% endif %}
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+
+<!-- end custom head snippets -->
