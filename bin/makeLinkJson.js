@@ -27,6 +27,9 @@ async function parseMarkdownFile(filePath) {
                 linkData[key] = value.replace(/, /g, ',');
             }
         });
+        if (linkData.category) {
+            linkData.category = linkData.category.split(',').map(category => category.trim());
+        }
         delete linkData.filename;
 
         // Exclude frontmatter from the text and trim whitespace

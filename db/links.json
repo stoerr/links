@@ -1,13 +1,22 @@
 [
   {
     "filepath": "2024/02-11/wizardzine.md",
-    "category": "productivity,development",
+    "category": [
+      "productivity",
+      "development"
+    ],
     "url": "https",
     "text": "# Wizard Zines\n\nhttps://wizardzines.com/comics/ \n\nAn entertaining set of tipps for programmers - with a surprising amount of useful\nnice little stuff you might not have heard about even as a seasoned SoftwareEngineer ."
   },
   {
     "filepath": "2024/02-12/TheArtOfCodingACruelOptimism.md",
-    "category": "AI,Coding,Education,Artificial Intelligence,Code Generation",
+    "category": [
+      "AI",
+      "Coding",
+      "Education",
+      "Artificial Intelligence",
+      "Code Generation"
+    ],
     "url": "https",
     "title": "The Art of Coding - A Cruel Optimism?",
     "description": "An exploration into the potential and pitfalls of leveraging AI in the art of coding,particularly as a learning tool.",
@@ -15,7 +24,12 @@
   },
   {
     "filepath": "2024/02-13/aem-links.md",
-    "category": "Adobe Experience Manager,AEM,Cheat Sheets,Solutions",
+    "category": [
+      "Adobe Experience Manager",
+      "AEM",
+      "Cheat Sheets",
+      "Solutions"
+    ],
     "url": "https",
     "title": "GitHub - paulrohrbeck/aem-links - Adobe Experience Manager links,cheat sheets and solutions to common problems.",
     "description": "Curated list of links,cheat sheets,and solutions to common problems for Adobe Experience Manager (AEM).",
@@ -23,10 +37,35 @@
   },
   {
     "filepath": "2024/02-13/BedienungsanleitungSamsungGalaxyS7.md",
-    "category": "User Manual,Instructions",
+    "category": [
+      "User Manual",
+      "Instructions"
+    ],
     "url": "https",
     "title": "Benutzerhandbuch Samsung Galaxy S7 (SM-G930F)",
     "description": "User manual for Samsung Samsung Galaxy S7 (SM-G930F) in German.",
     "text": "# Benutzerhandbuch Samsung Galaxy S7 (SM-G930F)\n\nhttps://downloadcenter.samsung.com/content/MC/201806/20180607135149892/DE/Ger/start_here.html\n\n## Description\n\nUser manual for Samsung Samsung Galaxy S7 (SM-G930F) in German.\n\n## Summary\n\nThe webpage provides a user manual for Samsung device Samsung Galaxy S7 (SM-G930F) in German. It includes chapters on\nbasic information,\napplications, settings, and the appendix. Users can access further information by clicking on the provided links or\nicons. The page is designed for easy navigation and access to detailed instructions for Samsung device users. The manual\ncovers essential topics for users to maximize their experience with Samsung devices."
+  },
+  {
+    "filepath": "2024/02-23/prompt-injection-via-unicode-tags.md",
+    "category": [
+      "Technology",
+      "Social Media"
+    ],
+    "url": "https",
+    "title": "Invisible Prompt Injection via Unicode Tags",
+    "description": "a way of unnoticedly injecting prompts into OpenAI's API",
+    "text": "{important: include this line to separate front matter from the content, but remove this comment}\n\n# Invisible Prompt Injection via Unicode Tags\n\nhttps://twitter.com/rez0__/status/1758556246850896185\n\n## Description\n\nIt's possible to inject prompts into OpenAI's API by using invisible unicode tags. This can be used to inject prompts into the API without the user noticing.\n\ndef convert_from_tag_chars(tagged_string):     return ''.join(chr(ord(ch) - 0xE0000) for ch in tagged_string if 0xE0061 <= ord(ch) <= 0xE007A)  tagged_input = input(\"Enter a string of tagged characters to convert to ASCII: \") ascii_output = convert_from_tag_chars(tagged_input) print(\"ASCII output:\", ascii_output)"
+  },
+  {
+    "filepath": "2024/02-23/teaching-calculus-via-deepfakes.md",
+    "category": [
+      "Technology",
+      "Social Media"
+    ],
+    "url": "https",
+    "title": "JavaScript Disabled on Twitter",
+    "description": "Teaching calculus with deep fakes",
+    "text": "# Teaching calculus with deep fakes\n\nhttps://twitter.com/nisten/status/1760745075712381018"
   }
 ]
