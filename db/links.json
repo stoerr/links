@@ -47,6 +47,17 @@
     "text": "# Benutzerhandbuch Samsung Galaxy S7 (SM-G930F)\n\nhttps://downloadcenter.samsung.com/content/MC/201806/20180607135149892/DE/Ger/start_here.html\n\n## Description\n\nUser manual for Samsung Samsung Galaxy S7 (SM-G930F) in German.\n\n## Summary\n\nThe webpage provides a user manual for Samsung device Samsung Galaxy S7 (SM-G930F) in German. It includes chapters on\nbasic information,\napplications, settings, and the appendix. Users can access further information by clicking on the provided links or\nicons. The page is designed for easy navigation and access to detailed instructions for Samsung device users. The manual\ncovers essential topics for users to maximize their experience with Samsung devices."
   },
   {
+    "filepath": "2024/02-23/introducing-supermaven-code-completion.md",
+    "category": [
+      "blog",
+      "code completion tool"
+    ],
+    "url": "https",
+    "title": "Supermaven",
+    "description": "The fastest copilot. Supermaven uses a 300,000-token context window to provide the highest quality code completions.",
+    "text": "# Supermaven\n\nhttps://supermaven.com/blog/introducing-supermaven\n\n## Description\n\nThe fastest copilot. Supermaven uses a 300,000-token context window to provide the highest quality code completions.\n\n## Summary\n\nSupermaven is a code completion tool that differentiates itself by offering a 300,000-token context window for more accurate suggestions. It addresses the limitations of other tools like Copilot by efficiently integrating information across a long context window, resulting in better completions even for complex and unique codebases.\n\nThe tool is designed to be fast and responsive, with custom infrastructure to handle large codebases while maintaining low latency. Supermaven also stands out by focusing on sequences of edits rather than just files, allowing it to quickly understand and assist with code refactoring tasks. Users can try Supermaven for themselves and provide feedback on its performance.\n\nOverall, Supermaven aims to provide a competitive alternative in the AI-powered code completion space, offering a unique approach to handling large context windows and delivering accurate suggestions based on user edits and repositories."
+  },
+  {
     "filepath": "2024/02-23/prompt-injection-via-unicode-tags.md",
     "category": [
       "Technology",
@@ -67,5 +78,52 @@
     "title": "JavaScript Disabled on Twitter",
     "description": "Teaching calculus with deep fakes",
     "text": "# Teaching calculus with deep fakes\n\nhttps://twitter.com/nisten/status/1760745075712381018"
+  },
+  {
+    "filepath": "2024/03-05/create-a-custom-workflow-model-in-aem-with-a-full-code-coverage-unit-test.md",
+    "category": [
+      "Technology",
+      "Coding",
+      "AEM"
+    ],
+    "url": "https",
+    "title": "Create a custom Workflow Model in AEM and add full code coverage with a Unit Test",
+    "description": "Set up a custom Workflow Model in AEM that can be used by an Author to create Workflows in AEM's Touch UI and ensure full code coverage with a Unit Test.",
+    "text": "# Create a custom Workflow Model in AEM and add full code coverage with a Unit Test\n\nhttps://medium.com/@jlanssie/create-a-custom-workflow-model-in-aem-with-a-full-code-coverage-unit-test-4178b2263b81\n\n## Description\n\nSet up a custom Workflow Model in AEM that can be used by an Author to create Workflows in AEM's Touch UI and ensure full code coverage with a Unit Test.\n\n## Summary\n\nIn this detailed guide, the author explains how to create a custom Workflow Model in AEM using Java classes and annotations. The tutorial covers setting up the Workflow Model, fetching and adapting payload data, and creating a helper method to set property values.\n\nThe tutorial also includes a section on writing Unit Tests for the Workflow Model using AemContext and Mockito for mocking objects. It provides detailed steps to verify the workflow with and without arguments, manage sessions, and handle exceptions.\n\nThe final part of the tutorial guides you through setting up the workflow in AEM's Touch UI, launching the workflow, and verifying the results in CRX/DE. This comprehensive guide is a great resource for AEM developers looking to create custom Workflow Models with full code coverage Unit Tests."
+  },
+  {
+    "filepath": "2024/03-05/create-custom-aem-menu-tools-with-granite-ui-shell.md",
+    "category": [
+      "AEM",
+      "Customization",
+      "UI Development"
+    ],
+    "url": "https",
+    "title": "Create Custom AEM Menu Tools with Granite UI Shell",
+    "description": "Customize AEM with Custom Menu Tools",
+    "text": "# Create Custom AEM Menu Tools with Granite UI Shell\n\nhttps://medium.com/@vsr061/create-custom-aem-menu-tools-with-granite-ui-shell-53c56e435f8a\n\n## Description\n\nCustomize AEM with Custom Menu Tools\n\n## Summary\n\nThe article discusses how to create custom menu tools in AEM using Granite UI Shell. It covers concepts like Sling Resource Merger and Granite UI to customize AEM. The author explains the process of overlaying AEM Tools nodes, creating custom nodes, and developing a landing page using Granite UI components. The tutorial provides insights into structuring the nodes, properties to add for menu items and tools, and the use of Granite Shell Page for rendering. The article is a helpful guide for developers looking to enhance and customize AEM menus with their own tools."
+  },
+  {
+    "filepath": "2024/03-05/develop-front-end-components-with-aem-coral-ui.md",
+    "category": [
+      "AEM",
+      "Front End Development",
+      "Coral UI"
+    ],
+    "url": "https",
+    "title": "Develop Front End Components with AEM Coral UI | by Viraj Rane | Medium",
+    "description": "Coral UI is a library of touch-first web components,used to ease the work of a front end developer.",
+    "text": "# Develop Front End Components with AEM Coral UI | by Viraj Rane | Medium\n\nhttps://medium.com/@vsr061/develop-front-end-components-with-aem-coral-ui-2da905096cce\n\n## Description\n\nCoral UI is a library of touch-first web components, used to ease the work of a front end developer.\n\n## Summary\n\nCoral UI provides simple and responsive components to maintain platform uniformity in AEM. The article discusses how to add custom components using Coral UI, like buttons and drop-downs, by leveraging client-side JS and integrating with AEM's existing structure.\n\nThe tutorial guides on adding buttons to the AEM Inbox action bar, explaining steps to create clientlibs, utilize Coral UI's library, and customize interactions for a seamless user experience. The use of Coral UI ensures consistency and eases the development process in AEM for front end components.\n\nViraj Rane, a Full Stack AEM Developer and Tech Enthusiast, shares insights on utilizing Coral UI for AEM front end development, emphasizing code management and component uniformity across the platform."
+  },
+  {
+    "filepath": "2024/03-05/how-to-create-a-custom-tool-in-aem.md",
+    "category": [
+      "AEM",
+      "Development"
+    ],
+    "url": "https",
+    "title": "How to create a custom Tool in AEM | by Jeremy Lanssiers | Medium",
+    "description": "We set up a custom tool in AEM’s Tool section for creating site-wide functionalities.",
+    "text": "# How to create a custom Tool in AEM\n\nhttps://medium.com/@jlanssie/how-to-create-a-custom-tool-in-aem-78d14c1f66d5\n\n## Description\n\nWe set up a custom tool in AEM’s Tool section. This is useful for creating site-wide functionalities that do not fit in a component.\n\n## Summary\n\nIn this guide, Jeremy Lanssiers explains how to create a custom tool in AEM by overlaying standard libraries and creating specific XML files. The process involves setting up the workspace filter, creating XML files for the tool entry, and designing a Granite UI dialog page for the tool. The tutorial also covers creating packages for client-side interactions and providing a step-by-step approach to creating an interactive AEM tool. This comprehensive walkthrough helps developers understand the process of creating custom tools in AEM."
   }
 ]
