@@ -125,5 +125,39 @@
     "title": "How to create a custom Tool in AEM | by Jeremy Lanssiers | Medium",
     "description": "We set up a custom tool in AEM’s Tool section for creating site-wide functionalities.",
     "text": "# How to create a custom Tool in AEM\n\nhttps://medium.com/@jlanssie/how-to-create-a-custom-tool-in-aem-78d14c1f66d5\n\n## Description\n\nWe set up a custom tool in AEM’s Tool section. This is useful for creating site-wide functionalities that do not fit in a component.\n\n## Summary\n\nIn this guide, Jeremy Lanssiers explains how to create a custom tool in AEM by overlaying standard libraries and creating specific XML files. The process involves setting up the workspace filter, creating XML files for the tool entry, and designing a Granite UI dialog page for the tool. The tutorial also covers creating packages for client-side interactions and providing a step-by-step approach to creating an interactive AEM tool. This comprehensive walkthrough helps developers understand the process of creating custom tools in AEM."
+  },
+  {
+    "filepath": "2024/03-20/reprompt-prompt-testing-made-simple.md",
+    "category": [
+      "AI",
+      "Prompt Testing"
+    ],
+    "url": "https",
+    "title": "Reprompt - Prompt testing made simple",
+    "description": "Reprompt helps developers test and optimize AI prompts quickly and efficiently.",
+    "text": "# Reprompt - Prompt testing made simple\n\nhttps://reprompt.dev/\n\n## Description\n\nReprompt helps developers test and optimize AI prompts quickly and efficiently.\n\n## Summary\n\nReprompt is a tool that enables developers to save time testing their prompts, allowing them to generate multiple responses, analyze errors, and improve their LLM apps with ease. It offers features such as collaborative prompt testing, real-time trading, data-driven decision-making, and strong security standards. With Reprompt, developers can speed up their debugging process, analyze more data in less time, and have confidence in their prompt changes by comparing with previous versions. Sign up now to streamline your prompt testing process."
+  },
+  {
+    "filepath": "2024/04-09/semgrep-autofix-llm.md",
+    "category": [
+      "Software Development",
+      "LLM",
+      "AI"
+    ],
+    "url": "https",
+    "title": "Semgrep",
+    "description": "Explore how Semgrep can be used for AutoFixes with Large Language Models (LLMs).",
+    "text": "# Semgrep: AutoFixes using LLMs\n\nhttps://choly.ca/post/semgrep-autofix-llm/\n\n## Description\n\nExplore how Semgrep can be used for AutoFixes with Large Language Models (LLMs).\n\n## Summary\n\nSemgrep is a powerful tool for searching code using Abstract Syntax Trees (AST), allowing users to define patterns to match against code. Not only does Semgrep search using patterns, but it also supports rewriting matches with the built-in autofix feature, making it a comprehensive tool for code analysis and correction.\n\nThe article delves into the concept of fixing Semgrep matches using a Large Language Model (LLM), where each match is fed into the LLM and replaced with the response. The author introduces \"semgrepx,\" a tool that serves as \"xargs for Semgrep,\" to facilitate rewriting matches using LLMs. By utilizing this approach, the author provides insights on improving the task by matching a larger expression than necessary and leveraging the LLM's features effectively.\n\nThe author also shares practical examples and notes on utilizing the autofix feature in Semgrep and experimenting with different Large Language Models for better performance in code corrections, such as Anthropic's Claude 3 Opus model. Overall, the article offers a unique perspective on combining Semgrep with LLMs for efficient auto-fixing in code analysis and refactoring processes."
+  },
+  {
+    "filepath": "2024/04-09/your-ai-product-needs-evals.md",
+    "category": [
+      "AI",
+      "LLM"
+    ],
+    "url": "https",
+    "title": "Your AI Product Needs Evals",
+    "description": "How to construct domain-specific LLM evaluation systems.",
+    "text": "# Your AI Product Needs Evals\n\nhttps://hamel.dev/blog/posts/evals/\n\n## Description\n\nHow to construct domain-specific LLM evaluation systems.\n\n## Summary\n\nThis blog post discusses the importance of having robust evaluation systems for AI products, specifically focusing on language models. The author shares insights and experiences from working with language models over the years, highlighting the common pitfalls in building AI products without proper evaluation systems.\n\nThe post discusses different levels of evaluation, from unit tests to human and model evaluations, and emphasizes the importance of rigorous evaluation for AI products. The author also provides practical tips and examples, such as creating test cases, logging traces, and automating evaluation processes.\n\nOverall, the post serves as a guide for building effective evaluation systems for AI products, showcasing how evaluation systems can drive rapid iteration and improvement in AI products."
   }
 ]
