@@ -159,5 +159,30 @@
     "title": "Your AI Product Needs Evals",
     "description": "How to construct domain-specific LLM evaluation systems.",
     "text": "# Your AI Product Needs Evals\n\nhttps://hamel.dev/blog/posts/evals/\n\n## Description\n\nHow to construct domain-specific LLM evaluation systems.\n\n## Summary\n\nThis blog post discusses the importance of having robust evaluation systems for AI products, specifically focusing on language models. The author shares insights and experiences from working with language models over the years, highlighting the common pitfalls in building AI products without proper evaluation systems.\n\nThe post discusses different levels of evaluation, from unit tests to human and model evaluations, and emphasizes the importance of rigorous evaluation for AI products. The author also provides practical tips and examples, such as creating test cases, logging traces, and automating evaluation processes.\n\nOverall, the post serves as a guide for building effective evaluation systems for AI products, showcasing how evaluation systems can drive rapid iteration and improvement in AI products."
+  },
+  {
+    "filepath": "2024/04-11/building-files-to-prompt-entirely-using-claude-3-opus.md",
+    "category": [
+      "Technology",
+      "AI",
+      "Programming"
+    ],
+    "url": "https",
+    "title": "Building files-to-prompt entirely using Claude 3 Opus",
+    "description": "Plus \"llm cmd\" and running OCR against PDFs and images directly in your browser",
+    "text": "# Building files-to-prompt entirely using Claude 3 Opus\n\nhttps://simonw.substack.com/p/building-files-to-prompt-entirely\n\n## Description\n\nPlus \"llm cmd\" and running OCR against PDFs and images directly in your browser\n\n## Summary\n\nIn this newsletter, Simon Willison discusses building a tool called files-to-prompt using Claude 3 Opus. This tool allows piping several files at once into prompts for use with LLMs like Claude and GPT-4. Starting with a Click app cookiecutter template, Simon builds and refines the functionality of the tool, delegating code writing tasks to the Claude 3 Opus model. The newsletter also covers enhancements made to the tool, involving additional features and automated testing with LLMs. Additionally, there is a discussion on using ChatGPT Plus for similar automation tasks in file processing workflows."
+  },
+  {
+    "filepath": "2024/04-11/test-gitaction-workflow.md",
+    "category": [
+      "GitHub",
+      "Maven Central",
+      "Java",
+      "CI/CD"
+    ],
+    "url": "https",
+    "title": "GitHub - cometbid-sfi/test-gitaction-workflow",
+    "description": "Test github action workflow and publishing to maven central - cometbid-sfi/test-gitaction-workflow",
+    "text": "{important: include this line to separate front matter from the content, but remove this comment}\n\n# GitHub - cometbid-sfi/test-gitaction-workflow\n\nhttps://github.com/cometbid-sfi/test-gitaction-workflow\n\n## Description\n\nTest github action workflow and publishing to maven central\n\n## Summary\n\nThe webpage provides detailed instructions on how to publish artifacts to Maven Central using GitHub Actions. It covers setting up the project's pom.xml file, including required information like licenses, developers, SCM, adding plugins for source and javadoc attachments, signing artifacts with GPG keys, creating Sonatype JIRA account, setup steps, CI/CD workflow with GitHub Actions, and the deployment process. The content also emphasizes the importance of having a separate Maven profile for deployment, setting up GPG keys, and securely managing credentials. The approach aims to automate the build, sign, and deploy process to Maven Central repositories efficiently and securely."
   }
 ]
