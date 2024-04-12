@@ -6,3 +6,4 @@ Disallow: /2027/
 Disallow: /2028/
 Disallow: /2029/
 Disallow: /2030/
+Disallow: /
