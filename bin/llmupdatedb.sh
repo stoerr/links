@@ -10,6 +10,7 @@ cd $progdir
 
 STORE="--store"
 # STORE=""
-MODEL="minilm"
+# MODEL="minilm"
+MODEL="3-large"
 
-llm embed-multi links -d db/llmsearch.db -m minilm $STORE --files . '20*/**/*.md'
+llm embed-multi links -d db/llmsearch.db -m $MODEL $STORE --files . '20*/**/*.md'
