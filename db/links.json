@@ -184,5 +184,38 @@
     "title": "GitHub - cometbid-sfi/test-gitaction-workflow",
     "description": "Test github action workflow and publishing to maven central - cometbid-sfi/test-gitaction-workflow",
     "text": "{important: include this line to separate front matter from the content, but remove this comment}\n\n# GitHub - cometbid-sfi/test-gitaction-workflow\n\nhttps://github.com/cometbid-sfi/test-gitaction-workflow\n\n## Description\n\nTest github action workflow and publishing to maven central\n\n## Summary\n\nThe webpage provides detailed instructions on how to publish artifacts to Maven Central using GitHub Actions. It covers setting up the project's pom.xml file, including required information like licenses, developers, SCM, adding plugins for source and javadoc attachments, signing artifacts with GPG keys, creating Sonatype JIRA account, setup steps, CI/CD workflow with GitHub Actions, and the deployment process. The content also emphasizes the importance of having a separate Maven profile for deployment, setting up GPG keys, and securely managing credentials. The approach aims to automate the build, sign, and deploy process to Maven Central repositories efficiently and securely."
+  },
+  {
+    "filepath": "2024/04-17/typegear-ai.md",
+    "category": [
+      "AI",
+      "Writing",
+      "Productivity"
+    ],
+    "url": "https",
+    "title": "typegear.ai – write smarter,not harder",
+    "description": "AI-powered writing tool to enhance text editing and productivity.",
+    "text": "# typegear.ai – write smarter, not harder\n\nhttps://typegear.ai/\n\n## Description\n\nAI-powered writing tool designed to enhance text editing and productivity.\n\n## Summary\n\ntypegear.ai is an AI-powered writing tool that allows users to effortlessly enhance their written text with ready-made presets. Whether you are a blogger, journalist, copywriter, student, or business professional, typegear.ai can help you improve your writing skills and simplify complex text. With features like spell-check, grammar-check, professional text editing, and personalized preset options, typegear.ai offers a seamless and user-friendly experience that can boost productivity and accuracy in writing tasks. With multi-language support and vast preset options, typegear.ai is a versatile tool for anyone looking to create high-quality written content efficiently."
+  },
+  {
+    "filepath": "2024/04-18/shell-history-is-your-best-productivity-tool.md",
+    "category": [
+      "DevOps"
+    ],
+    "url": "https",
+    "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
+    "description": "If you work in shell/terminal often enough,then over time the history will become your personal knowledge vault,documentation and command reference.",
+    "text": "# Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog\n\nhttps://martinheinz.dev/blog/110\n\n## Description\n\nIf you work in shell/terminal often enough, then over time the history will become your personal knowledge vault, documentation and command reference.\n\n## Summary\n\nThe article discusses various configuration options to optimize shell history in ZSH for improved productivity. It covers setting up history saving, ignoring certain commands, timestamps, fuzzy search, searching history efficiently using keybindings, synchronization across workstations, and more. By efficiently utilizing the shell history, users can turn it into a valuable tool for enhancing their productivity."
+  },
+  {
+    "filepath": "2024/04-18/use-an-llm-to-automagically-generate-meaningful-git-commit-messages.md",
+    "category": [
+      "Technology",
+      "Git"
+    ],
+    "url": "https",
+    "title": "Use an llm to automagically generate meaningful git commit messages | Harper Reed's Blog",
+    "description": "Learn how to use AI to automatically generate meaningful Git commit messages using an llm CLI and git hooks.",
+    "text": "# Use an llm to automagically generate meaningful git commit messages | Harper Reed's Blog\n\nhttps://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/\n\n## Description\n\nI've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time.\n\n## Summary\n\nThe blog post discusses using an llm CLI to generate meaningful Git commit messages automatically. By setting up git hooks and prompts, the author enables the AI to create informative commit messages based on the changes made. The post provides detailed steps on setting up the system prompt, creating hooks, and configuring Git to utilize the automated commit message generation. Overall, the implementation helps streamline the commit process and ensures consistent and descriptive messages for each commit made."
   }
 ]
