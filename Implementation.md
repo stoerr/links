@@ -1,12 +1,12 @@
 **# Implementation
 
 This project is meant to be my personal link database, where I can save any number of interesting links with
-categorization and a little description. I also want to make it searchable via AI later. Similarily to 
+categorization and a little description. I also want to make it searchable via AI later. Similarily to
 https://til.stoerr.net/ it should get some kind of browsability.
 
 ## Basic idea
 
-The links should just be saved into the file system, no actual database that'd need a server. We will put every link 
+The links should just be saved into the file system, no actual database that'd need a server. We will put every link
 into it's individual file that defines URL, title, description and category. The path contains the date, e.g.
 `2024/02-11/My-Link-Title.md`.
 
@@ -51,26 +51,84 @@ The article describes much stuff about coding.
 ## JSON
 
 We collect the links into a big JSON file `db/links.json` that contains an array of links:
+
 ```json
 [
   {
-    "filepath": "2024/02-27/TheArtOfCoding.md",
-    "category": "AI, Coding",
-    "url": "https://foo.bar/baz",
-    "title": "The Art of Coding",
-    "description": "An exploration into coding",
-    "text": "(the full article without the frontmatter)"
-  }
+    "filepath": "2024/02-11/wizardzine.md",
+    "category": [
+      "productivity",
+      "development"
+    ],
+    "url": "https",
+    "text": "# Wizard Zines\n\nhttps://wizardzines.com/comics/ \n\nAn entertaining set of tipps for programmers - with a surprising amount of useful\nnice little stuff you might not have heard about even as a seasoned SoftwareEngineer ."
+  },
+  ...
 ]
 ```
 
 The script bin/makeLinkJson.js creates this file. The files should be sorted alphabetically by filename - this way
-they are sorted by date and there is a deterministic order. It should use no additional libraries that aren't in 
+they are sorted by date and there is a deterministic order. It should use no additional libraries that aren't in
 nodejs anyway.
 
 We put this into .git/hooks/pre-commit to make sure the file is always up to date.
+
 ```bash
 #!/bin/sh
 node bin/makeLinkJson.js
 git add db/links.json
+```
+
+Also a db/embeddings.json is created the same way that contains the OpenAI text-embedding-3-large embeddings of the
+texts:
+
+```json
+  {
+  "id": "2024/02-11/wizardzine.md",
+  "embedding": {
+    "$base64": true,
+    "encoded": "3zxwu9e...sVjz929s7"
+  },
+  "content": "---\nfilename: wizardzine.md\ncategory: productivity, development\nurl: https://wizardzines.com/comics/\n---\n\n# Wizard Zines\n\nhttps://wizardzines.com/comics/ \n\nAn entertaining set of tipps for programmers - with a surprising amount of useful\nnice little stuff you might not have heard about even as a seasoned SoftwareEngineer .\n"
+},
+...
+```
+
+## Web interface
+
+https://links.stoerr.net/ implements a search from the browser (index.md). That loads both db/links.json and
+db/embeddings.json into the browser. On search, it uses the OpenAI embeddings API to get the embeddings of the search
+and compares them to all embeddings in db/embeddings.json with cosine similarity. The top 10 results are shown.
+
+Example request for OpenAI embeddings API:
+
+```bash
+curl https://api.openai.com/v1/embeddings \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d '{
+    "input": "Your text string goes here",
+    "model": "text-embedding-3-small",
+    "encoding_format": "base64"
+  }' > embed.txt
+```
+
+gives
+
+```json
+{
+  "object": "list",
+  "data": [
+    {
+      "object": "embedding",
+      "index": 0,
+      "embedding": "KnupO...G7yr1i28"
+    }
+  ],
+  "model": "text-embedding-3-small",
+  "usage": {
+    "prompt_tokens": 5,
+    "total_tokens": 5
+  }
+}
 ```

@@ -1,0 +1,1 @@
+alert('searchimpl.js loaded');
