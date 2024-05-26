@@ -39,15 +39,15 @@ async function triggerSearch(event) {
     // Sort results by similarity
     results.sort((a, b) => b.similarity - a.similarity);
 
-    // Display the top 10 results
-    displayResults(results.slice(0, 10), links);
+    displayResults(results.slice(0, 50), links);
 }
 
 async function getQueryEmbedding(query) {
     let apiKey = localStorage.getItem('openai_api_key');
-    if (!apiKey) {
-        apiKey = prompt('Please enter your OpenAI API key:');
-        localStorage.setItem('openai_api_key', apiKey);
+    if (!apiKey || !apiKey.startsWith('sk-')) {
+        apiKey = prompt('Please enter an OpenAI API key - it will only be stored in your browsers local storage and used for embedding the queries:');
+        if (apiKey) localStorage.setItem('openai_api_key', apiKey);
+        else return;
     }
 
     const response = await fetch('https://api.openai.com/v1/embeddings', {
@@ -96,7 +96,7 @@ function displayResults(results, links) {
 
         const linkElement = document.createElement('div');
         linkElement.innerHTML = `
-            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">?</a></h2>
+            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[↗]</a></h2>
             <p>${link.category.map(cat => `<a href="#">#${cat}</a>`).join(', ')}</p>
             <details>
                 <summary>${link.text.split('\n')[2]}</summary>

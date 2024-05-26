@@ -100,7 +100,7 @@ https://links.stoerr.net/ implements a search from the browser (index.md). That 
 db/embeddings.json into the browser. Since both files are large, the fetched data has to be stored in a local variable. 
 On search, it uses the OpenAI embeddings API to get the embeddings of the search
 and compares them to all embeddings in db/embeddings.json with cosine similarity - note that the data is encoded in 
-base64. The top 10 results are shown.
+base64. The top 50 results are shown.
 The OpenAI API key is stored in the local storage of the browser with key `openai_api_key`, or asked from the user 
 with `prompt` if not found.
 

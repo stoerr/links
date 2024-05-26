@@ -15,7 +15,7 @@ description: {One sentence description of the webpage}
 
 # {title of the webpage}
 
-{url}
+[{url}]({url})
 
 ## Description
 
