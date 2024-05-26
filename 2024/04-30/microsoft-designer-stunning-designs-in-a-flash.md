@@ -1,6 +1,6 @@
 ---
 filename: microsoft-designer-stunning-designs-in-a-flash
-category: technology, design
+category: Design
 url: https://designer.microsoft.com/
 title: Microsoft Designer - Stunning designs in a flash
 description: A graphic design app that helps you create professional quality designs for social media posts, invitations, digital postcards, and more.

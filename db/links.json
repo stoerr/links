@@ -2,8 +2,8 @@
   {
     "filepath": "2024/02-11/wizardzine.md",
     "category": [
-      "productivity",
-      "development"
+      "Productivity",
+      "Development"
     ],
     "url": "https",
     "text": "# Wizard Zines\n\nhttps://wizardzines.com/comics/ \n\nAn entertaining set of tipps for programmers - with a surprising amount of useful\nnice little stuff you might not have heard about even as a seasoned SoftwareEngineer ."
@@ -49,8 +49,8 @@
   {
     "filepath": "2024/02-23/introducing-supermaven-code-completion.md",
     "category": [
-      "blog",
-      "code completion tool"
+      "Blog",
+      "Code Completion Tool"
     ],
     "url": "https",
     "title": "Supermaven",
@@ -256,8 +256,7 @@
   {
     "filepath": "2024/04-30/microsoft-designer-stunning-designs-in-a-flash.md",
     "category": [
-      "technology",
-      "design"
+      "Design"
     ],
     "url": "https",
     "title": "Microsoft Designer - Stunning designs in a flash",
@@ -334,9 +333,9 @@
   {
     "filepath": "2024/05-19/lobe-chat.md",
     "category": [
-      "open-source",
+      "Open-Source",
       "AI",
-      "chat framework"
+      "Chat"
     ],
     "url": "https",
     "title": "GitHub - lobehub/lobe-chat",
@@ -358,9 +357,8 @@
   {
     "filepath": "2024/05-26/h2ogpt-private-chat-with-local-gpt.md",
     "category": [
-      "chat",
-      "AI",
-      "private"
+      "Chat",
+      "AI"
     ],
     "url": "https",
     "title": "GitHub - h2oai/h2ogpt Private chat with local GPT with document,images,video,etc.",

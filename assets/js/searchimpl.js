@@ -1,5 +1,6 @@
 let links = [];
 let embeddings = [];
+let uniqueCategories = new Set();
 
 // Fetch JSON files on page load
 window.addEventListener('load', async () => {
@@ -12,6 +13,26 @@ window.addEventListener('load', async () => {
     // Decode base64 embeddings
     embeddings.forEach(embedding => {
         embedding.embedding = decodeBase64(embedding.embedding.encoded);
+    });
+
+    // Extract unique categories
+    links.forEach(link => {
+        link.category.forEach(cat => uniqueCategories.add(cat));
+    });
+
+    // Sort unique categories
+    uniqueCategories = Array.from(uniqueCategories).sort();
+
+    // Display category links
+    displayCategoryLinks();
+
+    // Add event listener to body for category links
+    document.body.addEventListener('click', event => {
+        if (event.target.classList.contains('category-link')) {
+            event.preventDefault();
+            const category = event.target.dataset.category;
+            displayCategoryResults(category);
+        }
     });
 });
 
@@ -39,13 +60,13 @@ async function triggerSearch(event) {
     // Sort results by similarity
     results.sort((a, b) => b.similarity - a.similarity);
 
-    displayResults(results.slice(0, 50), links);
+    displayResults(results.slice(0, 10), links);
 }
 
 async function getQueryEmbedding(query) {
     let apiKey = localStorage.getItem('openai_api_key');
     if (!apiKey || !apiKey.startsWith('sk-')) {
-        apiKey = prompt('Please enter an OpenAI API key - it will only be stored in your browsers local storage and used for embedding the queries:');
+        apiKey = prompt('Please enter your OpenAI API key:');
         if (apiKey) localStorage.setItem('openai_api_key', apiKey);
         else return;
     }
@@ -58,7 +79,7 @@ async function getQueryEmbedding(query) {
         },
         body: JSON.stringify({
             input: query,
-            model: 'text-embedding-3-large',
+            model: 'text-embedding-3-small',
             encoding_format: 'base64'
         })
     });
@@ -96,13 +117,53 @@ function displayResults(results, links) {
 
         const linkElement = document.createElement('div');
         linkElement.innerHTML = `
-            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[↗]</a></h2>
-            <p>${link.category.map(cat => `<a href="#">#${cat}</a>`).join(', ')}</p>
+            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[?]</a></h2>
+            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}</p>
             <details>
                 <summary>${link.text.split('\n')[2]}</summary>
                 <p>${link.text.split('\n').slice(3).join('<br>')}</p>
             </details>
         `;
         linksContainer.appendChild(linkElement);
+    });
+}
+
+function displayCategoryResults(category) {
+    const linksContainer = document.getElementById('links');
+    linksContainer.innerHTML = '';
+
+    const categoryLinks = links.filter(link => link.category.includes(category));
+    
+    categoryLinks.forEach(link => {
+        const linkUrl = link.filepath.replace('.md', '.html');
+
+        const linkElement = document.createElement('div');
+        linkElement.innerHTML = `
+            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[?]</a></h2>
+            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}"></a>`).join(', ')}</p>
+            <details>
+                <summary>${link.text.split('\n')[2]}</summary>
+                <p>${link.text.split('\n').slice(3).join('<br>')}</p>
+            </details>
+        `;
+        linksContainer.appendChild(linkElement);
+    });
+}
+
+function displayCategoryLinks() {
+    const categoriesContainer = document.querySelector('div#categories');
+    if (!categoriesContainer) return;
+
+    categoriesContainer.innerHTML = '';
+
+    uniqueCategories.forEach(category => {
+        const categoryElement = document.createElement('a');
+        categoryElement.href = '#';
+        categoryElement.classList.add('category-link');
+        categoryElement.dataset.category = category;
+        categoryElement.textContent = `#${category}`;
+        categoriesContainer.appendChild(categoryElement);
+        // add a space between categories
+        categoriesContainer.appendChild(document.createTextNode(' '));
     });
 }

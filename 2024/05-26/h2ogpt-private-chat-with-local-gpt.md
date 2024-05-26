@@ -1,6 +1,6 @@
 ---
 filename: h2ogpt-private-chat-with-local-gpt
-category: chat, AI, private
+category: Chat, AI
 url: https://github.com/h2oai/h2ogpt?tab=readme-ov-file#macos-cpum1m2-with-full-document-qa-capability
 title: GitHub - h2oai/h2ogpt Private chat with local GPT with document, images, video, etc.
 description: Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more.

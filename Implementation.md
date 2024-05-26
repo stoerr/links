@@ -104,6 +104,9 @@ base64. The top 50 results are shown.
 The OpenAI API key is stored in the local storage of the browser with key `openai_api_key`, or asked from the user 
 with `prompt` if not found.
 
+If a category link (e.g. #development) is clicked, only links with that category are shown. That replaces the search 
+result. In div#categories all categories are shown with links to the search result with that category.
+
 Example request for OpenAI embeddings API:
 
 ```bash

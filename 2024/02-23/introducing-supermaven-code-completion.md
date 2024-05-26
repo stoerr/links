@@ -1,6 +1,6 @@
 ---
 filename: introducing-supermaven
-category: blog, code completion tool
+category: Blog, Code Completion Tool
 url: https://supermaven.com/blog/introducing-supermaven
 title: Supermaven
 description: The fastest copilot. Supermaven uses a 300,000-token context window to provide the highest quality code completions.

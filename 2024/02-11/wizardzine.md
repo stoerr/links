@@ -1,6 +1,6 @@
 ---
 filename: wizardzine.md
-category: productivity, development
+category: Productivity, Development
 url: https://wizardzines.com/comics/
 ---
 
