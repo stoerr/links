@@ -97,8 +97,12 @@ texts:
 ## Web interface
 
 https://links.stoerr.net/ implements a search from the browser (index.md). That loads both db/links.json and
-db/embeddings.json into the browser. On search, it uses the OpenAI embeddings API to get the embeddings of the search
-and compares them to all embeddings in db/embeddings.json with cosine similarity. The top 10 results are shown.
+db/embeddings.json into the browser. Since both files are large, the fetched data has to be stored in a local variable. 
+On search, it uses the OpenAI embeddings API to get the embeddings of the search
+and compares them to all embeddings in db/embeddings.json with cosine similarity - note that the data is encoded in 
+base64. The top 10 results are shown.
+The OpenAI API key is stored in the local storage of the browser with key `openai_api_key`, or asked from the user 
+with `prompt` if not found.
 
 Example request for OpenAI embeddings API:
 
@@ -108,7 +112,7 @@ curl https://api.openai.com/v1/embeddings \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -d '{
     "input": "Your text string goes here",
-    "model": "text-embedding-3-small",
+    "model": "text-embedding-3-large",
     "encoding_format": "base64"
   }' > embed.txt
 ```
@@ -132,3 +136,17 @@ gives
   }
 }
 ```
+
+Result display:
+
+    ## [Some external link](2024/02-12/TheArtOfCodingACruelOptimism.md) [↗](https://medium.com/electronic-life/the-art-of-coding-a-cruel-optimism-59fc52571e91)
+    [#Category1](), [#Category2](),[#Category3]()
+    <details>
+    <summary>One sentence description bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla </summary>
+    <p>
+    bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla  
+    </p>
+    <p>
+    bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla  
+    </p>
+    </details>

@@ -5,7 +5,7 @@ url: https://lmstudio.ai/
 title: LM Studio - Discover, download, and run local LLMs
 description: LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs).
 
----{important: include this line to separate front matter from the content, but remove this comment}
+---
 
 # LM Studio - Discover, download, and run local LLMs
 

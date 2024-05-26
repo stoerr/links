@@ -4,7 +4,7 @@ category: AI, Machine Learning, Natural Language Processing
 url: https://sourcery.ai/blog/panel-of-experts/
 title: Better LLM Prompting using the Panel-of-Experts
 description: How roleplaying a panel discussion can improve LLM results
----{important: include this line to separate front matter from the content, but remove this comment}
+---
 
 # Better LLM Prompting using the Panel-of-Experts
 

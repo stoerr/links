@@ -6,7 +6,7 @@ url: https://twitter.com/rez0__/status/1758556246850896185
 title: Invisible Prompt Injection via Unicode Tags
 description: a way of unnoticedly injecting prompts into OpenAI's API
 
----{important: include this line to separate front matter from the content, but remove this comment}
+---
 
 # Invisible Prompt Injection via Unicode Tags
 

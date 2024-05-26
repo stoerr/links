@@ -4,7 +4,7 @@ category: GitHub, Maven Central, Java, CI/CD
 url: https://github.com/cometbid-sfi/test-gitaction-workflow
 title: GitHub - cometbid-sfi/test-gitaction-workflow: Test github action workflow and publishing to maven central
 description: Test github action workflow and publishing to maven central - cometbid-sfi/test-gitaction-workflow
----{important: include this line to separate front matter from the content, but remove this comment}
+---
 
 # GitHub - cometbid-sfi/test-gitaction-workflow
 

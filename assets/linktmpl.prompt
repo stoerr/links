@@ -10,7 +10,8 @@ category: {comma separated list of categories}
 url: {url to the webpage}
 title: {title of the webpage}
 description: {One sentence description of the webpage}
----{important: include this line to separate front matter from the content, but remove this comment}
+---
+{important: include the previous line with the --- separator to separate front matter from the content, but remove this comment}
 
 # {title of the webpage}
 
