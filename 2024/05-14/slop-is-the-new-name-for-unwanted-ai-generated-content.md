@@ -1,6 +1,6 @@
 ---
 filename: slop-is-the-new-name-for-unwanted-ai-generated-content
-category: technology, AI, ethics
+category: AI, Ethics
 url: https://simonwillison.net/2024/May/8/slop/
 title: Slop is the new name for unwanted AI-generated content
 description: A discussion on the term "slop" as a new name for unwanted AI-generated content.

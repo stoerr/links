@@ -60,7 +60,7 @@ async function triggerSearch(event) {
     // Sort results by similarity
     results.sort((a, b) => b.similarity - a.similarity);
 
-    displayResults(results.slice(0, 10), links);
+    displayResults(results.slice(0, 10));
 }
 
 async function getQueryEmbedding(query) {
@@ -106,44 +106,33 @@ function cosineSimilarity(vecA, vecB) {
     return dotProduct / (magnitudeA * magnitudeB);
 }
 
-function displayResults(results, links) {
-    const linksContainer = document.getElementById('links');
-    linksContainer.innerHTML = '';
+function displayResults(results) {
+    // map each result to links.find(link => link.filepath === result.id);
+    const resultLinks = results.map(result => links.find(link => link.filepath === result.id));
 
-    results.forEach(result => {
-        const link = links.find(link => link.filepath === result.id);
-
-        const linkUrl = link.filepath.replace('.md', '.html');
-
-        const linkElement = document.createElement('div');
-        linkElement.innerHTML = `
-            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[?]</a></h2>
-            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}</p>
-            <details>
-                <summary>${link.text.split('\n')[2]}</summary>
-                <p>${link.text.split('\n').slice(3).join('<br>')}</p>
-            </details>
-        `;
-        linksContainer.appendChild(linkElement);
-    });
+    displayLinks(resultLinks);
 }
 
 function displayCategoryResults(category) {
+    const categoryLinks = links.filter(link => link.category.includes(category));
+    displayLinks(categoryLinks);
+}
+
+function displayLinks(displayedLinks) {
     const linksContainer = document.getElementById('links');
     linksContainer.innerHTML = '';
 
-    const categoryLinks = links.filter(link => link.category.includes(category));
-    
-    categoryLinks.forEach(link => {
-        const linkUrl = link.filepath.replace('.md', '.html');
-
+    displayedLinks.forEach(link => {
+        const linkDescrUrl = link.filepath.replace('.md', '.html');
         const linkElement = document.createElement('div');
+        const summary = link.description ? link.description : link.text.split('\n')[2];
+        const text = link.description ? link.text : link.text.split('\n').slice(3).join('<br>');
         linkElement.innerHTML = `
-            <h2><a href="/${linkUrl}">${link.text.split('\n')[0]}</a> <a href="${link.url}">[?]</a></h2>
-            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}"></a>`).join(', ')}</p>
+            <h2><a href="/${linkDescrUrl}">${link.title}</a> <a href="${link.url}">[&#8599;]</a></h2>
+            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}</p>
             <details>
-                <summary>${link.text.split('\n')[2]}</summary>
-                <p>${link.text.split('\n').slice(3).join('<br>')}</p>
+                <summary>${summary}</summary>
+                <p>${text.split('\n').join('<br>')}</p>
             </details>
         `;
         linksContainer.appendChild(linkElement);

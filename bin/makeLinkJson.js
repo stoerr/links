@@ -22,7 +22,9 @@ async function parseMarkdownFile(filePath) {
         };
 
         lines.forEach(line => {
-            const [key, value] = line.split(':').map(part => part.trim());
+            const firstColonIndex = line.indexOf(':');
+            const key = line.slice(0, firstColonIndex).trim();
+            const value = line.slice(firstColonIndex + 1).trim();
             if (key && value) {
                 linkData[key] = value.replace(/, /g, ',');
             }

@@ -5,7 +5,9 @@
       "Productivity",
       "Development"
     ],
-    "url": "https",
+    "title": "Wizard Zines",
+    "description": "An entertaining set of tipps for programmers - with a surprising amount of useful nice little stuff you might not have heard about even as a seasoned SoftwareEngineer .",
+    "url": "https://wizardzines.com/comics/",
     "text": "# Wizard Zines\n\nhttps://wizardzines.com/comics/ \n\nAn entertaining set of tipps for programmers - with a surprising amount of useful\nnice little stuff you might not have heard about even as a seasoned SoftwareEngineer ."
   },
   {
@@ -17,7 +19,7 @@
       "Artificial Intelligence",
       "Code Generation"
     ],
-    "url": "https",
+    "url": "https://medium.com/electronic-life/the-art-of-coding-a-cruel-optimism-59fc52571e91",
     "title": "The Art of Coding - A Cruel Optimism?",
     "description": "An exploration into the potential and pitfalls of leveraging AI in the art of coding,particularly as a learning tool.",
     "text": "# The Art of Coding: A Cruel Optimism?\n\nhttps://medium.com/electronic-life/the-art-of-coding-a-cruel-optimism-59fc52571e91\n\n## Description\n\nAn exploration into the potential and pitfalls of leveraging AI in the art of coding, particularly as a learning tool.\n\n## Summary\n\n\"The Art of Coding: A Cruel Optimism?\" by Sunil Manghani narrates the creation and use of a custom GPT called *The Art of Coding*, designed as an AI assistant to teach coding. This tool targets individuals such as art professors interested in coding by offering explanations, feedback, and the ability to improve their Python programming skills. By leveraging the wealth of coding examples available, the AI demonstrates a natural proficiency in teaching coding, potentially revolutionizing software development by making it more accessible. The essay further discusses the broader implications of AI coding tools like GitHub Copilot and CodiumAI's AlphaCodium, pondering whether the ease and automation brought by such tools could undermine the quality and originality of coding.\n\nManghani draws on historical parallels such as Walter Benjamin's reflections on how photography changed art's nature and accessibility. Similarly, AI in coding could democratize the ability to program software, encouraging creativity and innovation outside traditional confines. However, the author also articulates concerns regarding 'cruel optimism,' a term by Lauren Berlant, highlighting the paradox where the pursuit of efficient coding through AI might hinder deep learning and understanding, leading to over-reliance and potential skill atrophy among programmers. The piece concludes by questioning if the initiative to make coding more accessible through AI assists in expanding creativity or if it inadvertently entrenches a dependency that could stifle the inherent artfulness and human insight in programming.\n\n// same thing as JSON:\n{\n    \"filename\": \"TheArtOfCodingACruelOptimism\",\n    \"category\": \"AI, Coding, Education, Artificial Intelligence, Code Generation\",\n    \"url\": \"https://medium.com/electronic-life/the-art-of-coding-a-cruel-optimism-59fc52571e91\"\n    \"title\": \"The Art of Coding: A Cruel Optimism?\"\n    \"description\": \"An exploration into the potential and pitfalls of leveraging AI in the art of coding, particularly as a learning tool.\"\n    \"summary\": \"The Art of Coding: A Cruel Optimism? by Sunil Manghani narrates the creation and use of a custom GPT called The Art of Coding, designed as an AI assistant to teach coding. This tool targets individuals such as art professors interested in coding by offering explanations, feedback, and the ability to improve their Python programming skills. By leveraging the wealth of coding examples available, the AI demonstrates a natural proficiency in teaching coding, potentially revolutionizing software development by making it more accessible. The essay further discusses the broader implications of AI coding tools like GitHub Copilot and CodiumAI's AlphaCodium, pondering whether the ease and automation brought by such tools could undermine the quality and originality of coding. Manghani draws on historical parallels such as Walter Benjamin's reflections on how photography changed art's nature and accessibility. Similarly, AI in coding could democratize the ability to program software, encouraging creativity and innovation outside traditional confines. However, the author also articulates concerns regarding 'cruel optimism,' a term by Lauren Berlant, highlighting the paradox where the pursuit of efficient coding through AI might hinder deep learning and understanding, leading to over-reliance and potential skill atrophy among programmers. The piece concludes by questioning if the initiative to make coding more accessible through AI assists in expanding creativity or if it inadvertently entrenches a dependency that could stifle the inherent artfulness and human insight in programming.\"\n}"
@@ -30,7 +32,7 @@
       "Cheat Sheets",
       "Solutions"
     ],
-    "url": "https",
+    "url": "https://github.com/paulrohrbeck/aem-links",
     "title": "GitHub - paulrohrbeck/aem-links - Adobe Experience Manager links,cheat sheets and solutions to common problems.",
     "description": "Curated list of links,cheat sheets,and solutions to common problems for Adobe Experience Manager (AEM).",
     "text": "# GitHub - paulrohrbeck/aem-links: Adobe Experience Manager links, cheat sheets and solutions to common problems.\n\nhttps://github.com/paulrohrbeck/aem-links\n\n## Description\n\nCurated list of links, cheat sheets, and solutions to common problems for Adobe Experience Manager (AEM).\n\n## Summary\n\nThe GitHub repository \"paulrohrbeck/aem-links\" serves as a comprehensive resource hub for Adobe Experience Manager (AEM). It includes a meticulously compiled collection of links, cheat sheets, and solutions to tackle common problems encountered in AEM. Developed and maintained by Paul Rohrbeck, this repository aims to assist AEM developers, architects, and administrators by providing quick access to a wide range of valuable resources.\n\nThis repository covers various aspects of AEM, including component development, project planning, environment setup, and best practices. Among its contents, users can find detailed cheat sheets on topics such as HTL/Sightly, Core Components, Sling models, and Oak queries. It also provides links to external resources like official AEM documentation, community forums, and Adobe's technical blogs, which are essential for anyone working with Adobe's enterprise content management system.\n\nBeyond AEM-specific resources, \"paulrohrbeck/aem-links\" offers guidance on related technologies and tools like Dispatcher configuration, Sling Apache, and Maven project setup. By aggregating these resources in one accessible place, it streamlines the learning and development process for AEM practitioners, making it an invaluable reference for both newcomers and experienced professionals."
@@ -41,7 +43,7 @@
       "User Manual",
       "Instructions"
     ],
-    "url": "https",
+    "url": "https://downloadcenter.samsung.com/content/MC/201806/20180607135149892/DE/Ger/start_here.html",
     "title": "Benutzerhandbuch Samsung Galaxy S7 (SM-G930F)",
     "description": "User manual for Samsung Samsung Galaxy S7 (SM-G930F) in German.",
     "text": "# Benutzerhandbuch Samsung Galaxy S7 (SM-G930F)\n\nhttps://downloadcenter.samsung.com/content/MC/201806/20180607135149892/DE/Ger/start_here.html\n\n## Description\n\nUser manual for Samsung Samsung Galaxy S7 (SM-G930F) in German.\n\n## Summary\n\nThe webpage provides a user manual for Samsung device Samsung Galaxy S7 (SM-G930F) in German. It includes chapters on\nbasic information,\napplications, settings, and the appendix. Users can access further information by clicking on the provided links or\nicons. The page is designed for easy navigation and access to detailed instructions for Samsung device users. The manual\ncovers essential topics for users to maximize their experience with Samsung devices."
@@ -52,7 +54,7 @@
       "Blog",
       "Code Completion Tool"
     ],
-    "url": "https",
+    "url": "https://supermaven.com/blog/introducing-supermaven",
     "title": "Supermaven",
     "description": "The fastest copilot. Supermaven uses a 300,000-token context window to provide the highest quality code completions.",
     "text": "# Supermaven\n\nhttps://supermaven.com/blog/introducing-supermaven\n\n## Description\n\nThe fastest copilot. Supermaven uses a 300,000-token context window to provide the highest quality code completions.\n\n## Summary\n\nSupermaven is a code completion tool that differentiates itself by offering a 300,000-token context window for more accurate suggestions. It addresses the limitations of other tools like Copilot by efficiently integrating information across a long context window, resulting in better completions even for complex and unique codebases.\n\nThe tool is designed to be fast and responsive, with custom infrastructure to handle large codebases while maintaining low latency. Supermaven also stands out by focusing on sequences of edits rather than just files, allowing it to quickly understand and assist with code refactoring tasks. Users can try Supermaven for themselves and provide feedback on its performance.\n\nOverall, Supermaven aims to provide a competitive alternative in the AI-powered code completion space, offering a unique approach to handling large context windows and delivering accurate suggestions based on user edits and repositories."
@@ -63,7 +65,7 @@
       "Technology",
       "Social Media"
     ],
-    "url": "https",
+    "url": "https://twitter.com/rez0__/status/1758556246850896185",
     "title": "Invisible Prompt Injection via Unicode Tags",
     "description": "a way of unnoticedly injecting prompts into OpenAI's API",
     "text": "# Invisible Prompt Injection via Unicode Tags\n\nhttps://twitter.com/rez0__/status/1758556246850896185\n\n## Description\n\nIt's possible to inject prompts into OpenAI's API by using invisible unicode tags. This can be used to inject prompts into the API without the user noticing.\n\ndef convert_from_tag_chars(tagged_string):     return ''.join(chr(ord(ch) - 0xE0000) for ch in tagged_string if 0xE0061 <= ord(ch) <= 0xE007A)  tagged_input = input(\"Enter a string of tagged characters to convert to ASCII: \") ascii_output = convert_from_tag_chars(tagged_input) print(\"ASCII output:\", ascii_output)"
@@ -74,7 +76,7 @@
       "Technology",
       "Social Media"
     ],
-    "url": "https",
+    "url": "https://twitter.com/nisten/status/1760745075712381018",
     "title": "JavaScript Disabled on Twitter",
     "description": "Teaching calculus with deep fakes",
     "text": "# Teaching calculus with deep fakes\n\nhttps://twitter.com/nisten/status/1760745075712381018"
@@ -86,7 +88,7 @@
       "Coding",
       "AEM"
     ],
-    "url": "https",
+    "url": "https://medium.com/@jlanssie/create-a-custom-workflow-model-in-aem-with-a-full-code-coverage-unit-test-4178b2263b81",
     "title": "Create a custom Workflow Model in AEM and add full code coverage with a Unit Test",
     "description": "Set up a custom Workflow Model in AEM that can be used by an Author to create Workflows in AEM's Touch UI and ensure full code coverage with a Unit Test.",
     "text": "# Create a custom Workflow Model in AEM and add full code coverage with a Unit Test\n\nhttps://medium.com/@jlanssie/create-a-custom-workflow-model-in-aem-with-a-full-code-coverage-unit-test-4178b2263b81\n\n## Description\n\nSet up a custom Workflow Model in AEM that can be used by an Author to create Workflows in AEM's Touch UI and ensure full code coverage with a Unit Test.\n\n## Summary\n\nIn this detailed guide, the author explains how to create a custom Workflow Model in AEM using Java classes and annotations. The tutorial covers setting up the Workflow Model, fetching and adapting payload data, and creating a helper method to set property values.\n\nThe tutorial also includes a section on writing Unit Tests for the Workflow Model using AemContext and Mockito for mocking objects. It provides detailed steps to verify the workflow with and without arguments, manage sessions, and handle exceptions.\n\nThe final part of the tutorial guides you through setting up the workflow in AEM's Touch UI, launching the workflow, and verifying the results in CRX/DE. This comprehensive guide is a great resource for AEM developers looking to create custom Workflow Models with full code coverage Unit Tests."
@@ -98,7 +100,7 @@
       "Customization",
       "UI Development"
     ],
-    "url": "https",
+    "url": "https://medium.com/@vsr061/create-custom-aem-menu-tools-with-granite-ui-shell-53c56e435f8a",
     "title": "Create Custom AEM Menu Tools with Granite UI Shell",
     "description": "Customize AEM with Custom Menu Tools",
     "text": "# Create Custom AEM Menu Tools with Granite UI Shell\n\nhttps://medium.com/@vsr061/create-custom-aem-menu-tools-with-granite-ui-shell-53c56e435f8a\n\n## Description\n\nCustomize AEM with Custom Menu Tools\n\n## Summary\n\nThe article discusses how to create custom menu tools in AEM using Granite UI Shell. It covers concepts like Sling Resource Merger and Granite UI to customize AEM. The author explains the process of overlaying AEM Tools nodes, creating custom nodes, and developing a landing page using Granite UI components. The tutorial provides insights into structuring the nodes, properties to add for menu items and tools, and the use of Granite Shell Page for rendering. The article is a helpful guide for developers looking to enhance and customize AEM menus with their own tools."
@@ -110,7 +112,7 @@
       "Front End Development",
       "Coral UI"
     ],
-    "url": "https",
+    "url": "https://medium.com/@vsr061/develop-front-end-components-with-aem-coral-ui-2da905096cce",
     "title": "Develop Front End Components with AEM Coral UI | by Viraj Rane | Medium",
     "description": "Coral UI is a library of touch-first web components,used to ease the work of a front end developer.",
     "text": "# Develop Front End Components with AEM Coral UI | by Viraj Rane | Medium\n\nhttps://medium.com/@vsr061/develop-front-end-components-with-aem-coral-ui-2da905096cce\n\n## Description\n\nCoral UI is a library of touch-first web components, used to ease the work of a front end developer.\n\n## Summary\n\nCoral UI provides simple and responsive components to maintain platform uniformity in AEM. The article discusses how to add custom components using Coral UI, like buttons and drop-downs, by leveraging client-side JS and integrating with AEM's existing structure.\n\nThe tutorial guides on adding buttons to the AEM Inbox action bar, explaining steps to create clientlibs, utilize Coral UI's library, and customize interactions for a seamless user experience. The use of Coral UI ensures consistency and eases the development process in AEM for front end components.\n\nViraj Rane, a Full Stack AEM Developer and Tech Enthusiast, shares insights on utilizing Coral UI for AEM front end development, emphasizing code management and component uniformity across the platform."
@@ -121,7 +123,7 @@
       "AEM",
       "Development"
     ],
-    "url": "https",
+    "url": "https://medium.com/@jlanssie/how-to-create-a-custom-tool-in-aem-78d14c1f66d5",
     "title": "How to create a custom Tool in AEM | by Jeremy Lanssiers | Medium",
     "description": "We set up a custom tool in AEM’s Tool section for creating site-wide functionalities.",
     "text": "# How to create a custom Tool in AEM\n\nhttps://medium.com/@jlanssie/how-to-create-a-custom-tool-in-aem-78d14c1f66d5\n\n## Description\n\nWe set up a custom tool in AEM’s Tool section. This is useful for creating site-wide functionalities that do not fit in a component.\n\n## Summary\n\nIn this guide, Jeremy Lanssiers explains how to create a custom tool in AEM by overlaying standard libraries and creating specific XML files. The process involves setting up the workspace filter, creating XML files for the tool entry, and designing a Granite UI dialog page for the tool. The tutorial also covers creating packages for client-side interactions and providing a step-by-step approach to creating an interactive AEM tool. This comprehensive walkthrough helps developers understand the process of creating custom tools in AEM."
@@ -132,7 +134,7 @@
       "AI",
       "Prompt Testing"
     ],
-    "url": "https",
+    "url": "https://reprompt.dev/",
     "title": "Reprompt - Prompt testing made simple",
     "description": "Reprompt helps developers test and optimize AI prompts quickly and efficiently.",
     "text": "# Reprompt - Prompt testing made simple\n\nhttps://reprompt.dev/\n\n## Description\n\nReprompt helps developers test and optimize AI prompts quickly and efficiently.\n\n## Summary\n\nReprompt is a tool that enables developers to save time testing their prompts, allowing them to generate multiple responses, analyze errors, and improve their LLM apps with ease. It offers features such as collaborative prompt testing, real-time trading, data-driven decision-making, and strong security standards. With Reprompt, developers can speed up their debugging process, analyze more data in less time, and have confidence in their prompt changes by comparing with previous versions. Sign up now to streamline your prompt testing process."
@@ -144,8 +146,8 @@
       "LLM",
       "AI"
     ],
-    "url": "https",
-    "title": "Semgrep",
+    "url": "https://choly.ca/post/semgrep-autofix-llm/",
+    "title": "Semgrep: AutoFixes using LLMs",
     "description": "Explore how Semgrep can be used for AutoFixes with Large Language Models (LLMs).",
     "text": "# Semgrep: AutoFixes using LLMs\n\nhttps://choly.ca/post/semgrep-autofix-llm/\n\n## Description\n\nExplore how Semgrep can be used for AutoFixes with Large Language Models (LLMs).\n\n## Summary\n\nSemgrep is a powerful tool for searching code using Abstract Syntax Trees (AST), allowing users to define patterns to match against code. Not only does Semgrep search using patterns, but it also supports rewriting matches with the built-in autofix feature, making it a comprehensive tool for code analysis and correction.\n\nThe article delves into the concept of fixing Semgrep matches using a Large Language Model (LLM), where each match is fed into the LLM and replaced with the response. The author introduces \"semgrepx,\" a tool that serves as \"xargs for Semgrep,\" to facilitate rewriting matches using LLMs. By utilizing this approach, the author provides insights on improving the task by matching a larger expression than necessary and leveraging the LLM's features effectively.\n\nThe author also shares practical examples and notes on utilizing the autofix feature in Semgrep and experimenting with different Large Language Models for better performance in code corrections, such as Anthropic's Claude 3 Opus model. Overall, the article offers a unique perspective on combining Semgrep with LLMs for efficient auto-fixing in code analysis and refactoring processes."
   },
@@ -155,7 +157,7 @@
       "AI",
       "LLM"
     ],
-    "url": "https",
+    "url": "https://hamel.dev/blog/posts/evals/",
     "title": "Your AI Product Needs Evals",
     "description": "How to construct domain-specific LLM evaluation systems.",
     "text": "# Your AI Product Needs Evals\n\nhttps://hamel.dev/blog/posts/evals/\n\n## Description\n\nHow to construct domain-specific LLM evaluation systems.\n\n## Summary\n\nThis blog post discusses the importance of having robust evaluation systems for AI products, specifically focusing on language models. The author shares insights and experiences from working with language models over the years, highlighting the common pitfalls in building AI products without proper evaluation systems.\n\nThe post discusses different levels of evaluation, from unit tests to human and model evaluations, and emphasizes the importance of rigorous evaluation for AI products. The author also provides practical tips and examples, such as creating test cases, logging traces, and automating evaluation processes.\n\nOverall, the post serves as a guide for building effective evaluation systems for AI products, showcasing how evaluation systems can drive rapid iteration and improvement in AI products."
@@ -167,7 +169,7 @@
       "AI",
       "Programming"
     ],
-    "url": "https",
+    "url": "https://simonw.substack.com/p/building-files-to-prompt-entirely",
     "title": "Building files-to-prompt entirely using Claude 3 Opus",
     "description": "Plus \"llm cmd\" and running OCR against PDFs and images directly in your browser",
     "text": "# Building files-to-prompt entirely using Claude 3 Opus\n\nhttps://simonw.substack.com/p/building-files-to-prompt-entirely\n\n## Description\n\nPlus \"llm cmd\" and running OCR against PDFs and images directly in your browser\n\n## Summary\n\nIn this newsletter, Simon Willison discusses building a tool called files-to-prompt using Claude 3 Opus. This tool allows piping several files at once into prompts for use with LLMs like Claude and GPT-4. Starting with a Click app cookiecutter template, Simon builds and refines the functionality of the tool, delegating code writing tasks to the Claude 3 Opus model. The newsletter also covers enhancements made to the tool, involving additional features and automated testing with LLMs. Additionally, there is a discussion on using ChatGPT Plus for similar automation tasks in file processing workflows."
@@ -180,8 +182,8 @@
       "Java",
       "CI/CD"
     ],
-    "url": "https",
-    "title": "GitHub - cometbid-sfi/test-gitaction-workflow",
+    "url": "https://github.com/cometbid-sfi/test-gitaction-workflow",
+    "title": "GitHub - cometbid-sfi/test-gitaction-workflow: Test github action workflow and publishing to maven central",
     "description": "Test github action workflow and publishing to maven central - cometbid-sfi/test-gitaction-workflow",
     "text": "# GitHub - cometbid-sfi/test-gitaction-workflow\n\nhttps://github.com/cometbid-sfi/test-gitaction-workflow\n\n## Description\n\nTest github action workflow and publishing to maven central\n\n## Summary\n\nThe webpage provides detailed instructions on how to publish artifacts to Maven Central using GitHub Actions. It covers setting up the project's pom.xml file, including required information like licenses, developers, SCM, adding plugins for source and javadoc attachments, signing artifacts with GPG keys, creating Sonatype JIRA account, setup steps, CI/CD workflow with GitHub Actions, and the deployment process. The content also emphasizes the importance of having a separate Maven profile for deployment, setting up GPG keys, and securely managing credentials. The approach aims to automate the build, sign, and deploy process to Maven Central repositories efficiently and securely."
   },
@@ -192,7 +194,7 @@
       "Writing",
       "Productivity"
     ],
-    "url": "https",
+    "url": "https://typegear.ai/",
     "title": "typegear.ai – write smarter,not harder",
     "description": "AI-powered writing tool to enhance text editing and productivity.",
     "text": "# typegear.ai – write smarter, not harder\n\nhttps://typegear.ai/\n\n## Description\n\nAI-powered writing tool designed to enhance text editing and productivity.\n\n## Summary\n\ntypegear.ai is an AI-powered writing tool that allows users to effortlessly enhance their written text with ready-made presets. Whether you are a blogger, journalist, copywriter, student, or business professional, typegear.ai can help you improve your writing skills and simplify complex text. With features like spell-check, grammar-check, professional text editing, and personalized preset options, typegear.ai offers a seamless and user-friendly experience that can boost productivity and accuracy in writing tasks. With multi-language support and vast preset options, typegear.ai is a versatile tool for anyone looking to create high-quality written content efficiently."
@@ -202,7 +204,7 @@
     "category": [
       "DevOps"
     ],
-    "url": "https",
+    "url": "https://martinheinz.dev/blog/110",
     "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
     "description": "If you work in shell/terminal often enough,then over time the history will become your personal knowledge vault,documentation and command reference.",
     "text": "# Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog\n\nhttps://martinheinz.dev/blog/110\n\n## Description\n\nIf you work in shell/terminal often enough, then over time the history will become your personal knowledge vault, documentation and command reference.\n\n## Summary\n\nThe article discusses various configuration options to optimize shell history in ZSH for improved productivity. It covers setting up history saving, ignoring certain commands, timestamps, fuzzy search, searching history efficiently using keybindings, synchronization across workstations, and more. By efficiently utilizing the shell history, users can turn it into a valuable tool for enhancing their productivity."
@@ -213,7 +215,7 @@
       "Technology",
       "Git"
     ],
-    "url": "https",
+    "url": "https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/",
     "title": "Use an llm to automagically generate meaningful git commit messages | Harper Reed's Blog",
     "description": "Learn how to use AI to automatically generate meaningful Git commit messages using an llm CLI and git hooks.",
     "text": "# Use an llm to automagically generate meaningful git commit messages | Harper Reed's Blog\n\nhttps://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/\n\n## Description\n\nI've transformed my git commit process by using an AI to automatically generate meaningful messages. This setup involves a nifty integration of the llm CLI and git hooks, saving me time.\n\n## Summary\n\nThe blog post discusses using an llm CLI to generate meaningful Git commit messages automatically. By setting up git hooks and prompts, the author enables the AI to create informative commit messages based on the changes made. The post provides detailed steps on setting up the system prompt, creating hooks, and configuring Git to utilize the automated commit message generation. Overall, the implementation helps streamline the commit process and ensures consistent and descriptive messages for each commit made."
@@ -225,7 +227,7 @@
       "Conversational AI",
       "Compound AI Systems"
     ],
-    "url": "https",
+    "url": "https://medium.com/@raunak-jain/design-patterns-for-compound-ai-systems-copilot-rag-fa911c7a62e0",
     "title": "Design Patterns for Compound AI Systems (Conversational AI,CoPilots & RAG)",
     "description": "How to build configurable flows and compound AI systems using open source tools.",
     "text": "# Design Patterns for Compound AI Systems (Conversational AI, CoPilots & RAG)\n\nhttps://medium.com/@raunak-jain/design-patterns-for-compound-ai-systems-copilot-rag-fa911c7a62e0\n\n## Description\n\nHow to build configurable flows and compound AI systems using open source tools.\n\n## Summary\n\nResearchers at Berkeley discussed the shift towards Compound AI Systems, highlighting the evolution of complex pipelines and the importance of components working together. Common deployment patterns like RAG (retrieval and understanding is key), Multi-Agent Problem Solvers, Conversational AI, and CoPilots were explored. Compound AI systems are interconnected modules relying on each other to execute design patterns effectively.\n\nMulti-Agent designs offer benefits like separation of concerns, modularity, diversity, and reusability. The GPT Pilot project showcased layered communication among agents with complex prompt engineering techniques. The fine-tuning of agents is crucial for cost reduction and improved accuracy in CoPilot systems."
@@ -236,7 +238,7 @@
       "Technology",
       "Machine Learning"
     ],
-    "url": "https",
+    "url": "https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f",
     "title": "50+ Open-Source Options for Running LLMs Locally | by Vince Lam | The Deep Hub | Mar,2024 | Medium",
     "description": "A comprehensive list of open-source options for running Large Language Models (LLMs) locally.",
     "text": "# 50+ Open-Source Options for Running LLMs Locally\n\nhttps://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f\n\n## Description\n\nA comprehensive list of open-source options for running Large Language Models (LLMs) locally.\n\n## Summary\n\nIn this article, the author discusses the benefits of using locally hosted open weights LLMs, such as data privacy and cost savings. By utilizing free models and occasionally switching to GPT-4, significant savings were achieved. The post is divided into sections covering all-in-one desktop solutions, LLM inference via the CLI and backend API servers, and front-end UIs for connecting to LLM backends.\n\nVarious open-source tools and repositories for hosting open weights LLMs locally are highlighted, including desktop solutions like GPT4All and LM Studio alternatives like Jaan. CLI tools like llama.cpp and Ollama are discussed for local inference, along with front-end UIs such as Open WebUI and Lobe Chat for enhanced user interactions. The article provides insights into each tool's features and recommendations based on user experience and community engagement.\n\nOverall, the author recommends using tools like Ollama and Jan for local LLM inference, depending on user preferences. The article serves as a valuable resource for individuals looking to explore AI technologies locally and optimize their LLM usage for various tasks."
@@ -248,7 +250,7 @@
       "AI",
       "Software"
     ],
-    "url": "https",
+    "url": "https://lmstudio.ai/",
     "title": "LM Studio - Discover,download,and run local LLMs",
     "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs).",
     "text": "# LM Studio - Discover, download, and run local LLMs\n\nhttps://lmstudio.ai/\n\n## Description\n\nLM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs).\n\n## Summary\n\nLM Studio is a desktop application that allows users to experiment with local and open-source Large Language Models (LLMs). The app provides a simple yet powerful model configuration and inferencing user interface, enabling users to download and run any ggml-compatible model from Hugging Face. Additionally, LM Studio leverages the GPU when possible, enhancing the performance of model processing.\n\nThe website for LM Studio highlights its functionality, emphasizing the ease of discovering, downloading, and experimenting with local LLMs. With a focus on enabling users to work with LLMs in a seamless and efficient manner, LM Studio serves as a valuable tool for those interested in exploring and utilizing Large Language Models for various tasks. While JavaScript is required to run the app, LM Studio offers a convenient solution for individuals looking to engage with LLMs on their local machines."
@@ -258,7 +260,7 @@
     "category": [
       "Design"
     ],
-    "url": "https",
+    "url": "https://designer.microsoft.com/",
     "title": "Microsoft Designer - Stunning designs in a flash",
     "description": "A graphic design app that helps you create professional quality designs for social media posts,invitations,digital postcards,and more.",
     "text": "# Microsoft Designer - Stunning designs in a flash\n\nhttps://designer.microsoft.com/\n\n## Description\n\nA graphic design app that helps you create professional quality designs for social media posts, invitations, digital\npostcards, and more.\n\n## Summary\n\nMicrosoft Designer offers a platform for creating stunning designs quickly and efficiently, catering to various needs\nsuch as social media posts, invitations, digital postcards,\nsocial media banners, graphics etc.. With this graphic design app, users can bring their creative ideas to life and\nproduce unique and professional-looking content. However, to utilize this app, enabling JavaScript is necessary to\nensure smooth functionality and optimal user experience."
@@ -269,7 +271,7 @@
       "Technology",
       "Development"
     ],
-    "url": "https",
+    "url": "https://simonwillison.net/2024/Apr/8/files-to-prompt/",
     "title": "Building files-to-prompt entirely using Claude 3 Opus",
     "description": "Discover how Simon Willison built the files-to-prompt tool using Claude 3 Opus to streamline the development process.",
     "text": "# Building files-to-prompt entirely using Claude 3 Opus\n\nhttps://simonwillison.net/2024/Apr/8/files-to-prompt/\n\n## Description\n\nSimon Willison shares his experience of building the files-to-prompt tool using Claude 3 Opus to automate the development process.\n\n## Summary\n\nSimon Willison used a combination of files-to-prompt and LLM command-line tools to efficiently build and test the software. By leveraging Claude 3 Opus, he accelerated the development process and added features like .gitignore support. The tool's low stakes nature made it ideal for experimenting with this alternative development approach. Willison highlights the benefits and challenges of using LLMs for code generation and shares his successful experience in upgrading other projects using the same pattern."
@@ -279,7 +281,7 @@
     "category": [
       "Code"
     ],
-    "url": "https",
+    "url": "https://ib.bsb.br/cat-files",
     "title": "cat files contents [script] — infoBAG",
     "description": "A script that extracts text from files in a specified directory,concatenates them,and saves the result.",
     "text": "# cat files contents [script] — infoBAG\n\nhttps://ib.bsb.br/cat-files\n\n## Description\n\nA script that extracts text from files in a specified directory, concatenates them, and saves the result.\n\n## Summary\n\nThe script starts by defining directories and supported file types. It then processes individual files based on their types, converting them to text if needed. Unsupported file types are processed using the 'cat' command. The script checks for textual output and appends the results to the final concatenated file. Once all files are processed, temporary files are cleaned up, and the process is completed successfully."
@@ -287,11 +289,10 @@
   {
     "filepath": "2024/05-14/slop-is-the-new-name-for-unwanted-ai-generated-content.md",
     "category": [
-      "technology",
       "AI",
-      "ethics"
+      "Ethics"
     ],
-    "url": "https",
+    "url": "https://simonwillison.net/2024/May/8/slop/",
     "title": "Slop is the new name for unwanted AI-generated content",
     "description": "A discussion on the term \"slop\" as a new name for unwanted AI-generated content.",
     "text": "# Slop is the new name for unwanted AI-generated content\n\nhttps://simonwillison.net/2024/May/8/slop/\n\n## Description\n\nA discussion on the term \"slop\" as a new name for unwanted AI-generated content.\n\n## Summary\n\nThe author explores the concept of \"slop\" as a term for undesired content generated by AI tools. Drawing parallels to how \"spam\" became associated with unwanted emails, the term \"slop\" is proposed for unreviewed AI-generated content shared without consent. The author emphasizes personal AI ethics and the importance of not producing or sharing slop. The article also introduces the term \"slom\" for AI-generated spam, sparking a conversation around AI ethics and content generation practices."
@@ -301,7 +302,7 @@
     "category": [
       "Blog"
     ],
-    "url": "https",
+    "url": "https://simonwillison.net/2023/Aug/27/wordcamp-llms/",
     "title": "Making Large Language Models work for you",
     "description": "Simon Willison's blog post about his keynote at WordCamp 2023 on Large Language Models.",
     "text": "# Making Large Language Models work for you\n\nhttps://simonwillison.net/2023/Aug/27/wordcamp-llms/\n\n## Description\n\nSimon Willison's blog post about his keynote at WordCamp 2023 on Large Language Models.\n\n## Summary\n\nSimon Willison gave an invited keynote at WordCamp 2023 in Maryland, focusing on Large Language Models. He provided a practical take on what Large Language Models are, how they work, and what can be accomplished with them. The post touches on various topics related to these models, such as their potential applications, the open source movement around them, and challenges like prompt injection. Willison emphasizes the importance of accessibility and control over technology, envisioning a future where more people can leverage computers effectively."
@@ -309,12 +310,11 @@
   {
     "filepath": "2024/05-16/continue-dev.md",
     "category": [
-      "technology",
-      "development",
+      "Development",
       "AI"
     ],
-    "url": "https",
-    "title": "Continue",
+    "url": "https://www.continue.dev/",
+    "title": "Continue.Dev - Open-source IDE extensions for creating modular AI software development systems",
     "description": "Open-source IDE extensions for creating modular AI software development systems.",
     "text": "# Continue\n\nhttps://www.continue.dev/\n\n## Description\n\nOpen-source IDE extensions for creating modular AI software development systems, for VSCode and IntelliJ IDEA.\n\n## Summary\n\nContinue is a platform that helps developers stay in flow by removing barriers that block productivity when building software. Their open-source IDE extensions allow users to easily create their own modular AI software development system that can be improved over time. With features like code completion, referencing, and code rewriting from natural language, Continue aims to accelerate development and empower developers to become leaders in AI. The platform is designed to seamlessly integrate with various programming languages and contexts, making it a versatile tool for customizing and optimizing AI development. Additionally, Continue Enterprise offers enhanced capabilities for engineering teams to use and improve their AI software development systems, ultimately driving innovation and efficiency in the development process."
   },
@@ -325,8 +325,8 @@
       "AI",
       "Software"
     ],
-    "url": "https",
-    "title": "LobeHub - LobeChat",
+    "url": "https://lobehub.com/",
+    "title": "LobeHub - LobeChat: Personal LLM productivity tool,surpassing the ChatGPT / OLLaMA user experience",
     "description": "LobeChat brings you the best user experience of ChatGPT,OLLaMA,Gemini,Claude WebUI",
     "text": "# LobeHub - LobeChat: Personal LLM productivity tool, surpassing the ChatGPT / OLLaMA user experience\n\nhttps://lobehub.com/\n\n## Description\n\nLobeChat brings you the best user experience of ChatGPT, OLLaMA, Gemini, Claude WebUI\n\n## Summary\n\nLobeHub offers LobeChat, a personal LLM productivity tool that surpasses the user experience of ChatGPT and OLLaMA. LobeChat provides Engineer Assistant functionalities tailored to personal desires, aimed at boosting productivity and navigating the frontier of workflow. Users can build their AI assistant and professional team, enhancing creative ventures, writing projects, learning journeys, and career tasks. LobeChat also offers a variety of features such as text-to-image, text-to-speech, plugins, and multi-models, providing a comprehensive AI-powered experience for users. Additionally, upcoming features include Sora Video Generation support, group chat, enhanced search capabilities, and more modality support. LobeHub aims to empower users to achieve their AI dreams through innovative tools and features."
   },
@@ -337,8 +337,8 @@
       "AI",
       "Chat"
     ],
-    "url": "https",
-    "title": "GitHub - lobehub/lobe-chat",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "title": "GitHub - lobehub/lobe-chat: 🤯 Lobe Chat - an open-source,modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ),Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
     "description": "🤯 Lobe Chat - an open-source,modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ),Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
     "text": "# GitHub - lobehub/lobe-chat: 🤯 Lobe Chat\n\n[https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)\n\n## Description\n\n🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.\n\n## Summary\n\nThe GitHub repository for Lobe Chat provides an open-source chat framework that integrates various AI providers such as OpenAI, Claude 3, Gemini, and more. It supports multi-modals like Vision and TTS, along with a plugin system for customization. The framework allows for easy deployment of private ChatGPT chat applications with just one click."
   },
@@ -349,7 +349,7 @@
       "Machine Learning",
       "Natural Language Processing"
     ],
-    "url": "https",
+    "url": "https://sourcery.ai/blog/panel-of-experts/",
     "title": "Better LLM Prompting using the Panel-of-Experts",
     "description": "How roleplaying a panel discussion can improve LLM results",
     "text": "# Better LLM Prompting using the Panel-of-Experts\n\nhttps://sourcery.ai/blog/panel-of-experts/\n\n## Description\n\nHow roleplaying a panel discussion can improve LLM results\n\n## Summary\n\nThe blog post discusses how roleplaying a panel discussion can improve the performance of Large Language Models (LLMs) by using the Panel-of-Experts approach. It presents the limitations of Chain-of-Thought prompting and the transition to the Panel-of-Experts method to enhance the ability of LLMs to handle complex tasks. The author shares insights into the implementation of the Panel-of-Experts approach, including unit tests, modified prompts, and the impact on error rates. The post concludes with considerations on cost and the significant performance boost achieved with this approach."
@@ -360,7 +360,7 @@
       "Chat",
       "AI"
     ],
-    "url": "https",
+    "url": "https://github.com/h2oai/h2ogpt?tab=readme-ov-file#macos-cpum1m2-with-full-document-qa-capability",
     "title": "GitHub - h2oai/h2ogpt Private chat with local GPT with document,images,video,etc.",
     "description": "Private chat with local GPT with document,images,video,etc. 100% private,Apache 2.0. Supports oLLaMa,Mixtral,llama.cpp,and more.",
     "text": "# GitHub - h2oai/h2ogpt: Private chat with local GPT with document, images, video, etc.\n\nhttps://github.com/h2oai/h2ogpt?tab=readme-ov-file#macos-cpum1m2-with-full-document-qa-capability\n\n## Description\n\nPrivate chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more.\n\n## Summary\n\nThe GitHub repository h2oai/h2ogpt offers a private chat solution with a local GPT supporting documents, images, videos, and more. It guarantees privacy and is licensed under Apache 2.0. The chat system supports various features like oLLaMa, Mixtral, llama.cpp, and provides a demo link for users to explore further. With this tool, users can engage in chat conversations using local GPT technology while maintaining data privacy.\n\n---"
@@ -372,8 +372,8 @@
       "Web Development",
       "JavaScript"
     ],
-    "url": "https",
-    "title": "GitHub - xenova/transformers.js",
+    "url": "https://github.com/xenova/transformers.js",
+    "title": "GitHub - xenova/transformers.js: State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser,with no need for a server!",
     "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser,with no need for a server!",
     "text": "# GitHub - xenova/transformers.js: State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!\n\n[GitHub Repository Link](https://github.com/xenova/transformers.js)\n\n## Description\n\nState-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!\n\n## Summary\n\nTransformers.js is designed to be functionally equivalent to Hugging Face's transformers python library, allowing users to run pretrained models in the browser. The library supports common tasks in text processing, computer vision, audio, and multimodal applications. It uses ONNX Runtime to run models in the browser, offering the ability to convert pretrained PyTorch, TensorFlow, or JAX models to ONNX format. The README provides guidance on installation, usage, examples, and contributions to the project."
   },
@@ -383,7 +383,7 @@
       "AI",
       "Machine Learning"
     ],
-    "url": "https",
+    "url": "https://webllm.mlc.ai/",
     "title": "WebLLM | Home",
     "description": "High-Performance In-Browser LLM Serving Engine.",
     "text": "# WebLLM | Home\n\nhttps://webllm.mlc.ai/\n\n## Description\n\nHigh-Performance In-Browser LLM Serving Engine.\n\n## Summary\n\nWebLLM is a project aimed at bringing diversity to the ecosystem of generative AI and LLMs by enabling the direct running of language models inside a browser. By doing so, the project offers cost reduction, personalization, and privacy protection benefits for client personal AI models. Users can select a model, enter inputs, and run it directly in the browser. The project leverages WebGPU technology and provides instructions for running different models efficiently. It also emphasizes the research purposes of the demo site and compliance with model licenses."

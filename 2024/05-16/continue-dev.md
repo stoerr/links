@@ -1,8 +1,8 @@
 ---
 filename: continue-dev
-category: technology, development, AI
+category: Development, AI
 url: https://www.continue.dev/
-title: Continue
+title: Continue.Dev - Open-source IDE extensions for creating modular AI software development systems
 description: Open-source IDE extensions for creating modular AI software development systems.
 
 --- 
