@@ -1,6 +1,8 @@
 let links = [];
 let embeddings = [];
 let uniqueCategories = new Set();
+var markdownConverter = new showdown.Converter();
+
 
 // Fetch JSON files on page load
 window.addEventListener('load', async () => {
@@ -125,6 +127,7 @@ function displayLinks(displayedLinks) {
     displayedLinks.forEach(link => {
         const linkDescrUrl = link.filepath.replace('.md', '.html');
         const linkElement = document.createElement('div');
+        linkElement.classList.add('linkDisplay');
         const summary = link.description ? link.description : link.text.split('\n')[2];
         const text = link.description ? link.text : link.text.split('\n').slice(3).join('<br>');
         linkElement.innerHTML = `
@@ -132,7 +135,7 @@ function displayLinks(displayedLinks) {
             <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}</p>
             <details>
                 <summary>${summary}</summary>
-                <p>${text.split('\n').join('<br>')}</p>
+                <p>${markdownConverter.makeHtml(text)}</p>
             </details>
         `;
         linksContainer.appendChild(linkElement);
