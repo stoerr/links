@@ -27,7 +27,6 @@
   {
     "filepath": "2024/02-13/aem-links.md",
     "category": [
-      "Adobe Experience Manager",
       "AEM",
       "Cheat Sheets",
       "Solutions"
@@ -387,5 +386,100 @@
     "title": "WebLLM | Home",
     "description": "High-Performance In-Browser LLM Serving Engine.",
     "text": "# WebLLM | Home\n\nhttps://webllm.mlc.ai/\n\n## Description\n\nHigh-Performance In-Browser LLM Serving Engine.\n\n## Summary\n\nWebLLM is a project aimed at bringing diversity to the ecosystem of generative AI and LLMs by enabling the direct running of language models inside a browser. By doing so, the project offers cost reduction, personalization, and privacy protection benefits for client personal AI models. Users can select a model, enter inputs, and run it directly in the browser. The project leverages WebGPU technology and provides instructions for running different models efficiently. It also emphasizes the research purposes of the demo site and compliance with model licenses."
+  },
+  {
+    "filepath": "2024/05-29/training-is-not-the-same-as-chatting.md",
+    "category": [
+      "Technology",
+      "Machine Learning"
+    ],
+    "url": "https://simonwillison.net/2024/May/29/training-not-chatting",
+    "title": "Training is not the same as chatting - ChatGPT and other LLMs don’t remember everything you say",
+    "description": "Common misconception about LLMs like ChatGPT regarding how training works.",
+    "text": "# Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say\n\n[https://simonwillison.net/2024/May/29/training-not-chatting](https://simonwillison.net/2024/May/29/training-not-chatting)\n\n## Description\n\nCommon misconception about LLMs like ChatGPT involving how training works.\n\n## Summary\n\nThe article addresses the misconception that ChatGPT and similar tools remember and learn from everything you say, highlighting that these models are stateless functions that do not directly learn or memorize the conversations. It explains the process of model training and how these models work independently for each new conversation. The article also discusses features like memory in LLMs and the concerns related to data privacy and policy decisions based on inaccurate assumptions."
+  },
+  {
+    "filepath": "2024/05-30/codegpt-intellij-ides-plugin-marketplace.md",
+    "category": [
+      "IntelliJ IDEs",
+      "AI Coding Assistant"
+    ],
+    "url": "https://plugins.jetbrains.com/plugin/21056-codegpt",
+    "title": "CodeGPT - IntelliJ IDEs Plugin | Marketplace",
+    "description": "Introducing CodeGPT: Your Free,Open-Source AI Copilot for Coding.",
+    "text": "# CodeGPT - IntelliJ IDEs Plugin | Marketplace\n\n[https://plugins.jetbrains.com/plugin/21056-codegpt](https://plugins.jetbrains.com/plugin/21056-codegpt)\n\n## Description\n\nIntroducing CodeGPT: Your Free, Open-Source AI Copilot for Coding.\n\n## Summary\n\nCodeGPT is an AI coding assistant that offers support throughout the software development process. It is a free and open-source tool designed to help developers with coding tasks. With CodeGPT, users can expect assistance and suggestions to enhance their coding experience, making it easier and more efficient. Whether you are a beginner or an experienced coder, CodeGPT aims to augment your capabilities and streamline your workflow."
+  },
+  {
+    "filepath": "2024/05-30/introducing-github-copilot-extensions-unlocking-unlimited-possibilities-with-our-ecosystem-of-partners.md",
+    "category": [
+      "Product",
+      "Engineering"
+    ],
+    "url": "https://github.blog/2024-05-21-introducing-github-copilot-extensions/",
+    "title": "Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners - The GitHub Blog",
+    "description": "The world of Copilot is getting bigger,improving the developer experience by keeping developers in the flow longer and allowing them to do more in natural language.",
+    "text": "# Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners - The GitHub Blog\n\n[https://github.blog/2024-05-21-introducing-github-copilot-extensions/](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)\n\n## Description\n\nThe world of Copilot is getting bigger, improving the developer experience by keeping developers in the flow longer and allowing them to do more in natural language.\n\n## Summary\n\nGitHub is introducing GitHub Copilot Extensions to bring the world’s knowledge into the most widely adopted AI developer tool. Through a growing partner ecosystem, Copilot Extensions enables developers to build and deploy to the cloud in their natural language with their preferred tools and services. With this new feature, developers can stay in the flow longer, uplevel their skills, and innovate faster. The initial partners for GitHub Copilot Extensions include DataStax, Docker, LaunchDarkly, Microsoft Azure, and more, making it easier for developers to access a variety of tools and services seamlessly within their workflow.\n\nCopilot Extensions aim to streamline the development process by integrating various tools directly into GitHub Copilot Chat, allowing developers to access documentation, monitor errors, interact with databases, deploy applications, and more—all within one interface. This integration is designed to minimize context-switching, maintain flow state, and accelerate software delivery. As this feature expands, developers will have access to even more tools and services from a growing number of partners to enhance their productivity and efficiency."
+  },
+  {
+    "filepath": "2024/05-30/what-we-learned-from-a-year-of-building-with-llms-part-i.md",
+    "category": [
+      "AI & ML"
+    ],
+    "url": "https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i",
+    "title": "What We Learned from a Year of Building with LLMs (Part I)",
+    "description": "Insights and lessons learned from a year of building real-world applications with Large Language Models (LLMs).",
+    "# What We Learned from a Year of Building with LLMs (Part I": "# What We Learned from a Year of Building with LLMs (Part I)",
+    "[https": "//www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i)",
+    "## Descriptio": "## Description",
+    "Insights and lessons learned from a year of building real-world applications with Large Language Models (LLMs)": "Insights and lessons learned from a year of building real-world applications with Large Language Models (LLMs).",
+    "## Summar": "## Summary",
+    "It's an exciting time to build with large language models (LLMs), as they have become “good enough” for real-world applications. The pace of improvements in LLMs is driving significant investment in AI. This article shares crucial lessons and methodologies for developing products based on LLMs. The content is organized into three sections": "tactical,operational,and strategic,with this being the first part focusing on the tactical aspects. Key topics covered include prompting,structured inputs and outputs,information retrieval strategies,guarding against hallucinations,and simplifying annotation tasks for LLMs.",
+    "text": ""
+  },
+  {
+    "filepath": "2024/06-01/inversion-the-billionaire-thinking-skill-you-were-never-taught-in-school.md",
+    "category": [
+      "Personal Development",
+      "Business",
+      "Investing"
+    ],
+    "url": "https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking",
+    "title": "Inversion - The Billionaire Thinking Skill You Were Never Taught in School.",
+    "description": "Exploring the concept of inversion as a thinking skill,inspired by Charlie Munger,to make better decisions and solve problems effectively.",
+    "text": "# Inversion: The Billionaire Thinking Skill You Were Never Taught in School.\n\n[https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking](https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking)\n\n## Description\n\nExploring the concept of inversion as a thinking skill, inspired by Charlie Munger, to make better decisions and solve problems effectively.\n\n## Summary\n\nThe article delves into the concept of inversion, inspired by billionaire investor Charlie Munger, as a powerful thinking skill. By considering the opposite of what one wants to achieve, individuals can proactively plan to avoid failures and make better decisions. The technique is highlighted as a key factor in the success of individuals like Munger and Warren Buffett.\n\nInversion, a counterintuitive way of problem-solving, is explained through examples and its origins from mathematician Carl Jacobi. By focusing on preventing negative outcomes, individuals can strategically plan to achieve their goals. The article emphasizes the importance of combining forward and backward thinking to unlock solutions to challenging problems and improve decision-making.\n\nPractical applications of the inversion technique are provided, showcasing how individuals can use it to approach everyday problems from a different perspective. By thinking about what they want to avoid, individuals can develop preventive solutions and enhance their problem-solving abilities. Overall, inversion is presented as a valuable tool for innovation and decision-making in various aspects of life."
+  },
+  {
+    "filepath": "2024/06-07/from-gpt-4-to-agi.md",
+    "category": [
+      "AI",
+      "ChatGPT"
+    ],
+    "url": "https://situational-awareness.ai/from-gpt-4-to-agi/",
+    "title": "I. From GPT-4 to AGI - Counting the OOMs",
+    "description": "AGI by 2027 is strikingly plausible. Exploring the trends in compute,algorithmic efficiencies,and \"unhobbling\" gains to predict future progress.",
+    "text": "# I. From GPT-4 to AGI: Counting the OOMs\n\n[https://situational-awareness.ai/from-gpt-4-to-agi/](https://situational-awareness.ai/from-gpt-4-to-agi/)\n\n## Description\n\nAGI by 2027 is strikingly plausible. Exploring the trends in compute, algorithmic efficiencies, and \"unhobbling\" gains to predict future progress.\n\n## Summary\n\nAGI by 2027 is a realistic possibility, as evidenced by the rapid advancements from GPT-2 to GPT-4 in the last few years. The progress in deep learning has been extraordinary, with models now outperforming humans in various tasks. The article discusses the significant trends in effective compute scaling, algorithmic progress, and potential breakthroughs in removing limitations to achieve AGI. The key takeaway is that the next decade will witness a rapid scale-up in OOMs, leading to significant advancements in AI capabilities."
+  },
+  {
+    "filepath": "2024/06-07/getting-started-with-openai-evals.md",
+    "category": [
+      "Evaluation",
+      "OpenAI"
+    ],
+    "url": "https://cookbook.openai.com/examples/evaluation/getting_started_with_openai_evals",
+    "title": "Getting Started with OpenAI Evals - OpenAI Cookbook",
+    "description": "Open-source examples and guides for building with the OpenAI API.",
+    "text": "# Getting Started with OpenAI Evals - OpenAI Cookbook\n\n[https://cookbook.openai.com/examples/evaluation/getting_started_with_openai_evals](https://cookbook.openai.com/examples/evaluation/getting_started_with_openai_evals)\n\n## Description\n\nOpen-source examples and guides for building with the OpenAI API.\n\n## Summary\n\nThe OpenAI Evals framework consists of a framework to evaluate an LLM (large language model) or a system built on top of an LLM. It also includes an open-source registry of challenging evals. The guide covers the introduction to Evaluation and the OpenAI Evals library, building an Eval, running an Eval, different types of evals, the importance of evaluations, and OpenAI Eval templates. It also provides instructions on setting up and building an evaluation for OpenAI Evals framework. The tutorial includes examples and explanations on how different types of evaluations can be used and implemented effectively. Overall, this guide serves as a comprehensive resource for getting started with OpenAI Evals."
+  },
+  {
+    "filepath": "2024/06-07/reusing-content-multi-site-manager-and-live-copy.md",
+    "category": [
+      "Reusing Content",
+      "Multi Site Manager",
+      "Live Copy"
+    ],
+    "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview",
+    "title": "Reusing Content - Multi Site Manager and Live Copy | Adobe Experience Manager",
+    "description": "Get an introduction to reusing content with AEM's powerful Live Copies and the Multi Site Manager features.",
+    "text": "# Reusing Content - Multi Site Manager and Live Copy | Adobe Experience Manager\n\n[https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview)\n\n## Description\n\nGet an introduction to reusing content with AEM's powerful Live Copies and the Multi Site Manager features.\n\n## Summary\n\nThe Multi Site Manager (MSM) in Adobe Experience Manager allows users to reuse the same site content in multiple locations using Live Copies. With MSM, content can be created once and reused in various areas of the same or different sites, maintaining live relationships between source content and its Live Copies for synchronization. The documentation provides an overview of reusing content with MSM, covering topics like creating and synchronizing Live Copies, Live Copy overview console, configuring Live Copy synchronization, MSM rollout conflicts, and best practices. MSM functionality can also be used for Assets and Content Fragments. Scenarios for using MSM include multinational applications, national offices to regional branches, and creating multiple versions of a specific sub-branch. Live Copies in MSM can be structured as shallow or deep, and can be composed of non-Live Copy pages or nested Live Copies, with options to detach Live Copies and suspend or cancel inheritance and synchronization. The documentation also includes standard steps for using MSM and customizing rollout configurations, as well as best practices for implementation."
   }
 ]

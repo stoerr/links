@@ -6,9 +6,9 @@ DO NOT print anything else except the template.
 
 ---
 filename: {suggested-filename-from-short-title-in-kebab-case}
-category: {comma separated list of categories in Title Case}
+category: {comma separated list of categories (words) in Title Case}
 url: {url to the webpage}
-title: {title of the webpage}
+title: {title of the webpage, colon reproduced by dash}
 description: {One sentence description of the webpage}
 ---
 {important: include the previous line with the --- separator to separate front matter from the content, but remove this comment}

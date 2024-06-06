@@ -1,6 +1,6 @@
 ---
 filename: aem-links.md
-category: Adobe Experience Manager,AEM,Cheat Sheets,Solutions
+category: AEM,Cheat Sheets,Solutions
 url: https://github.com/paulrohrbeck/aem-links
 title: GitHub - paulrohrbeck/aem-links - Adobe Experience Manager links, cheat sheets and solutions to common problems.
 description: Curated list of links, cheat sheets, and solutions to common problems for Adobe Experience Manager (AEM).
