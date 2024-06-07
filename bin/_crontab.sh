@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # is added to the crontab to ensure timely publication of links so that the search mechanism works
 cd $(dirname $0)/..
-exec >> bin/_crontab.sh.log
+exec >> bin/_crontab.sh.log 2>&1
 date
 bin/_makeAll.sh
 git add -A

@@ -6,10 +6,11 @@ var markdownConverter = new showdown.Converter();
 
 // Fetch JSON files on page load
 window.addEventListener('load', async () => {
-    const linksResponse = await fetch('/db/links.json');
+    const nocache = Math.floor(new Date().getTime() / 86400000);
+    const linksResponse = await fetch('/db/links.json?nocache=' + nocache);
     links = await linksResponse.json();
 
-    const embeddingsResponse = await fetch('/db/embeddings.json');
+    const embeddingsResponse = await fetch('/db/embeddings.json?nocache=' + nocache);
     embeddings = await embeddingsResponse.json();
 
     // Decode base64 embeddings
