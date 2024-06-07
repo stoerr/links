@@ -26,3 +26,4 @@ replay_pid*
 # llm search created databases
 *.db
 /_index.html
+*.log
