@@ -557,5 +557,17 @@
     "title": "Centaurs and Cyborgs on the Jagged Frontier",
     "description": "I think we have an answer on whether AIs will reshape work....",
     "text": "# Centaurs and Cyborgs on the Jagged Frontier\n\n[https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)\n\n## Description\n\nI think we have an answer on whether AIs will reshape work....\n\n## Summary\n\nThe webpage discusses a new paper that suggests AI will have a significant impact on the future of work. The paper highlights the results of an experiment involving consultants using ChatGPT-4, showcasing their improved performance compared to those who did not use AI. The concept of the \"Jagged Frontier\" of AI is introduced, emphasizing the uneven capabilities and challenges associated with artificial intelligence.\n\nThe text delves into the strategies of becoming a Centaur or a Cyborg when working with AI, exploring the integration of human and machine efforts. Centaurs involve a clear division of labor between humans and AI, while Cyborgs blend machine and person seamlessly. The webpage also underlines the importance of making intentional choices on how to utilize AI in the workplace to enhance productivity and quality of work. Additionally, potential downsides and benefits of AI integration are discussed, emphasizing the need for ethical and effective use of AI technologies."
+  },
+  {
+    "filepath": "2024/06-22/prompt-decomposition-the-missing-piece-to-scaling-generative-ai.md",
+    "category": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "url": "https://medium.com/@flux07/prompt-decomposition-da646f0257f1",
+    "title": "Prompt Decomposition - The missing piece to scaling generative AI.",
+    "description": "How adding more calls to an LLM can unlock scale and increase accuracy while lowering both cost and latency.",
+    "text": "# Prompt Decomposition: The missing piece to scaling generative AI.\n\n[https://medium.com/@flux07/prompt-decomposition-da646f0257f1](https://medium.com/@flux07/prompt-decomposition-da646f0257f1)\n\n## Description\n\nHow adding more calls to an LLM can unlock scale and increase accuracy while lowering both cost and latency.\n\n## Summary\n\nIn this article, Justin Muller discusses the concept of prompt decomposition and how it can be the missing piece to scaling generative AI. By breaking down complex prompts into smaller parts, teams can overcome challenges related to accuracy, cost, control, latency, and metrics. Through examples and code snippets, the article demonstrates how prompt decomposition can improve performance and efficiency in generative AI systems. Muller highlights the importance of evaluation in generative AI tasks and provides insights on implementing prompt decomposition effectively."
   }
 ]
