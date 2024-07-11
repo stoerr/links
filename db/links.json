@@ -623,5 +623,17 @@
     "title": "Mindmaps,Zeitstrahlen oder schicke Tabellen - Dieses KI-Tool nimmt euch die ganze Arbeit ab",
     "description": "Ihr müsst eine Mindmap oder eine andere Art von Schaubild erstellen? Dieses KI-Tool kann euch die Arbeit abnehmen.",
     "text": "# Mindmaps, Zeitstrahlen oder schicke Tabellen - Dieses KI-Tool nimmt euch die ganze Arbeit ab\n\n[https://t3n.de/news/ki-diagramme-mindmaps-tabellen-mylens-arbeit-1632361](https://t3n.de/news/ki-diagramme-mindmaps-tabellen-mylens-arbeit-1632361)\n\n## Description\n\nIhr müsst eine Mindmap oder eine andere Art von Schaubild erstellen? Dieses KI-Tool kann euch die Arbeit abnehmen.\nhttps://mylens.ai/\n\n## Summary\n\nDas KI-Tool Mylens kann schicke Mindmaps, Zeitstrahlen, Quadrantendiagramme und Tabellen erzeugen, und das sogar ohne eigene Daten anzuliefern. Es ermöglicht die Erstellung von Grafiken durch einfache Beschreibungen in einem Prompt. Die kostenlose Nutzung ist auf drei Grafiken pro Tag begrenzt, während kostenpflichtige Abonnements mehr Optionen bieten. Für Unternehmen gibt es zudem Team-Abonnements. Alternativ gibt es auch andere Tools wie ChatGPT oder Mindmap-Tools mit integrierten KI-Fähigkeiten wie Yed Live oder Mindomo für die Erstellung von Mindmaps."
+  },
+  {
+    "filepath": "2024/07-11/developing-and-extending-workflows.md",
+    "category": [
+      "Developing",
+      "Extending",
+      "Workflows"
+    ],
+    "url": "https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-workflows/workflows",
+    "title": "Developing and Extending Workflows | Adobe Experience Manager",
+    "description": "AEM provides tools and resources for creating,developing,and interacting with workflows.",
+    "text": "# Developing and Extending Workflows | Adobe Experience Manager\n\n[https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-workflows/workflows](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-workflows/workflows)\n\n## Description\n\nAEM provides tools and resources for creating workflow models, developing workflow steps, and programmatically interacting with workflows.\n\n## Summary\n\nAdobe Experience Manager offers a range of tools and resources for creating, developing, and interacting with workflows. Workflows in AEM automate processes for managing resources and content publishing by breaking tasks into discrete steps. The runtime model of a workflow is crucial for capturing the state of a workflow instance, different types of workflow steps exist for varied functions, and Workflow Stages help visualize the progress of a workflow when handling tasks. Additionally, workflows can be associated with forms for processing form submissions and play a role in the translation process within AEM."
   }
 ]
