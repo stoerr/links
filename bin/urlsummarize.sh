@@ -9,7 +9,7 @@ if [ "$#" -ne 1 ]; then
   exit 1
 fi
 
-MODEL="gpt-3.5-turbo"
+MODEL="gpt-4o-mini"
 
 # TODO: perhaps lynx -dump -nolist -width=1024 to wait for Javascript updates
 # problem: doesn't wait long enough sometimes, and unclear how to extract head.

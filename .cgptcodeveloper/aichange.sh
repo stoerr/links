@@ -14,4 +14,4 @@ while IFS= read -r line; do
   echo $line >> $promptfil
 done
 
-aigenpipeline -upd -v -o $filename -p $promptfil -f -wo -m gpt-3.5-turbo
+aigenpipeline -upd -v -o $filename -p $promptfil -f -wo -m gpt-4o-mini
