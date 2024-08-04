@@ -680,5 +680,18 @@
     "title": "Google Alerts - Monitor the Web for interesting new content",
     "description": "A service by Google that allows users to monitor the web for new and interesting content.",
     "text": "# Google Alerts - Monitor the Web for interesting new content\n\n[https://www.google.com/alerts](https://www.google.com/alerts)\n\n## Description\n\nA service by Google that allows users to monitor the web for new and interesting content.\n\n## Summary\n\nGoogle Alerts lets users create alerts based on specific keywords to receive notifications about new content related to their interests. Users can customize the frequency of alerts, choosing from options like \"as-it-happens,\" \"at most once a day,\" or \"at most once a week.\" \n\nThe service allows filtering by content sources such as news, blogs, videos, discussions, and finance, as well as providing options for different languages and regions. By tailoring their alerts, users can ensure they receive only the most relevant and timely information, thus enhancing their web monitoring experience."
+  },
+  {
+    "filepath": "2024/08-04/localcan-local-domains-and-persistent-public-urls.md",
+    "category": [
+      "App",
+      "Development",
+      "URLs",
+      "Tools"
+    ],
+    "url": "https://www.localcan.com/",
+    "title": "LocalCan™ - Local domains and persistent Public URLs",
+    "description": "LocalCan™ for macOS is a powerful Ngrok alternative,allowing developers to build and test apps with .local domains and secure persistent Public URLs.",
+    "text": "# LocalCan™ - Local domains and persistent Public URLs\n\n[https://www.localcan.com/](https://www.localcan.com/)\n\n## Description\n\nLocalCan™ for macOS is a powerful Ngrok alternative, allowing developers to build and test apps with .local domains and secure persistent Public URLs.\n\n## Summary\n\nLocalCan is an innovative tool designed for developers who need to work with local domains and public URLs. It allows users to publish local domains such as .local and provides secure, persistent public URLs, making it easier to share and test applications across various devices and networks. With its seamless integration with macOS, LocalCan also simplifies the development process, enhancing efficiency and saving significant time.\n\nThe platform has been highly praised by users, receiving an impressive average rating of 4.8, and is trusted by over 10,000 developers. Users highlight its ease of use compared to alternatives like Ngrok, especially when working with webhooks and mobile testing. Several pricing options are available, catering to individual developers, teams, and agencies, ensuring flexibility based on varying needs.\n\nLocalCan offers features such as unlimited local domains, automatic HTTPS, traffic inspection, and replay requests. It not only serves as a development tool but also facilitates collaboration and client-sharing, making it a valuable asset for any development team looking to enhance their workflow."
   }
 ]
