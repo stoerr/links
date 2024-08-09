@@ -141,6 +141,9 @@ function displayLinks(displayedLinks) {
         `;
         linksContainer.appendChild(linkElement);
     });
+
+    // scroll so that #search-result is on top of the visible window
+    document.getElementById('search-result').scrollIntoView();
 }
 
 function displayCategoryLinks() {

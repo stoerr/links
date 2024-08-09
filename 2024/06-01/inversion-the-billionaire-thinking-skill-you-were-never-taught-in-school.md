@@ -9,7 +9,7 @@ description: Exploring the concept of inversion as a thinking skill, inspired by
 
 # Inversion: The Billionaire Thinking Skill You Were Never Taught in School.
 
-[https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking](https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking)
+[https://www.linkedin.com/pulse/inversion-billionaire-thinking-skill-you-were-never-taught-oshin-/](https://www.mayooshin.com/inversion-charlie-munger-billionaire-thinking)
 
 ## Description
 

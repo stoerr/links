@@ -2,11 +2,11 @@
 PROMPT for ChatGPT:
 Fill the following markdown template with the information about the previous text and print the filled template.
 The same placeholders should get the same content. Include both `---` from the example below.
-DO NOT print anything else except the template.
+DO NOT print anything else except the template, not even ``` quotes.
 
 ---
 filename: {suggested-filename-from-short-title-in-kebab-case}
-category: {comma separated list of categories (words) in Title Case}
+category: {up to 3 comma separated list of keywords / categories (words) in Title Case. Prefer IEEE taxonomy.}
 url: {url to the webpage}
 title: {title of the webpage, replace : by a dash}
 description: {One sentence description of the webpage}
