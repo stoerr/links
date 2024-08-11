@@ -740,5 +740,53 @@
     "title": "Introducing Structured Outputs in the OpenAI API",
     "description": "This webpage indicates that JavaScript and cookies need to be enabled to continue.",
     "text": "# Introducing Structured Outputs in the OpenAI API\n\n[https://openai.com/index/introducing-structured-outputs-in-the-api/](https://openai.com/index/introducing-structured-outputs-in-the-api/)\n\n## Description\n\nIntroducing Structured Outputs in the OpenAI API\n\n## Summary\n\nThe text introduces structured outputs in the context of AI models, emphasizing how these outputs can enhance the clarity and usability of responses. It discusses the benefits of structured data presentation, improving user experience by facilitating better interaction and understanding of the information provided. Additionally, it highlights potential applications in various fields such as customer support, data analysis, and content creation, indicating a shift towards more organized and efficient communication methods in AI responses."
+  },
+  {
+    "filepath": "2024/08-10/prompt-engineering-is-dead-is-it.md",
+    "category": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Prompt Engineering"
+    ],
+    "url": "https://ai.gopubby.com/prompt-engineering-is-dead-is-it-c99769315d81",
+    "title": "Prompt Engineering is Dead! Is it?",
+    "description": "Will better,personalized models,agentic setups,programmed prompts make prompt engineering obsolete? How will prompt engineering change and evolve?",
+    "text": "# Prompt Engineering is Dead! Is it?\n\n[https://ai.gopubby.com/prompt-engineering-is-dead-is-it-c99769315d81](https://ai.gopubby.com/prompt-engineering-is-dead-is-it-c99769315d81)\n\n## Description\n\nWill better, personalized models, agentic setups, programmed prompts make prompt engineering obsolete? How will prompt engineering change and evolve?\n\n## Summary\n\nThe article by Maximilian Vogel discusses the evolving nature of prompt engineering in the wake of advancements in artificial intelligence. It addresses the notion that prompt engineering may soon be deemed obsolete due to enhanced models that can understand and interpret user needs more effectively. The article analyzes various arguments surrounding this topic, pointing out that while crafting precise prompts may be less critical as AI advances, understanding problem formulation remains essential. \n\nVogel highlights that prompt engineering plays a crucial role in structuring model responses, especially when handling complex applications. He argues that as AI systems become more personalized, they will better understand user context and requirements, potentially reducing the need for detailed prompt crafting but emphasizing the continued importance of clear specifications. \n\nIn conclusion, Vogel believes that prompt engineering will not die but will transform, requiring a deeper understanding and adaptation as both the capabilities of AI and the demands of tasks evolve. The future promises a more nuanced approach to prompt engineering, blending traditional skills with programming and automated systems."
+  },
+  {
+    "filepath": "2024/08-11/dspy-the-framework-for-programming-not-prompting-foundation-models.md",
+    "category": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Software Frameworks"
+    ],
+    "url": "https://github.com/stanfordnlp/dspy",
+    "title": "GitHub - stanfordnlp/dspy - DSPy - The framework for programming—not prompting—foundation models",
+    "description": "DSPy is a framework for algorithmically optimizing language model prompts and weights,with features that enable systematic programming rather than manual prompting.",
+    "text": "# GitHub - stanfordnlp/dspy - DSPy - The framework for programming—not prompting—foundation models\n\n[https://github.com/stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)\n\n## Description\n\nDSPy is a framework for algorithmically optimizing language model prompts and weights, with features that enable systematic programming rather than manual prompting.\n\n## Summary\n\nDSPy provides a systematic approach to using language models (LMs) for building complex systems by abstracting away tedious prompt engineering. It allows developers to separate the flow of their program from LM parameters, and introduces new optimizers that can automatically tune prompts and weights based on desired metrics. This approach aims to enhance reliability and reduce the need for intricate prompt tuning through a more declarative programming model.\n\nThe framework can be installed easily via pip and works well with various language models like OpenAI's GPT and local models such as T5 and Llama. By defining tasks and using built-in modules, developers can create efficient workflows that utilize LMs effectively while minimizing the need for traditional prompt engineering methods. The documentation includes tutorials, guides, and examples to help users get started and integrate DSPy into their projects."
+  },
+  {
+    "filepath": "2024/08-11/gumloop-ai-automation-framework.md",
+    "category": [
+      "AI",
+      "Automation",
+      "No-Code"
+    ],
+    "url": "https://www.gumloop.com/",
+    "title": "Gumloop - AI Automation Framework",
+    "description": "The no-code platform to build and host AI-powered business automations.",
+    "text": "# Gumloop - AI Automation Framework\n\n[https://www.gumloop.com/](https://www.gumloop.com/)\n\n## Description\n\nThe no-code platform to build and host AI-powered business automations.\n\n## Summary\n\nGumloop is an innovative no-code platform designed for creating and hosting AI-driven business automations. It provides users with tools that streamline the process of automating various business tasks without the need for extensive programming knowledge.\n\nRecently, Gumloop announced a successful $3.11M seed funding round, highlighting its potential and growth within the AI automation space. This investment is set to enhance its offerings and expand its market reach, solidifying Gumloop's position as a leader in no-code automation solutions."
+  },
+  {
+    "filepath": "2024/08-11/the-perfect-prompt-a-prompt-engineering-cheat-sheet.md",
+    "category": [
+      "AI",
+      "Prompt Engineering",
+      "Machine Learning"
+    ],
+    "url": "https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba",
+    "title": "The Perfect Prompt - A Prompt Engineering Cheat Sheet",
+    "description": "This article explores effective prompt engineering techniques for large language models to enhance their response quality and relevance.",
+    "text": "# The Perfect Prompt - A Prompt Engineering Cheat Sheet\n\n[https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)\n\n## Description\n\nThis article explores effective prompt engineering techniques for large language models to enhance their response quality and relevance.\n\n## Summary\n\nThe article elaborates on the significance of crafting precise prompts when interacting with large language models (LLMs). It introduces the AUTOMAT and CO-STAR frameworks as essential guidelines for constructing impactful prompts that clarify context, target actions, and define output formats. Each element of these frameworks is designed to ensure the output aligns with user expectations and to improve the model's reliability in task performance.\n\nMoreover, the piece discusses various strategies, including few-shot learning, chaining thoughts, and output formatting, that can significantly enhance interaction results. Techniques like retrieval-augmented generation (RAG) are highlighted for their ability to access up-to-date data, bending the limitations imposed by static training data. The cheat sheet serves as a compact resource, aiming to refine the skill of prompt engineering and maximize the potential of AI applications in various contexts."
   }
 ]
