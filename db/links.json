@@ -788,5 +788,52 @@
     "title": "The Perfect Prompt - A Prompt Engineering Cheat Sheet",
     "description": "This article explores effective prompt engineering techniques for large language models to enhance their response quality and relevance.",
     "text": "# The Perfect Prompt - A Prompt Engineering Cheat Sheet\n\n[https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)\n\n## Description\n\nThis article explores effective prompt engineering techniques for large language models to enhance their response quality and relevance.\n\n## Summary\n\nThe article elaborates on the significance of crafting precise prompts when interacting with large language models (LLMs). It introduces the AUTOMAT and CO-STAR frameworks as essential guidelines for constructing impactful prompts that clarify context, target actions, and define output formats. Each element of these frameworks is designed to ensure the output aligns with user expectations and to improve the model's reliability in task performance.\n\nMoreover, the piece discusses various strategies, including few-shot learning, chaining thoughts, and output formatting, that can significantly enhance interaction results. Techniques like retrieval-augmented generation (RAG) are highlighted for their ability to access up-to-date data, bending the limitations imposed by static training data. The cheat sheet serves as a compact resource, aiming to refine the skill of prompt engineering and maximize the potential of AI applications in various contexts."
+  },
+  {
+    "filepath": "2024/08-12/assistance-with-release-notes-using-github-issues.md",
+    "category": [
+      "Software Development",
+      "Release Management",
+      "GitHub"
+    ],
+    "url": "https://til.simonwillison.net/github/release-note-assistance",
+    "title": "Assistance with release notes using GitHub Issues",
+    "description": "A guide on how to effectively assist in writing release notes using GitHub Issues.",
+    "text": "# Assistance with release notes using GitHub Issues\n\n[https://til.simonwillison.net/github/release-note-assistance](https://til.simonwillison.net/github/release-note-assistance)\n\n## Description\n\nA guide on how to effectively assist in writing release notes using GitHub Issues.\n\n## Summary\n\nSimon Willison shares his method for creating release notes by leveraging GitHub's functionalities and commit messages. The process involves identifying the latest release tag and the most recent commit hash, followed by a Git command that formats the commit log into a markdown-compatible list. This list is then pasted into a GitHub Issues comment, where it automatically becomes a clickable and linked format, making it easier for collaborators to review changes.\n\nAdditionally, Willison discusses using a GitHub URL that provides a diff of changes between two points, which can be piped to a language model, Claude 3.5 Sonnet, to generate a summary of the changes present in the diff. This summary not only aids in assembling comprehensive release notes but also serves as a tool for confirming that no crucial details have been overlooked."
+  },
+  {
+    "filepath": "2024/08-12/bayes-rule-in-odds-form.md",
+    "category": [
+      "Statistics",
+      "Forecasting"
+    ],
+    "url": "https://two-wrongs.com/bayes-rule-odds-form",
+    "title": "Bayes Rule in Odds Form",
+    "description": "This webpage explains Bayes' rule in its odds form,providing examples and insights into Bayesian hypothesis testing.",
+    "text": "# Bayes Rule in Odds Form\n\n[https://two-wrongs.com/bayes-rule-odds-form](https://two-wrongs.com/bayes-rule-odds-form)\n\n## Description\n\nThis webpage explains Bayes' rule in its odds form, providing examples and insights into Bayesian hypothesis testing.\n\n## Summary\n\nThe article discusses the application of Bayes' rule in its odds form, which simplifies calculations for quick decision-making. It presents the mathematical foundation and how to convert prior odds into posterior odds using the odds ratio derived from evidence. A classic example involving a taxi cab identification problem illustrates the concept, demonstrating how eyewitness testimony can shift the odds regarding which company was at fault in a hit and run.\n\nFurther, it provides another illustration using urns with different distributions of colored balls, helping to understand how evidence affects beliefs about competing hypotheses. The piece also touches upon combining multiple independent observations to strengthen the evidence and emphasizes the nature of evidence as a cumulative product of individual observations. Additionally, it includes a derivation of Bayes' rule and underscores the importance of being able to estimate prior odds, especially in the context of low-probability events.\n\n(Odds express the likelihood of an event occurring relative to the likelihood of it not occurring. )"
+  },
+  {
+    "filepath": "2024/08-12/the-misunderstood-kelly-criterion.md",
+    "category": [
+      "Economics",
+      "Statistics",
+      "Finance"
+    ],
+    "url": "https://two-wrongs.com/the-misunderstood-kelly-criterion",
+    "title": "The Misunderstood Kelly Criterion",
+    "description": "An exploration of the misconceptions surrounding the Kelly criterion and its applications in maximizing long-term wealth.",
+    "text": "# The Misunderstood Kelly Criterion\n\n[https://two-wrongs.com/the-misunderstood-kelly-criterion](https://two-wrongs.com/the-misunderstood-kelly-criterion)\n\n## Description\n\nAn exploration of the misconceptions surrounding the Kelly criterion and its applications in maximizing long-term wealth.\n\n## Summary\n\nThe article delves into the common misconceptions about the Kelly criterion, arguing that it is not just a betting strategy but a mathematical principle applicable in various economic decisions. It asserts that the Kelly criterion is relevant whenever one aims to maximize something that grows geometrically over the long term, particularly in financial contexts like investing and gambling. \n\nBy illustrating with examples, the author explains how improper reasoning can lead individuals to underestimate the importance of losses and the compounding effect on wealth. Numerous scenarios, including investment choices and insurance decisions, highlight the criterion's utility in guiding actions that maximize long-term returns, even in seemingly counterintuitive situations.\n\nThe piece concludes by addressing various myths, emphasizing the broad applicability of the Kelly criterion in financial decision-making beyond mere betting, and acknowledges that strategic applications can lead to optimal wealth growth in diverse investment landscapes."
+  },
+  {
+    "filepath": "2024/08-12/transformer-explainer.md",
+    "category": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "title": "Transformer Explainer",
+    "description": "A comprehensive interactive tool to explore the inner workings of Transformer models in neural networks.",
+    "text": "# Transformer Explainer\n\n[https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)\n\n## Description\n\nA comprehensive interactive tool to explore the inner workings of Transformer models in neural networks.\n\n## Summary\n\nThe Transformer Explainer provides users with an interactive interface to understand Transformer architectures in deep learning. It explains the fundamental components of Transformers, including embedding, the Transformer block, the self-attention mechanism, and the roles played by various layers such as the Multi-Layer Perceptron (MLP) and output probabilities for token prediction. The platform leverages the GPT-2 (small) model to facilitate exploration of how input sequences are processed and how the model predicts subsequent tokens.\n\nThrough its visualization tools, users can manipulate input text, adjust the temperature parameter to evaluate the randomness or determinism of predictions, and investigate attention maps to see how the model focuses on different tokens within the input. Several advanced architectural features, such as Layer Normalization, Dropout, and Residual Connections, are mentioned as enhancements to the model, providing the user with insights into the complexities of the design and training of Transformer models."
   }
 ]
