@@ -835,5 +835,29 @@
     "title": "Transformer Explainer",
     "description": "A comprehensive interactive tool to explore the inner workings of Transformer models in neural networks.",
     "text": "# Transformer Explainer\n\n[https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)\n\n## Description\n\nA comprehensive interactive tool to explore the inner workings of Transformer models in neural networks.\n\n## Summary\n\nThe Transformer Explainer provides users with an interactive interface to understand Transformer architectures in deep learning. It explains the fundamental components of Transformers, including embedding, the Transformer block, the self-attention mechanism, and the roles played by various layers such as the Multi-Layer Perceptron (MLP) and output probabilities for token prediction. The platform leverages the GPT-2 (small) model to facilitate exploration of how input sequences are processed and how the model predicts subsequent tokens.\n\nThrough its visualization tools, users can manipulate input text, adjust the temperature parameter to evaluate the randomness or determinism of predictions, and investigate attention maps to see how the model focuses on different tokens within the input. Several advanced architectural features, such as Layer Normalization, Dropout, and Residual Connections, are mentioned as enhancements to the model, providing the user with insights into the complexities of the design and training of Transformer models."
+  },
+  {
+    "filepath": "2024/08-27/dont-use-osgi-configs-in-aemaacs.md",
+    "category": [
+      "AEM",
+      "OSGi",
+      "Cloud Computing"
+    ],
+    "url": "https://medium.com/@achimkoch/dont-use-osgi-configs-in-aemaacs-18ed91053dee",
+    "title": "Don’t use OSGi configs in AEMaaCS",
+    "description": "An analysis of why using OSGi configurations in AEM as a Cloud Service may be unnecessary and potentially counterproductive.",
+    "text": "# Don’t use OSGi configs in AEMaaCS\n\n[https://medium.com/@achimkoch/dont-use-osgi-configs-in-aemaacs-18ed91053dee](https://medium.com/@achimkoch/dont-use-osgi-configs-in-aemaacs-18ed91053dee)\n\n## Description\n\nAn analysis of why using OSGi configurations in AEM as a Cloud Service may be unnecessary and potentially counterproductive.\n\n## Summary\n\nThe article explores the separation of code and configuration in AEM and critiques the necessity of OSGi configurations for custom deployments in AEM as a Cloud Service. The author argues that the unique environment of a single deployment reduces the need for extensive configuration, as developers can leverage environment variables without the burdensome overhead of OSGi settings.\n\nKey points include the realization that many configurations that involve simple variations can be handled without OSGi, leading to cleaner and more coherent code. Additionally, the text emphasizes that changes in OSGi configurations still require deployments, which can be implemented more efficiently with static variables in the code. The conclusion encourages embracing simplicity and clean coding practices, discouraging unnecessary complexity in software development."
+  },
+  {
+    "filepath": "2024/08-28/advanced-rag-retrieval-strategies-hybrid-retrieval.md",
+    "category": [
+      "Generative AI",
+      "Retrieval Augmented Generation",
+      "Hybrid Retrieval"
+    ],
+    "url": "https://generativeai.pub/advanced-rag-retrieval-strategies-hybrid-retrieval-997d39659720",
+    "title": "Advanced RAG Retrieval Strategies - Hybrid Retrieval",
+    "description": "This article discusses the importance of hybrid retrieval strategies in RAG applications,highlighting the benefits of integrating multiple sources to enhance retrieval accuracy.",
+    "text": "# Advanced RAG Retrieval Strategies - Hybrid Retrieval\n\n[https://generativeai.pub/advanced-rag-retrieval-strategies-hybrid-retrieval-997d39659720](https://generativeai.pub/advanced-rag-retrieval-strategies-hybrid-retrieval-997d39659720)\n\n## Description\n\nThis article discusses the importance of hybrid retrieval strategies in RAG applications, highlighting the benefits of integrating multiple sources to enhance retrieval accuracy.\n\n## Summary\n\nThe article begins by referencing an old Chinese saying that emphasizes the value of considering various perspectives to avoid biased conclusions, paralleling this philosophy with Retrieval Augmented Generation (RAG) applications. It introduces hybrid retrieval—which involves using multiple retrieval methods simultaneously and merging results—as a way to improve the accuracy and efficiency of information retrieval.\n\nHybrid retrieval combines the strengths of various methods to mitigate individual weaknesses, and the article proposes a practical implementation using technologies like ElasticSearch and Llama3. A flowchart of the hybrid retrieval process illustrates steps such as query formulation, showing how this multifaceted approach leads to more comprehensive retrieval outcomes."
   }
 ]
