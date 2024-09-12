@@ -871,5 +871,29 @@
     "title": "Transform Hours of YouTube Content into Minutes - by Richárd Gyikó",
     "description": "Discover how to quickly digest long YouTube videos using Fabric. Learn to summarize video transcripts and boost productivity with this AI tool.",
     "text": "# Transform Hours of YouTube Content into Minutes\n\n[https://medium.com/@richard.gyiko/transform-hours-of-youtube-content-into-minutes-8663fd82e9cb](https://medium.com/@richard.gyiko/transform-hours-of-youtube-content-into-minutes-8663fd82e9cb)\n\n## Description\n\nDiscover how to quickly digest long YouTube videos using Fabric. Learn to summarize video transcripts and boost productivity with this AI tool.\n\n## Summary\n\nThe article discusses Fabric, an AI tool designed to help users extract and summarize the key points from lengthy YouTube videos and other content. It addresses the common problem of content overload that many face, providing insights into how Fabric can convert hours of video into shortened summaries and highlights, ultimately improving productivity.\n\nRichárd Gyikó shares various practical applications of Fabric, such as extracting key ideas, writing assistance, and simplifying complex academic papers. The tool's ability to condense information helps users efficiently manage their digital content consumption, making it particularly beneficial for those juggling busy schedules or extensive \"Watch Later\" lists.\n\nThe author also guides readers through the process of using Fabric, whether they're tech-savvy or not, and emphasizes the significant impact it has had on his own content interaction, urging others to explore how this tool could transform their digital experiences.\n\nIt also links to a very interesting basic prompt for that: \nhttps://raw.githubusercontent.com/danielmiessler/fabric/main/patterns/extract_wisdom/system.md\nThat's a very nice feat of prompt engineeering!"
+  },
+  {
+    "filepath": "2024/09-11/building-a-tool-showing-how-gemini-pro-can-return-bounding-boxes-for-objects-in-images.md",
+    "category": [
+      "Tool",
+      "AI",
+      "Image Processing"
+    ],
+    "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
+    "title": "Building a tool showing how Gemini Pro can return bounding boxes for objects in images",
+    "description": "This article discusses creating a tool that utilizes Google’s Gemini API to return bounding boxes for objects in images.",
+    "text": "# Building a tool showing how Gemini Pro can return bounding boxes for objects in images\n\n[https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)\n\n## Description\n\nThis article discusses creating a tool that utilizes Google’s Gemini API to return bounding boxes for objects in images.\n\n## Summary\n\nIn this article, Simon Willison shares his exploration of Google’s Gemini API, specifically its capability to return bounding boxes for object detection within images. While researching various multi-modal LLM APIs, he discovered that Gemini can output relative coordinates for bounding boxes, which are then scaled from a 1000x1000 reference frame back to original image dimensions. He experimented with the API using Python, yielding promising results in terms of actual bounding box data.\n\nWillison then describes the process of building a tool that allows users to upload images, input bounding box coordinates, and visualize those boxes directly in the browser. He highlights challenges faced, including handling image orientation metadata from JPEGs, which affected the accuracy of bounding box placements. By leveraging multiple AI models, he was able to successfully combine functionalities into a single, interactive tool that demonstrates the Gemini API's capabilities effectively."
+  },
+  {
+    "filepath": "2024/09-11/gemini-api-image-bounding-box-visualization.md",
+    "category": [
+      "Image Processing",
+      "API",
+      "Visualization"
+    ],
+    "url": "https://tools.simonwillison.net/gemini-bbox",
+    "title": "Gemini API Image Bounding Box Visualization",
+    "description": "A web tool for visualizing image bounding boxes using the Gemini API.",
+    "text": "# Gemini API Image Bounding Box Visualization\n\n[https://tools.simonwillison.net/gemini-bbox](https://tools.simonwillison.net/gemini-bbox)\n\n## Description\n\nA web tool for visualizing image bounding boxes using the Gemini API.\n\n## Summary\n\nThe Gemini API Image Bounding Box Visualization provides a user interface for processing images and returning their bounding boxes as JSON arrays. Users can select from different Gemini API versions, including default and experimental options. The tool also features an image preview and a \"Clear Image\" function to reset the view.\n\nAdditionally, the page presents input fields for users to specify parameters for processing, allowing for customization of the bounding box generation. The layout is designed for ease of use, facilitating quick interaction with the API for developers and data scientists working with image datasets."
   }
 ]
