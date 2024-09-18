@@ -895,5 +895,17 @@
     "title": "Gemini API Image Bounding Box Visualization",
     "description": "A web tool for visualizing image bounding boxes using the Gemini API.",
     "text": "# Gemini API Image Bounding Box Visualization\n\n[https://tools.simonwillison.net/gemini-bbox](https://tools.simonwillison.net/gemini-bbox)\n\n## Description\n\nA web tool for visualizing image bounding boxes using the Gemini API.\n\n## Summary\n\nThe Gemini API Image Bounding Box Visualization provides a user interface for processing images and returning their bounding boxes as JSON arrays. Users can select from different Gemini API versions, including default and experimental options. The tool also features an image preview and a \"Clear Image\" function to reset the view.\n\nAdditionally, the page presents input fields for users to specify parameters for processing, allowing for customization of the bounding box generation. The layout is designed for ease of use, facilitating quick interaction with the API for developers and data scientists working with image datasets."
+  },
+  {
+    "filepath": "2024/09-17/shellmate.md",
+    "category": [
+      "Terminal",
+      "Productivity",
+      "AI"
+    ],
+    "url": "https://www.deepspring.ai/shellmate",
+    "title": "ShellMate",
+    "description": "ShellMate is an open-source command-line productivity tool powered by OpenAI.",
+    "text": "# ShellMate\n\n[https://www.deepspring.ai/shellmate](https://www.deepspring.ai/shellmate)\n\n## Description\n\nShellMate is an open-source command-line productivity tool powered by OpenAI.\n\n## Summary\n\nShellMate is designed to enhance terminal productivity by allowing users to input prompts directly and receive suggestions in real-time. It integrates seamlessly with your command line environment, enabling you to ask questions or retrieve commands without disrupting your workflow. \n\nUtilizing your terminal history, ShellMate predicts future commands you might need, facilitating smoother navigation and command execution. With features such as the ability to highlight text for focused attention and a convenient shortcut for querying suggestions, ShellMate ensures users can operate entirely within the terminal without needing to switch contexts. \n\nUsers can easily download ShellMate by providing their email, which allows them to get started with this innovative tool that promises to be a command line's new best friend."
   }
 ]
