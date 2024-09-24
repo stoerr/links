@@ -907,5 +907,17 @@
     "title": "ShellMate",
     "description": "ShellMate is an open-source command-line productivity tool powered by OpenAI.",
     "text": "# ShellMate\n\n[https://www.deepspring.ai/shellmate](https://www.deepspring.ai/shellmate)\n\n## Description\n\nShellMate is an open-source command-line productivity tool powered by OpenAI.\n\n## Summary\n\nShellMate is designed to enhance terminal productivity by allowing users to input prompts directly and receive suggestions in real-time. It integrates seamlessly with your command line environment, enabling you to ask questions or retrieve commands without disrupting your workflow. \n\nUtilizing your terminal history, ShellMate predicts future commands you might need, facilitating smoother navigation and command execution. With features such as the ability to highlight text for focused attention and a convenient shortcut for querying suggestions, ShellMate ensures users can operate entirely within the terminal without needing to switch contexts. \n\nUsers can easily download ShellMate by providing their email, which allows them to get started with this innovative tool that promises to be a command line's new best friend."
+  },
+  {
+    "filepath": "2024/09-22/functionary-meetkai.md",
+    "category": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software"
+    ],
+    "url": "https://functionary.meetkai.com/",
+    "title": "Functionary - MeetKai",
+    "description": "Functionary is a language model that interprets and executes functions and plugins efficiently.",
+    "text": "# Functionary - MeetKai\n\n[https://functionary.meetkai.com/](https://functionary.meetkai.com/)\n\n## Description\n\nFunctionary is a language model that interprets and executes functions and plugins efficiently.\n\n## Summary\n\nFunctionary is a powerful language model designed to intelligently handle function calls and interactions through a structured approach. It can execute functions either in parallel or serially while also analyzing their outputs to provide relevant and contextually grounded responses. The model supports OpenAI-compatible server operations and employs advanced sampling techniques for accuracy in predicting function names and arguments.\n\nThe implementation features include GPU support for high-performance computing and compatibility with OpenAI's tools and libraries. Users can choose from various models depending on their compute requirements, including options for small, medium, and advanced capabilities that rely on the vLLM server architecture. Additionally, it offers a clear installation guide and usage instructions, along with performance metrics comparing its function call prediction accuracy against OpenAI's models. \n\nOverall, Functionary presents a robust solution for integrating language models into functional applications, providing the ability to leverage API interactions while ensuring precise execution."
   }
 ]
