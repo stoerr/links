@@ -919,5 +919,18 @@
     "title": "Functionary - MeetKai",
     "description": "Functionary is a language model that interprets and executes functions and plugins efficiently.",
     "text": "# Functionary - MeetKai\n\n[https://functionary.meetkai.com/](https://functionary.meetkai.com/)\n\n## Description\n\nFunctionary is a language model that interprets and executes functions and plugins efficiently.\n\n## Summary\n\nFunctionary is a powerful language model designed to intelligently handle function calls and interactions through a structured approach. It can execute functions either in parallel or serially while also analyzing their outputs to provide relevant and contextually grounded responses. The model supports OpenAI-compatible server operations and employs advanced sampling techniques for accuracy in predicting function names and arguments.\n\nThe implementation features include GPU support for high-performance computing and compatibility with OpenAI's tools and libraries. Users can choose from various models depending on their compute requirements, including options for small, medium, and advanced capabilities that rely on the vLLM server architecture. Additionally, it offers a clear installation guide and usage instructions, along with performance metrics comparing its function call prediction accuracy against OpenAI's models. \n\nOverall, Functionary presents a robust solution for integrating language models into functional applications, providing the ability to leverage API interactions while ensuring precise execution."
+  },
+  {
+    "filepath": "2024/10-01/introduction-danswer-documentation.md",
+    "category": [
+      "Documentation",
+      "AI Assistant",
+      "Workplace Tools"
+    ],
+    "url": "https://docs.danswer.dev/introduction",
+    "title": "Introduction - Danswer Documentation",
+    "description": "Danswer Overview",
+    "date": "2024-10-01",
+    "text": "# Introduction - Danswer Documentation\n\n[https://docs.danswer.dev/introduction](https://docs.danswer.dev/introduction)\n\n## Description\n\nDanswer Overview\n\n## Summary\n\nDanswer is an AI Assistant designed to connect seamlessly with a company's documents, applications, and personnel. It features a chat interface and can be integrated with any large language model (LLM), allowing for deployment on various scales from laptops to cloud environments. Danswer maintains user data privacy by ensuring that deployments are fully controlled by the user, and it is licensed under MIT, promoting modularity and extensibility.\n\nWith capabilities like a Unified Search function that consolidates information across popular workplace tools—such as Slack, Google Drive, and Confluence—Danswer serves as a subject matter expert for teams. It empowers users to ask specific operational questions based on their team's unique knowledge and context, enhancing productivity and efficiency in handling queries related to features and tools.\n\nDanswer's architecture includes user authentication, role management, and customizable AI Assistants. Upcoming features will further enhance its functionalities, enabling users to share prompts, support multi-modal interactions, and utilize advanced organizational features to locate expertise within their teams."
   }
 ]

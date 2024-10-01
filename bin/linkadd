@@ -68,7 +68,10 @@ if [[ ! $filename == *.md ]]; then
   filename="$filename.md"
 fi
 
-mv $tmpfilename $filedir/$filename
+# replace UNCHANGEABLEDATEPLACEHOLDER by $(date +%Y-%m-%d) and put the result into $filedir/$filename
+
+sed -e "s/UNCHANGEABLEDATEPLACEHOLDER/$(date +%Y-%m-%d)/" $tmpfilename > $filedir/$filename
+rm -f $tmpfilename
 
 # check that $filedir/$filename is a readable file and not a directory
 if [[ ! -f $filedir/$filename ]]; then
