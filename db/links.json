@@ -984,5 +984,18 @@
     "description": "The first real AI developer. Contribute to Pythagora-io/gpt-pilot development by creating an account on GitHub.",
     "date": "2024-10-08",
     "text": "# GitHub - Pythagora-io/gpt-pilot - The first real AI developer\n\n[https://github.com/Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)\n\n## Description\n\nThe first real AI developer. Contribute to Pythagora-io/gpt-pilot development by creating an account on GitHub.\n\n## Summary\n\nGPT Pilot is an open-source project aimed at utilizing large language models (LLMs) to assist developers in creating fully functioning, production-ready applications, with the developer overseeing the process. The concept emphasizes that while AI can generate a significant portion of the code, developer supervision is essential to ensure the successful completion and debugging of applications.\n\nThe repository provides comprehensive instructions for setup, including requirements such as Python and optional PostgreSQL, as well as detailed steps for both initial installation and upgrading from previous versions. It also outlines how GPT Pilot operates, utilizing various agents to take on different roles in the app development process, such as specification gathering, task management, coding, and debugging.\n\nMoreover, the project encourages community involvement and contributions, offering guidance on how individuals can participate in its development. Users are directed to resources to enhance their understanding and engagement with the project, promoting a collaborative development environment."
+  },
+  {
+    "filepath": "2024/10-11/it-lebenslauf-fuer-informatiker.md",
+    "category": [
+      "Lebenslauf",
+      "Anschreiben",
+      "Bewerbung"
+    ],
+    "url": "https://zety.de/blog/lebenslauf-informatiker",
+    "title": "IT-Lebenslauf-fuer-Informatiker-mit-CV-Mustern-und-Beispielen",
+    "description": "Erstelle Deinen perfekten IT-Lebenslauf als Informatiker! Entdecke unsere Schreibtipps zum Aufbau und Inhalt mit Muster-Vorlagen und praktischem CV-Beispiel!",
+    "date": "2024-10-11",
+    "text": "# IT-Lebenslauf für Informatiker mit CV-Mustern & Beispielen\n\n[https://zety.de/blog/lebenslauf-informatiker](https://zety.de/blog/lebenslauf-informatiker)\n\n## Description\n\nErstelle Deinen perfekten IT-Lebenslauf als Informatiker! Entdecke unsere Schreibtipps zum Aufbau und Inhalt mit Muster-Vorlagen und praktischem CV-Beispiel!\n\n## Summary\n\nDie Webseite bietet eine umfassende Anleitung zum Erstellen eines Lebenslaufs für Informatiker, inklusive spezifischer Tipps und Beispielen. Es wird erklärt, wie man einen strukturierten Lebenslauf aufbaut, der die beruflichen Erfahrungen, den Bildungsweg und IT-Kenntnisse effektiv hervorhebt. Der Text stellt zudem dar, wie wichtig zusätzliche Abschnitte und ein präzises persönliches Profil sind, um sich von der Konkurrenz abzuheben.\n\nZusätzlich gibt die Seite Hinweise zur Gestaltung des Bewerbungsschreibens, das eine entscheidende Rolle im Bewerbungsprozess spielt. Praktische Tipps zur richtigen Formatierung und zur Präsentation von Fähigkeiten und Kenntnissen runden die Inhalte ab. Perfekte Beispiele für Lebensläufe und Anschreiben dienen als Inspiration für Bewerber, um eine erfolgreiche Bewerbung zu gestalten."
   }
 ]
