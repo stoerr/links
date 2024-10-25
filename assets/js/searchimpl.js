@@ -80,9 +80,10 @@ async function getQueryEmbedding(query) {
             'Content-Type': 'application/json',
             'Authorization': `Bearer ${apiKey}`
         },
+        // CAUTION: model has to be consistent with bin/llmupdatedb.sh
         body: JSON.stringify({
             input: query,
-            model: 'text-embedding-3-small',
+            model: 'text-embedding-3-large',
             encoding_format: 'base64'
         })
     });

@@ -11,6 +11,7 @@ cd $progdir
 STORE="--store"
 # STORE=""
 # MODEL="minilm"
+# CAUTION: model has to be consistent with js/searchimpl.js
 MODEL="3-large"
 
 llm embed-multi links -d db/llmsearch.db -m $MODEL $STORE --files . '20*/**/*.md'
