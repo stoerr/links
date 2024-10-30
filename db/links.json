@@ -1010,5 +1010,18 @@
     "description": "Compliance-Centered Evaluation Framework for Gen AI",
     "date": "2024-10-17",
     "text": "# COMPL-AI\n\n[https://compl-ai.org/evaluations](https://compl-ai.org/evaluations)\n\n## Description\n\nCompliance-Centered Evaluation Framework for Gen AI\n\n## Summary\n\nThe COMPL-AI website provides an overview of a framework focused on evaluating compliance in the context of generative artificial intelligence. It emphasizes the importance of compliance-centered evaluations, with the aim of ensuring that AI technologies adhere to legal, ethical, and practical standards. The content is aimed at guiding stakeholders in the assessment processes related to generative AI technologies, providing resources and guidelines that support compliance in this rapidly evolving field."
+  },
+  {
+    "filepath": "2024/10-30/run-a-prompt-to-generate-and-execute-jq-programs-using-llm-jq.md",
+    "category": [
+      "LLM",
+      "JSON",
+      "Programming"
+    ],
+    "url": "https://simonwillison.net/2024/Oct/27/llm-jq/",
+    "title": "Run a prompt to generate and execute jq programs using llm-jq",
+    "description": "llm-jq is a brand new plugin for LLM which lets you pipe JSON directly into the llm jq command along with a human-language description of how you’d like to manipulate the data.",
+    "date": "2024-10-30",
+    "text": "# Run a prompt to generate and execute jq programs using llm-jq\n\n[https://simonwillison.net/2024/Oct/27/llm-jq/](https://simonwillison.net/2024/Oct/27/llm-jq/)\n\n## Description\n\nllm-jq is a brand new plugin for LLM which lets you pipe JSON directly into the llm jq command along with a human-language description of how you’d like to manipulate the data.\n\n## Summary\n\nThe article introduces llm-jq, a new plugin that enhances the functionality of LLM by allowing users to input JSON data alongside a human-readable query. This plugin generates and executes jq programs based on the user's request, simplifying the process of manipulating JSON data. An example installation and usage are provided, showcasing how to count user logins through a GitHub API call and return the top results.\n\nThe author explains the underlying mechanics of llm-jq, detailing how it utilizes the first 1024 bytes of the input JSON and the user query to generate jq commands. Additionally, the automatic execution of these commands, and the options for silent or verbose outputs, are discussed to give users flexibility in how they receive their results.\n\nFinally, the article includes insights on the system prompts used by the LLM, emphasizing its ability to directly interpret user queries into jq programs. The combination of LLM capabilities with jq aims to streamline JSON data manipulation for users."
   }
 ]
