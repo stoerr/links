@@ -16,4 +16,4 @@ MODEL="gpt-4o-mini"
 # -cmd-script print to local file?
 
 (echo '---'; curl -s -L "$1" | pup 'head title,head meta[property=og:title],head meta[name=og:title],head meta[name=description],head meta[property=og:description],head meta[property=og:type]' ; echo '---'; echo; curl -s -L "$1" | html2text 2>/dev/null) |
-  chatgpt - -a -m $MODEL -p "Content of URL $1:" -uf assets/linktmpl.prompt
+  chatgpt - -m $MODEL -p "Content of URL $1:" -uf assets/linktmpl.prompt

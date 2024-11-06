@@ -1023,5 +1023,57 @@
     "description": "llm-jq is a brand new plugin for LLM which lets you pipe JSON directly into the llm jq command along with a human-language description of how you’d like to manipulate the data.",
     "date": "2024-10-30",
     "text": "# Run a prompt to generate and execute jq programs using llm-jq\n\n[https://simonwillison.net/2024/Oct/27/llm-jq/](https://simonwillison.net/2024/Oct/27/llm-jq/)\n\n## Description\n\nllm-jq is a brand new plugin for LLM which lets you pipe JSON directly into the llm jq command along with a human-language description of how you’d like to manipulate the data.\n\n## Summary\n\nThe article introduces llm-jq, a new plugin that enhances the functionality of LLM by allowing users to input JSON data alongside a human-readable query. This plugin generates and executes jq programs based on the user's request, simplifying the process of manipulating JSON data. An example installation and usage are provided, showcasing how to count user logins through a GitHub API call and return the top results.\n\nThe author explains the underlying mechanics of llm-jq, detailing how it utilizes the first 1024 bytes of the input JSON and the user query to generate jq commands. Additionally, the automatic execution of these commands, and the options for silent or verbose outputs, are discussed to give users flexibility in how they receive their results.\n\nFinally, the article includes insights on the system prompts used by the LLM, emphasizing its ability to directly interpret user queries into jq programs. The combination of LLM capabilities with jq aims to streamline JSON data manipulation for users."
+  },
+  {
+    "filepath": "2024/11-05/jina-ai-search-foundation-api.md",
+    "category": [
+      "Jina AI",
+      "API",
+      "Search"
+    ],
+    "url": "https://docs.jina.ai/",
+    "title": "Jina AI - Your Search Foundation Supercharged",
+    "description": "A comprehensive guide to using the Jina AI Search Foundation APIs for various use cases.",
+    "date": "2024-11-05",
+    "text": "# Jina AI - Your Search Foundation Supercharged\n\n[https://docs.jina.ai/](https://docs.jina.ai/)\n\n## Description\n\nA comprehensive guide to using the Jina AI Search Foundation APIs for various use cases.\n\n## Summary\n\nThe Jina AI Search Foundation provides a set of robust APIs designed for classification, embeddings, reading web content, searching the web, verifying factual accuracy, and segmenting text. Each API has specific capabilities, such as classifying texts or images, generating embeddings for semantic search, and extracting structured content from web pages. The document emphasizes the importance of handling API errors and the limitations of the APIs, clarifying that they cannot perform actions beyond those explicitly defined.\n\nThe guide also lists endpoint details for each API, along with example requests and responses to facilitate implementation. Users are encouraged to leverage built-in features whenever possible, use environment variables for API keys, and ensure that they correctly parse the responses from API calls to make the most of the Jina AI Search Foundation. Overall, the document serves as an essential resource for developers looking to incorporate Jina's capabilities into their applications efficiently."
+  },
+  {
+    "filepath": "2024/11-05/large-transformer-model-inference-optimization.md",
+    "category": [
+      "Transformer Models",
+      "Inference Optimization",
+      "Deep Learning"
+    ],
+    "url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+    "title": "Large Transformer Model Inference Optimization",
+    "description": "Large transformer models are powerful but very expensive to train and use,creating bottlenecks in inference cost.",
+    "date": "2024-11-05",
+    "text": "# Large Transformer Model Inference Optimization\n\n[https://lilianweng.github.io/posts/2023-01-10-inference-optimization/](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)\n\n## Description\n\nLarge transformer models are powerful but very expensive to train and use, creating bottlenecks in inference cost.\n\n## Summary\n\nThe increasing size of state-of-the-art (SoTA) transformer models necessitates optimizations for inference efficiency, focusing on reducing memory usage, computational complexity, and latency. Key strategies include model compression methods like knowledge distillation and quantization, as well as advanced architectural modifications that facilitate effective parallelism and memory savings. The post details various techniques such as post-training quantization (PTQ) and quantization-aware training (QAT), which help in lowering model precision to improve performance while maintaining efficacy, alongside pruning methods that eliminate unimportant weights without sacrificing model capabilities.\n\nAdditionally, the article discusses sparsity techniques, including structured pruning and mixture-of-experts (MoE) models that allow better computational efficiency in large-scale applications. These approaches collectively aim to refine the inference process for large transformer models, turning the focus on architectural innovations to boost practical deployment capabilities in real-world tasks. The ongoing advancements in this space highlight the need for efficient strategies in managing the significant resource demands posed by large-scale machine learning models."
+  },
+  {
+    "filepath": "2024/11-05/running-llama-3-2-vision-and-phi-3-5-vision-on-a-mac-with-mistral-rs.md",
+    "category": [
+      "Machine Learning",
+      "Rust",
+      "LLMs"
+    ],
+    "url": "https://simonwillison.net/2024/Oct/19/mistralrs/",
+    "title": "Running Llama 3.2 Vision and Phi-3.5 Vision on a Mac with mistral.rs",
+    "description": "A guide on running the Llama 3.2 Vision and Phi-3.5 Vision models on a Mac using the Rust-based library mistral.rs.",
+    "date": "2024-11-05",
+    "text": "# Running Llama 3.2 Vision and Phi-3.5 Vision on a Mac with mistral.rs\n\n[https://simonwillison.net/2024/Oct/19/mistralrs/](https://simonwillison.net/2024/Oct/19/mistralrs/)\n\n## Description\n\nA guide on running the Llama 3.2 Vision and Phi-3.5 Vision models on a Mac using the Rust-based library mistral.rs.\n\n## Summary\n\nThe article discusses how to utilize the Rust library mistral.rs to run the Llama 3.2 Vision and Phi-3.5 Vision models on a Mac. It outlines the necessary steps to clone the library, compile it, and run the models, including downloading the model files and checking the system's performance metrics like memory usage and GPU utilization. \n\nAdditionally, the author provides insights into using the models interactively with image prompts and notes some discrepancies between the generated descriptions and actual image contents, highlighting the issue of hallucinations in AI outputs. The article concludes with recommendations for Python users and offers a link to a pre-built wheel to simplify installation."
+  },
+  {
+    "filepath": "2024/11-05/video-scraping-extracting-json-data-from-a-35-second-screen-capture-for-less-than-1-10th-of-a-cent.md",
+    "category": [
+      "Video Scraping",
+      "Data Extraction",
+      "AI Tools"
+    ],
+    "url": "https://simonwillison.net/2024/Oct/17/video-scraping/",
+    "title": "Video scraping - extracting JSON data from a 35 second screen capture for less than 1/10th of a cent",
+    "description": "The author discusses an innovative method to extract numerical data from a screen recording of Gmail using AI tools,demonstrating a cost-effective approach to data collection.",
+    "date": "2024-11-05",
+    "text": "# Video scraping - extracting JSON data from a 35 second screen capture for less than 1/10th of a cent\n\n[https://simonwillison.net/2024/Oct/17/video-scraping/](https://simonwillison.net/2024/Oct/17/video-scraping/)\n\n## Description\n\nThe author discusses an innovative method to extract numerical data from a screen recording of Gmail using AI tools, demonstrating a cost-effective approach to data collection.\n\n## Summary\n\nIn the article, the author recounts a personal experience of needing to aggregate numeric values from multiple emails without the tedium of manually copying and pasting. By recording a brief screen capture of their Gmail interface, they utilized Google's AI Studio to generate a JSON array containing the relevant financial data. This method proved highly effective, delivering accurate results and taking advantage of advanced AI capabilities.\n\nThe cost analysis reveals that the entire process was remarkably inexpensive, amounting to less than one-tenth of a cent, and in this instance, it was free due to the promotional status of the AI tool. The author contrasts this approach with more traditional methods of data extraction, highlighting the advantages of simplicity and accuracy that video scraping offers.\n\nOverall, this technique presents a powerful alternative for data gathering, especially for tasks that involve scraping information from websites or applications with anti-scraping measures, showcasing its potential for wider applications in data journalism and beyond."
   }
 ]
