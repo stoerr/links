@@ -1088,5 +1088,44 @@
     "description": "GenAIScript,scripting for Generative AI.",
     "date": "2024-11-11",
     "text": "# Generative AI Scripting - GenAIScript\n\n[https://microsoft.github.io/genaiscript/](https://microsoft.github.io/genaiscript/)\n\n## Description\n\nGenAIScript, scripting for Generative AI.\n\n## Summary\n\nGenAIScript is a JavaScript-based toolkit designed for programmatically assembling prompts for Large Language Models (LLMs). It aims to merge scripting, tools, and data into one seamless experience, providing features like a JavaScript toolbox for prompt creation, integration with Visual Studio Code, and easy handling of files and data through defined functions. The tool encourages a rapid development cycle with debugging and testing capabilities.\n\nThe platform is illustrated with examples, such as creating a simple 'hello world' poem through user-friendly code snippets, manipulating document content like PDFs and CSVs, and generating structured outputs. Furthermore, developers can define data schemas for validation and create reusable scripts that can be versioned and shared. GenAIScript also includes automated tools for various applications, including browser automation, data analysis, and safety checks.\n\nIn additional features, GenAIScript allows integration with existing models such as those from GitHub and supports local AI models. Users can automate scripts, run tests, and employ rich contextual tools for comprehensive project management, making it a powerful asset for developers interested in leveraging generative AI in their workflows."
+  },
+  {
+    "filepath": "2024/11-21/ai-use-case-navigator.md",
+    "category": [
+      "AI",
+      "Use Case",
+      "Toolset"
+    ],
+    "url": "https://fastbreak.one/ai-use-case-navigator/",
+    "title": "AI Use Case Navigator - Fastbreak.one",
+    "description": "The AI Use Case Navigator Toolset helps businesses explore,design,and implement AI use cases effectively.",
+    "date": "2024-11-21",
+    "text": "# AI Use Case Navigator - Fastbreak.one\n\n[https://fastbreak.one/ai-use-case-navigator/](https://fastbreak.one/ai-use-case-navigator/)\n\n## Description\n\nThe AI Use Case Navigator Toolset helps businesses explore, design, and implement AI use cases effectively.\n\n## Summary\n\nThe AI Use Case Navigator Toolset is a comprehensive framework designed to assist organizations in developing AI use cases through structured tools such as Pattern Cards, Component Cards, and the AI Use Case Canvas. The toolset allows users to explore a collection of 28 proven AI patterns drawn from over 600 real-world use cases, helping them tailor AI applications to their specific needs.\n\nMoreover, the Component Cards break down AI use cases into four essential dimensions: Who, What, How, and Value, ensuring a thorough customization of the approach. The AI Use Case Canvas enables users to visualize and align all critical elements of their AI initiatives with their business objectives. This tool is beneficial for organizations at various stages of their AI journey, providing a structured roadmap to successfully implement AI solutions that drive real business value."
+  },
+  {
+    "filepath": "2024/11-21/llms.txt-a-proposal-to-provide-information-to-help-llms-use-websites.md",
+    "category": [
+      "Language Models",
+      "Web Standards",
+      "Markdown"
+    ],
+    "url": "https://www.answer.ai/posts/2024-09-03-llmstxt.html",
+    "title": "llms.txt—a proposal to provide information to help LLMs use websites",
+    "description": "This webpage proposes adding a /llms.txt file to websites designed for reading by language models to help them better utilize website content.",
+    "date": "2024-11-21",
+    "text": "# llms.txt—a proposal to provide information to help LLMs use websites\n\n[https://www.answer.ai/posts/2024-09-03-llmstxt.html](https://www.answer.ai/posts/2024-09-03-llmstxt.html)\n\n## Description\n\nThis webpage proposes adding a /llms.txt file to websites designed for reading by language models to help them better utilize website content.\n\n## Summary\n\nThe article suggests that website owners create a /llms.txt file, which acts as a markdown resource providing background information and guidance tailored for language models (LLMs). This file would include links to more detailed markdown files relevant to the website's content, facilitating a more effective way for LLMs to scrape and understand pertinent information. It highlights the importance of allowing authors to define the context that LLMs can retrieve, making content ingestion clearer and more structured.\n\nThe proposed llms.txt format would include various sections such as a project title, a brief summary, detailed explanations, and links to external resources. This method simplifies how LLMs gather necessary information, addressing challenges like ambiguity in data retrieval. Additionally, the article recommends providing a clean markdown version of existing web pages to streamline content consumption by LLMs.\n\nBy adopting this standard, creators can enhance the interaction between their content and LLMs, making it easier for models to access relevant information. The proposed structure is both human-readable and conducive to automated parsing, paving the way for improved documentation approaches across various domains, including software libraries and educational resources."
+  },
+  {
+    "filepath": "2024/11-21/slido-audience-interaction-made-easy.md",
+    "category": [
+      "Audience Engagement",
+      "Polling",
+      "Virtual Meetings"
+    ],
+    "url": "https://www.slido.com/",
+    "title": "Slido - Audience Interaction Made Easy",
+    "description": "Slido is the ultimate Q&A and polling platform for live and virtual meetings and events.",
+    "date": "2024-11-21",
+    "text": "# Slido - Audience Interaction Made Easy\n\n[https://www.slido.com/](https://www.slido.com/)\n\n## Description\n\nSlido is the ultimate Q&A and polling platform for live and virtual meetings and events.\n\n## Summary\n\nSlido provides tools for engaging participants in meetings and events through live polls, Q&A sessions, quizzes, and analytics. The platform helps facilitate interaction, allowing participants to ask questions and vote on their favorites in real-time, thereby enhancing audience involvement.\n\nWith features such as word clouds and surveys, Slido caters to various scenarios including remote meetings, hybrid events, webinars, and educational settings. Designed for ease of use, both hosts and participants can engage with the platform without complicated setups or logins. The service aims to transform traditional presentations into dynamic conversations, ensuring that every voice is heard and valued in any setting—be it physical or virtual."
   }
 ]
