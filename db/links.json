@@ -1127,5 +1127,31 @@
     "description": "Slido is the ultimate Q&A and polling platform for live and virtual meetings and events.",
     "date": "2024-11-21",
     "text": "# Slido - Audience Interaction Made Easy\n\n[https://www.slido.com/](https://www.slido.com/)\n\n## Description\n\nSlido is the ultimate Q&A and polling platform for live and virtual meetings and events.\n\n## Summary\n\nSlido provides tools for engaging participants in meetings and events through live polls, Q&A sessions, quizzes, and analytics. The platform helps facilitate interaction, allowing participants to ask questions and vote on their favorites in real-time, thereby enhancing audience involvement.\n\nWith features such as word clouds and surveys, Slido caters to various scenarios including remote meetings, hybrid events, webinars, and educational settings. Designed for ease of use, both hosts and participants can engage with the platform without complicated setups or logins. The service aims to transform traditional presentations into dynamic conversations, ensuring that every voice is heard and valued in any setting—be it physical or virtual."
+  },
+  {
+    "filepath": "2024/11-26/fugatto-worlds-most-flexible-sound-machine-debuts.md",
+    "category": [
+      "Generative AI",
+      "Audio Processing",
+      "Sound Design"
+    ],
+    "url": "https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/",
+    "title": "Fugatto - World’s Most Flexible Sound Machine Debuts",
+    "description": "Fugatto generates or transforms any mix of music,voices and sounds described with prompts using any combination of text and audio files.",
+    "date": "2024-11-26",
+    "text": "# Fugatto - World’s Most Flexible Sound Machine Debuts\n\n[https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)\n\n## Description\n\nFugatto generates or transforms any mix of music, voices and sounds described with prompts using any combination of text and audio files.\n\n## Summary\n\nNVIDIA has introduced Fugatto, an innovative generative AI model designed to transform and create soundscapes seamlessly using text and audio prompts. Unlike existing models that are limited to specific tasks, Fugatto acts as a versatile sound machine, capable of producing various combinations of music, voices, and unique sounds based on user descriptions. This tool opens up new creative avenues for music producers, ad agencies, language learning tools, and video game developers, allowing them to manipulate audio content and generate new assets instantaneously.\n\nThe technology behind Fugatto incorporates advanced techniques such as ComposableART and temporal interpolation, enabling users to mix instructions and generate evolving soundscapes. With a foundation built on 2.5 billion parameters, it showcases emergent properties that cater to a diverse range of tasks and synthesize entirely new audio experiences that have not been previously recorded. The collaborative effort from a global team highlights the potential of AI to revolutionize sound and music production."
+  },
+  {
+    "filepath": "2024/11-26/introducing-the-model-context-protocol.md",
+    "category": [
+      "AI",
+      "Standards",
+      "Open Source"
+    ],
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "title": "Introducing the Model Context Protocol - Anthropic",
+    "description": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives,including content repositories,business tools,and development environments.",
+    "date": "2024-11-26",
+    "text": "# Introducing the Model Context Protocol - Anthropic\n\n[https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol)\n\n## Description\n\nThe Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments.\n\n## Summary\n\nToday, Anthropic announced the open-sourcing of the Model Context Protocol (MCP), which seeks to overcome the challenge of AI systems being isolated from key data sources. This new, universal standard replaces the need for fragmented integrations by allowing developers to create secure, two-way connections between AI tools and various data sources, streamlining access to relevant information.\n\nThe MCP comprises three primary components for developers, including the specification and SDKs, support for local MCP servers, and an open-source repository of MCP servers. Companies like Block and Apollo are already incorporating MCP into their systems to enhance the capabilities of AI agents, leading to better retrieval of relevant information and improved contextual understanding. Anthropic invites the developer community to collaborate in building a future for context-aware AI."
   }
 ]
