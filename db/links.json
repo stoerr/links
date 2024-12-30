@@ -1153,5 +1153,83 @@
     "description": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives,including content repositories,business tools,and development environments.",
     "date": "2024-11-26",
     "text": "# Introducing the Model Context Protocol - Anthropic\n\n[https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol)\n\n## Description\n\nThe Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments.\n\n## Summary\n\nToday, Anthropic announced the open-sourcing of the Model Context Protocol (MCP), which seeks to overcome the challenge of AI systems being isolated from key data sources. This new, universal standard replaces the need for fragmented integrations by allowing developers to create secure, two-way connections between AI tools and various data sources, streamlining access to relevant information.\n\nThe MCP comprises three primary components for developers, including the specification and SDKs, support for local MCP servers, and an open-source repository of MCP servers. Companies like Block and Apollo are already incorporating MCP into their systems to enhance the capabilities of AI agents, leading to better retrieval of relevant information and improved contextual understanding. Anthropic invites the developer community to collaborate in building a future for context-aware AI."
+  },
+  {
+    "filepath": "2024/12-29/around-the-rag-in-80-questions-part-ii.md",
+    "category": [
+      "Retrieval Augmented Generation",
+      "Machine Learning",
+      "Articles"
+    ],
+    "url": "https://pub.towardsai.net/around-the-rag-in-80-questions-part-ii-4df03c6dba86",
+    "title": "Around the R.A.G. in 80 Questions — Part II",
+    "description": "Retrieval Augmented Generation is a crucial technique for developers,managers and business leaders,explored through common questions and their answers.",
+    "date": "2024-12-29",
+    "text": "# Around the R.A.G. in 80 Questions — Part II\n\n[https://pub.towardsai.net/around-the-rag-in-80-questions-part-ii-4df03c6dba86](https://pub.towardsai.net/around-the-rag-in-80-questions-part-ii-4df03c6dba86)\n\n## Description\n\nRetrieval Augmented Generation is a crucial technique for developers, managers and business leaders, explored through common questions and their answers.\n\n## Summary\n\nThis article, written by Abhinav Kimothi, is a continuation of a two-part series focused on Retrieval Augmented Generation (RAG). It aims to provide a quick and in-depth understanding of RAG through a collection of 80 questions organized into eight themes. This second part features the next set of questions, following the foundational concepts introduced in the first part, which covered the basics of RAG design, indexing, and the generation pipeline.\n\nThe series emphasizes the importance of understanding RAG by studying commonly asked questions that address its concepts, architecture, development tips, and best practices. This approach allows developers, managers, and business leaders to grasp the intricacies of RAG and its applications more effectively."
+  },
+  {
+    "filepath": "2024/12-29/build-vs-buy-the-ai-implementation-guide.md",
+    "category": [
+      "Artificial Intelligence",
+      "Decision Making",
+      "Operations Research"
+    ],
+    "url": "https://medium.com/operations-research-bit/build-vs-buy-the-ai-implementation-guide-36450424aafc",
+    "title": "Build vs Buy — The AI Implementation Guide",
+    "description": "This guide analyzes the critical decision-making factors for companies considering whether to build or buy AI solutions.",
+    "date": "2024-12-29",
+    "text": "# Build vs Buy — The AI Implementation Guide\n\n[https://medium.com/operations-research-bit/build-vs-buy-the-ai-implementation-guide-36450424aafc](https://medium.com/operations-research-bit/build-vs-buy-the-ai-implementation-guide-36450424aafc)\n\n## Description\n\nThis guide analyzes the critical decision-making factors for companies considering whether to build or buy AI solutions.\n\n## Summary\n\nThe \"Build vs Buy\" dilemma in AI implementation has risen to prominence as numerous companies grapple with whether to create in-house capabilities or partner with existing providers. The article discusses the high stakes involved in this decision, highlighting potential risks like unacceptable tech problems or the pitfalls of working with the wrong vendor. \n\nA comprehensive guide is provided, outlining essential factors like expertise, cost, security, and more to streamline the decision-making process. The guide also delves into strategic implications, emphasizing that AI initiatives should align with broader organizational goals and respond flexibly to technological advancements.\n\nUltimately, whether to build or buy AI capabilities is a complex decision that varies by organization, requiring careful consideration of specific business needs and available resources. The guide aims to support organizations in navigating this nuanced choice effectively."
+  },
+  {
+    "filepath": "2024/12-29/cognitive-load-is-what-matters.md",
+    "category": [
+      "Software Engineering",
+      "Cognitive Load",
+      "Code Quality"
+    ],
+    "url": "https://minds.md/zakirullin/cognitive",
+    "title": "Cognitive load is what matters",
+    "description": "This article delves into the significance of cognitive load in software development,emphasizing the impact of confusion on productivity and code quality.",
+    "date": "2024-12-29",
+    "text": "# Cognitive load is what matters\n\n[https://minds.md/zakirullin/cognitive](https://minds.md/zakirullin/cognitive)\n\n## Description\n\nThis article delves into the significance of cognitive load in software development, emphasizing the impact of confusion on productivity and code quality.\n\n## Summary\n\nThe article discusses how cognitive load affects developers when understanding and navigating code, asserting that confusion—whether intrinsic or extraneous—can lead to inefficiencies. By identifying and addressing the various factors contributing to cognitive load, such as complex logic, nested conditions, and unnecessary abstractions, developers can create cleaner, more maintainable code that reduces the mental effort required for comprehension.\n\nIt also highlights the importance of adopting simpler designs, like using meaningful variable names and favoring composition over inheritance, to minimize cognitive load. The author underlines that effective communication and documentation can alleviate cognitive strain, allowing new developers to onboard smoothly and contribute effectively without overwhelming confusion. Ultimately, the focus is on simplifying code organization and minimizing unnecessary complexity to enhance code readability and maintainability."
+  },
+  {
+    "filepath": "2024/12-29/the-future-of-ai-thinking-slow-to-solve-big.md",
+    "category": [
+      "Artificial Intelligence",
+      "Decision Making",
+      "Long Thinking"
+    ],
+    "url": "https://generativeai.pub/the-future-of-ai-thinking-slow-to-solve-big-243775183e1c",
+    "title": "The Future of AI - Thinking Slow to Solve Big",
+    "description": "Long Thinking AI uses strategic human like reasoning to solve big problems with focus on long-term goals.",
+    "date": "2024-12-29",
+    "text": "# The Future of AI - Thinking Slow to Solve Big\n\n[https://generativeai.pub/the-future-of-ai-thinking-slow-to-solve-big-243775183e1c](https://generativeai.pub/the-future-of-ai-thinking-slow-to-solve-big-243775183e1c)\n\n## Description\n\nLong Thinking AI uses strategic human like reasoning to solve big problems with focus on long-term goals.\n\n## Summary\n\nThe article explores the concept of Long Thinking AI, which moves beyond the traditional emphasis on speed and efficiency. Instead, it suggests a shift towards a more deliberate decision-making process that mimics human reasoning, incorporating goal-setting, feedback loops, and adaptive strategies. By prioritizing thoughtful deliberation over reactive measures, this innovative approach could redefine how industries address complex challenges.\n\nHighlighting concepts from Daniel Kahneman's book \"Thinking, Fast and Slow,\" the piece contrasts two modes of human cognition: the quick and automatic System 1 thinking, and the more analytical and reflective System 2. Long Thinking AI aims to integrate aspects of both systems, allowing for informed decisions that consider long-term implications, ultimately reshaping our approach to problem-solving in various sectors."
+  },
+  {
+    "filepath": "2024/12-30/openai-openapi.md",
+    "category": [
+      "OpenAPI",
+      "Specification",
+      "API"
+    ],
+    "url": "https://github.com/openai/openai-openapi",
+    "title": "GitHub - openai/openapi - OpenAPI specification for the OpenAI API",
+    "description": "OpenAPI specification for the OpenAI API.",
+    "date": "2024-12-30",
+    "text": "# GitHub - openai/openapi - OpenAPI specification for the OpenAI API\n\n[https://github.com/openai/openai-openapi](https://github.com/openai/openai-openapi)\n\n## Description\n\nOpenAPI specification for the OpenAI API.\n\n## Summary\n\nThis repository contains an OpenAPI specification for the OpenAI API, which serves as a public mirror of the internal OpenAI REST API specification. Contributions to the specification document are not currently accepted, although there may be potential for collaborative improvements in the future.\n\nThe OpenAPI specification outlines the standard operations and functionalities that developers can leverage when interacting with the OpenAI API. This document plays a crucial role in facilitating the development and integration of applications utilizing OpenAI's offerings. \n\nThe repository is licensed under the MIT license, allowing users to reference and utilize the API definition freely, subject to the terms of the license."
+  },
+  {
+    "filepath": "2024/12-30/openai-services-swaggerui.md",
+    "category": [
+      "API",
+      "Documentation",
+      "Software"
+    ],
+    "url": "https://petstore.swagger.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenai%2Fopenai-openapi%2Frefs%2Fheads%2Fmaster%2Fopenapi.yaml&utm_source=substack&utm_medium=email",
+    "title": "Swagger UI with OpenAI interfaces",
+    "description": "All OpenAI interfaces shown in Swagger UI",
+    "date": "2024-12-30",
+    "text": "# OpenAI Interfaces\n\n[https://petstore.swagger.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenai%2Fopenai-openapi%2Frefs%2Fheads%2Fmaster%2Fopenapi.yaml&utm_source=substack&utm_medium=email](https://petstore.swagger.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenai%2Fopenai-openapi%2Frefs%2Fheads%2Fmaster%2Fopenapi.yaml&utm_source=substack&utm_medium=email)\n\n## Description\n\nAll OpenAI APIs shown in Swagger UI\n\n## Summary\n\nAll OpenAI APIs for inspection - assistants, text to speech, speech to text, chat completion, embeddings, fine \ntuning, batches, image generation, vector stores"
   }
 ]
