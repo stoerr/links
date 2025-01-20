@@ -2,13 +2,13 @@
 PROMPT for ChatGPT:
 Fill the following markdown template with the information about the previous text and print the filled template.
 The same placeholders should get the same content. Include both `---` from the example below.
-Do not change the date line with the UNCHANGEABLEDATEPLACEHOLDER.
+Do not change the lines with the UNCHANGEABLEDATEPLACEHOLDER and UNCHANGEABLEURLPLACEHOLDER.
 DO NOT print anything else except the template, not even ``` quotes.
 
 ---
-filename: {suggested-filename-from-short-title-in-kebab-case}
+filename: {suggested-filename-from-short-title-in-kebab-case-maximal-5-words}
 category: {up to 3 comma separated list of keywords / categories (words) in Title Case. Prefer IEEE taxonomy.}
-url: {url to the webpage}
+url: UNCHANGEABLEURLPLACEHOLDER
 title: {title of the webpage, replace : by a dash}
 description: {One sentence description of the webpage}
 date: UNCHANGEABLEDATEPLACEHOLDER
@@ -17,7 +17,7 @@ date: UNCHANGEABLEDATEPLACEHOLDER
 
 # {title of the webpage}
 
-[{url}]({url})
+[UNCHANGEABLEURLPLACEHOLDER](UNCHANGEABLEURLPLACEHOLDER)
 
 ## Description
 

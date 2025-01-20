@@ -1246,6 +1246,19 @@
     "text": "# Just a moment...\n\n[https://pub.towardsai.net/advancing-time-series-forecasting-a-comparative-study-of-mamba-gru-kan-gnn-and-arma-models-05ac250f6eed](https://pub.towardsai.net/advancing-time-series-forecasting-a-comparative-study-of-mamba-gru-kan-gnn-and-arma-models-05ac250f6eed)\n\n## Description\n\nThis article presents an in-depth comparison of five distinct approaches to multivariate time series forecasting,\nexamining the performance of Mamba-inspired models, GRU, KAN with dynamic weights, GNNs, and traditional ARMA models. By\nimplementing these techniques on synthetic datasets, the study highlights their effectiveness in capturing complex\ninteractions and patterns in interconnected time series.\n\n## Summary\n\nThe paper evaluates five models for multivariate time series forecasting: Mamba-inspired state-space models capture\ntemporal dynamics efficiently; GRUs excel in sequence pattern recognition; KANs with dynamic weights adapt to varying\ninput conditions; GNNs model inter-series dependencies; and ARMA serves as a baseline for comparison. The results\nindicate that while KAN outperforms the others in accuracy, Mamba, GRU, and GNN show significant potential, especially\nin real-world applications. A proposed integration of Mamba and KAN highlights opportunities for enhanced forecasting\nmethods in the future."
   },
   {
+    "filepath": "2025/01-20/better-alternative-to-resource-override.md",
+    "category": [
+      "Web Development",
+      "API",
+      "Tools"
+    ],
+    "url": "https://requestly.com/alternatives/a-better-alternative-to-resource-override/",
+    "title": "A better alternative to Resource Override",
+    "description": "Easy to use,well-maintained,faster & powerful alternative to Resource Override to intercept,modify,and debug HTTP Requests. Built for teams.",
+    "date": "2025-01-20",
+    "text": "# A better alternative to Resource Override\n\n[https://requestly.com/alternatives/a-better-alternative-to-resource-override/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nEasy to use, well-maintained, faster & powerful alternative to Resource Override to intercept, modify, and debug HTTP Requests.\nA browser extension and a desktop application for all major platforms like Chrome & Chrome-based browsers, Firefox, \nSafari, Edge, Brave, Opera, Vivaldi, Windows, Mac(Apple & Intel Chips), and Linux.\n\n## Summary\n\nRequestly presents a modern, browser-first alternative to Resource Override, enabling request modification, debugging, and resource mapping for enhanced workflow efficiency. It is actively maintained, boasts excellent customer support, and offers a user-friendly interface, making it suitable for over 200,000 developers, including teams from Fortune 500 companies.\n\nUnlike Resource Override, Requestly integrates advanced features such as cloud sync and collaboration tools while maintaining a focus on privacy. Additionally, it offers exclusive support for GraphQL, allowing users to simulate more complex scenarios and modify API requests efficiently.\n\nWith strong emphasis on security and compliance, Requestly is equipped with SOC-II compliance, Single Sign-On (SSO) integration, and role-based access control, establishing itself as a top choice for enterprise-grade development needs."
+  },
+  {
     "filepath": "2025/01-20/rag-as-a-service.md",
     "category": [
       "Artificial Intelligence",
@@ -1259,5 +1272,18 @@
     "retrieval-augmented generation into your workflow": "retrieval-augmented generation into your workflow.",
     "date": "2025-01-20",
     "text": "# RAG as a Service - The Developer’s New Best Friend\n\n[https://ai.plainenglish.io/rag-as-a-service-the-developers-new-best-friend-7fd6634ed7db](https://ai.plainenglish.io/rag-as-a-service-the-developers-new-best-friend-7fd6634ed7db)\n\n## Description\n\nDescribes the trouble of implementing one's own RAG service and recommends several RAG-as-a-service solutions.\n\n## Summary\n\nRAG as a Service enables developers to efficiently harness the power of Retrieval-Augmented Generation (RAG) models without the complexity of managing infrastructure. It provides an accessible and streamlined solution for integrating advanced AI capabilities into applications, enhancing the development process and user experience."
+  },
+  {
+    "filepath": "2025/01-20/resource-override.md",
+    "category": [
+      "Extensions",
+      "Chrome",
+      "Web"
+    ],
+    "url": "https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii",
+    "title": "Resource Override - Chrome Web Store",
+    "description": "An extension to help you gain full control of any website by redirecting traffic,replacing,editing,or inserting new content.",
+    "date": "2025-01-20",
+    "text": "# Resource Override - Chrome Web Store\n\n[https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAn extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.\n\n## Summary\n\nResource Override is a powerful Chrome extension designed for users who want to manipulate website content dynamically. It allows for the redirection of URLs, modification of request and response headers, and the injection of JavaScript and CSS on the fly—ideal for debugging and development purposes.\n\nThe tool has integrated presets to easily enable CORS and other common modifications, making it user-friendly even for those who may not have extensive programming knowledge. Users can create text documents and use the integrated file editor to work with unminified code directly.\n\nWith a solid rating and a commitment to privacy, this extension provides a straightforward way for developers to gain control over the web pages they are working on, enhancing their productivity and workflow."
   }
 ]
