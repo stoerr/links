@@ -1296,5 +1296,18 @@
     "description": "iPhones,iPads und Macs bieten Kinderschutz-Optionen,doch einige davon lassen sich kinderleicht umgehen,wie Recherchen von Stiftung Warentest und SWR zeigen.",
     "date": "2025-01-21",
     "text": "# Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-konnen\n\n[https://www.test.de/Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-koennen-6186262-0/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\niPhones, iPads und Macs bieten Kinderschutz-Optionen, doch einige davon lassen sich kinderleicht umgehen, wie Recherchen von Stiftung Warentest und SWR zeigen.\n\n## Summary\n\nStiftung Warentest und der SWR haben in ihren Recherchen festgestellt, dass die Kinderschutzfunktionen von Apple zwar vorhanden sind, jedoch große Lücken aufweisen. Kinder können die Schutzmechanismen, wie die Bildschirmzeit-Funktion, leicht umgehen, wodurch sie Zugang zu unangemessenen Inhalten wie Gewalt- und Sexualdarstellungen erhalten. Besonders im \"unterstützenden Zugriff\"-Modus, der für Menschen mit kognitiven Einschränkungen gedacht ist, können von den Eltern festgelegte Einschränkungen umgangen werden.\n\nDie Analyse der Schutzmechanismen zeigt, dass während einige Einstellungen effektiv sind, andere nicht ausreichend, um Kinder vor ungeeigneten Inhalten zu schützen. Eltern wird geraten, diese Funktionen nicht als alleiniges Schutzmittel zu nutzen und stattdessen aktiv Begleitung und Kommunikation zu fördern, um ihren Kindern den sicheren Umgang mit digitalen Medien zu ermöglichen. Es wird zudem darauf hingewiesen, dass Apple technische Defizite nicht ausreichend adressiert hat, was eine Diskussion über die Verantwortung großer Technologieunternehmen in Bezug auf den Kinderschutz anstoßen könnte."
+  },
+  {
+    "filepath": "2025/01-24/lessons-from-red-teaming.md",
+    "category": [
+      "Artificial Intelligence",
+      "Security",
+      "Generative AI"
+    ],
+    "url": "https://arxiv.org/abs/2501.07238",
+    "title": "Lessons From Red Teaming 100 Generative AI Products",
+    "description": "This paper discusses insights gained from red teaming over 100 generative AI products at Microsoft.",
+    "date": "2025-01-24",
+    "text": "# Lessons From Red Teaming 100 Generative AI Products\n\n[https://arxiv.org/abs/2501.07238](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis paper discusses insights gained from red teaming over 100 generative AI products at Microsoft.\n\n## Summary\n\nIn recent years, AI red teaming has emerged as a practice for probing the safety and security of generative AI systems. With the nascent state of the field, many open questions remain regarding how red teaming operations should be conducted. The paper presents an internal threat model ontology along with eight key lessons learned from this undertaking, such as understanding the capabilities and application areas of the systems, the necessity of human involvement in red teaming, and the continuous nature of securing AI systems.\n\nThe lessons include insights on the importance of acknowledging that AI red teaming is not the same as safety benchmarking, the potential for automation to cover more risks, and the challenges in measuring responsible AI harms. It also emphasizes that generative AI, like large language models (LLMs), can amplify existing security risks and introduce new ones. Through practical recommendations and case studies, the authors aim to align red teaming efforts with real-world risks and clarify common misconceptions in the field."
   }
 ]
