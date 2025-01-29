@@ -1322,5 +1322,18 @@
     "description": "LLMs have the potential to revolutionise our field of healthcare,but the fear and reality of hallucinations prevent adoption in most applications.",
     "date": "2025-01-25",
     "text": "# Deterministic Quoting - Making LLMs Safer for Healthcare\n\n[https://mattyyeung.github.io/deterministic-quoting](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nLLMs have the potential to revolutionise our field of healthcare, but the fear and reality of hallucinations prevent adoption in most applications.\n\n## Summary\n\nThis article discusses the need for safer integration of Large Language Models (LLMs) into healthcare and introduces \"Deterministic Quoting,\" a technique designed to ensure that quotations from source material are verbatim, reducing the risk of hallucinations. The overarching goal of this methodology is to bridge the trust gap that exists when deploying LLM systems, particularly in high-stakes environments such as healthcare, where incorrect information can lead to serious consequences.\n\nDeterministic Quoting aims to guarantee that all quoted text displayed is accurate and sourced directly from reliable materials, rather than generated or altered by an LLM. While this technique promises improvements over current systems by providing clear distinctions between generated text and trusted quotations, it acknowledges that challenges related to the quality of LLM outputs remain significant. The article also highlights preliminary results showcasing improvements in hallucination rates and overall answer quality when utilizing this approach.\n\nThe implementation details are laid out step-by-step, demonstrating modifications to traditional LLM pipelines to incorporate deterministic lookups for quotes. It discusses the importance of chunking, metadata, and prompt engineering as key elements in effectively applying Deterministic Quoting, with the understanding that these methods are not solely limited to healthcare but can be adapted for other fields as well."
+  },
+  {
+    "filepath": "2025/01-28/bestes-aktiendepot-2024.md",
+    "category": [
+      "Investment",
+      "Finance",
+      "Banking"
+    ],
+    "url": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/depot-vergleich-212281",
+    "title": "Bestes Aktiendepot 2024 - Vergleich & Ratgeber",
+    "description": "Finanzieller Erfolg mit dem richtigen Depot und den besten online Brokern!",
+    "date": "2025-01-28",
+    "text": "# Bestes Aktiendepot 2024 - Vergleich & Ratgeber\n\n[https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/depot-vergleich-212281](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nFinanzieller Erfolg mit dem richtigen Depot und den besten online Brokern!\n\n## Summary\n\nDie Wahl des richtigen Wertpapierdepots ist entscheidend für den finanziellen Erfolg, weshalb ein Depot-Vergleich sinnvoll ist. Ein Aktiendepot wird bei verschiedenen Institutionen angeboten, darunter Banken, Online-Broker und digitale Vermögensverwalter, und sollte auf Kriterien wie Gebühren, Service und zusätzliche Funktionen geprüft werden.\n\nDas Dokument gibt einen umfassenden Überblick über die verschiedenen Depotarten, deren Kostenstrukturen und die idealen Anlegertypen. Zudem werden wichtige Aspekte wie die Depotführung, Handelskosten, die Unterschiede zwischen Handelsplätzen und die Notwendigkeit eines Depotvergleichs hervorgehoben. Ein kostenloser Online-Depot-Vergleich wird empfohlen, um das beste Depot zu finden, das den persönlichen Bedürfnissen entspricht."
   }
 ]
