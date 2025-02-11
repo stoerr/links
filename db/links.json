@@ -1348,5 +1348,18 @@
     "description": "Here is a GitHub repository with several ready-to-use schemas for actions you can add to your GPTs.",
     "date": "2025-02-02",
     "text": "# GPT Actions Compendium - List of Free and Open Source GPT Actions\n\n[https://community.openai.com/t/gpt-actions-compendium-list-of-free-and-open-source-gpt-actions/611847](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nHere is a GitHub repository with several ready-to-use schemas for actions you can add to your GPTs.\n\n## Summary\n\nThe compendium serves as a resource for developers looking to enhance their GPT applications with free and open-source action schemas. Users are encouraged to contribute their own actions to the repository, promoting community collaboration and resource sharing among GPT builders. In addition to the main repository, discussions include troubleshooting API errors and sharing resources to aid in the development process, enriching the community knowledge base and supporting builders with insights and shared experiences."
+  },
+  {
+    "filepath": "2025/02-11/three-observations.md",
+    "category": [
+      "Artificial Intelligence",
+      "Economics",
+      "Technology"
+    ],
+    "url": "https://blog.samaltman.com/three-observations",
+    "title": "Three Observations",
+    "description": "Sam Altman discusses the significance of Artificial General Intelligence (AGI) and its potential impact on humanity and the economy.",
+    "date": "2025-02-11",
+    "text": "# Three Observations\n\n[https://blog.samaltman.com/three-observations](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nSam Altman discusses the significance of Artificial General Intelligence (AGI) and its potential impact on humanity and the economy.\n\n## Summary\n\nIn his blog post, Sam Altman emphasizes the mission to ensure that AGI benefits all of humanity as systems pointing towards AGI are emerging. He notes the value of human innovation and the ever-evolving nature of tools that contribute to societal progress. Altman provides three key observations about the economics of AI, highlighting that increases in intelligence correspond with the resources required to train AI models, the dramatic decrease in costs associated with using AI technology, and the superior economic value of linear increases in intelligence.\n\nHe also envisions a future where AI agents will serve as virtual co-workers across various fields, significantly changing the nature of work. Altman encourages a balanced approach to integrating AGI into society, focusing on broad distribution of its benefits while being mindful of potential inequalities that could arise. This foresight paired with ongoing technological advancements signals a transformative period ahead where AGI could lead to remarkable improvements in human creativity and productivity."
   }
 ]
