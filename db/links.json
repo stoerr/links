@@ -1361,5 +1361,44 @@
     "description": "Sam Altman discusses the significance of Artificial General Intelligence (AGI) and its potential impact on humanity and the economy.",
     "date": "2025-02-11",
     "text": "# Three Observations\n\n[https://blog.samaltman.com/three-observations](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nSam Altman discusses the significance of Artificial General Intelligence (AGI) and its potential impact on humanity and the economy.\n\n## Summary\n\nIn his blog post, Sam Altman emphasizes the mission to ensure that AGI benefits all of humanity as systems pointing towards AGI are emerging. He notes the value of human innovation and the ever-evolving nature of tools that contribute to societal progress. Altman provides three key observations about the economics of AI, highlighting that increases in intelligence correspond with the resources required to train AI models, the dramatic decrease in costs associated with using AI technology, and the superior economic value of linear increases in intelligence.\n\nHe also envisions a future where AI agents will serve as virtual co-workers across various fields, significantly changing the nature of work. Altman encourages a balanced approach to integrating AGI into society, focusing on broad distribution of its benefits while being mindful of potential inequalities that could arise. This foresight paired with ongoing technological advancements signals a transformative period ahead where AGI could lead to remarkable improvements in human creativity and productivity."
+  },
+  {
+    "filepath": "2025/02-15/git-scraping.md",
+    "category": [
+      "Web Scraping",
+      "Git",
+      "Data Management"
+    ],
+    "url": "https://simonwillison.net/series/git-scraping/",
+    "title": "Simon Willison - Git scraping",
+    "description": "A technique for scraping content into a Git repository to track changes to it over time.",
+    "date": "2025-02-15",
+    "text": "# Simon Willison - Git scraping\n\n[https://simonwillison.net/series/git-scraping/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA technique for scraping content into a Git repository to track changes to it over time.\n\n## Summary\n\nThe webpage by Simon Willison discusses \"Git scraping,\" which is an innovative scraping technique that allows users to periodically capture and store data from web sources into a Git repository. This method is particularly effective for tracking changes over time, enabling users to have a version-controlled history of the scraped data.\n\nWillison shares various applications of this technique, illustrating its usefulness during emergencies such as the Irma hurricane, where data was collected to aid response efforts. He presents several case studies, detailing how Git scraping can be utilized to track vital information like public works data, utility outages, and tree inventories.\n\nMoreover, the article encourages the use of Git for collaboration and historical tracking, emphasizing the potential for automation within this framework, such as using GitHub Actions to run scrapers regularly for up-to-date data. This resource serves as a guide for developers and data enthusiasts looking to enhance their scraping capabilities while maintaining a robust change history."
+  },
+  {
+    "filepath": "2025/02-15/help-scraping-cli-tools.md",
+    "category": [
+      "Data Science",
+      "Git",
+      "CLI Tools"
+    ],
+    "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
+    "title": "Help scraping track changes to CLI tools by recording their --help using Git",
+    "description": "This article explores Help scraping as a method to track changes to CLI tools over time using Git.",
+    "date": "2025-02-15",
+    "text": "# Help scraping track changes to CLI tools by recording their --help using Git\n\n[https://simonwillison.net/2022/Feb/2/help-scraping/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis article explores Help scraping as a method to track changes to CLI tools over time using Git.\n\n## Summary\n\nIn this article, Simon Willison introduces the concept of Help scraping, a method to track changes made to command-line interface (CLI) tools by recording their `--help` output in a Git repository. This technique allows users to create a detailed version history of changes that may not be fully captured in official release notes, highlighting the evolving nature of tools like the AWS CLI and the Flyctl tool.\n\nThe implementation of this method runs daily, capturing the output of various AWS commands to document modifications in help files to facilitate better understanding of changes across updates. Notably, the article illustrates the scale of updates through detailed statistics from recent AWS CLI releases.\n\nAdditionally, the author discusses personal projects where this idea was applied to maintain documentation for CLI commands, demonstrating the practicality of Help scraping for developers in tracking changes systematically."
+  },
+  {
+    "filepath": "2025/02-15/shot-scraper-command-line-tool.md",
+    "category": [
+      "Command-Line",
+      "Screenshot",
+      "Automation"
+    ],
+    "url": "https://shot-scraper.datasette.io/",
+    "title": "shot-scraper",
+    "description": "A command-line utility for taking automated screenshots of websites.",
+    "date": "2025-02-15",
+    "text": "# shot-scraper\n\n[https://shot-scraper.datasette.io/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA command-line utility for taking automated screenshots of websites.\n\n## Summary\n\nShot-scraper is a command-line tool designed to automate the process of taking screenshots of web pages. Users can quickly install the tool using `pip` and configure it by following a few easy steps. The utility allows users to capture single or multiple screenshots, adjust browser dimensions, and even interact with web pages during the screenshot process, providing flexibility for various use cases.\n\nThe documentation offers comprehensive guidance on installation, configuration, and usage, including advanced features like saving as PDFs, scraping HTML, and logging requests. Moreover, it highlights integrations with platforms like GitHub for seamless automation workflows, making it a versatile tool for web developers and data scientists.\n\nExamples and user stories demonstrate practical applications of shot-scraper, showcasing its effectiveness in generating screenshots for documentation, archiving, and automating repetitive tasks in web scraping."
   }
 ]
