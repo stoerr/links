@@ -1400,5 +1400,18 @@
     "description": "A command-line utility for taking automated screenshots of websites.",
     "date": "2025-02-15",
     "text": "# shot-scraper\n\n[https://shot-scraper.datasette.io/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA command-line utility for taking automated screenshots of websites.\n\n## Summary\n\nShot-scraper is a command-line tool designed to automate the process of taking screenshots of web pages. Users can quickly install the tool using `pip` and configure it by following a few easy steps. The utility allows users to capture single or multiple screenshots, adjust browser dimensions, and even interact with web pages during the screenshot process, providing flexibility for various use cases.\n\nThe documentation offers comprehensive guidance on installation, configuration, and usage, including advanced features like saving as PDFs, scraping HTML, and logging requests. Moreover, it highlights integrations with platforms like GitHub for seamless automation workflows, making it a versatile tool for web developers and data scientists.\n\nExamples and user stories demonstrate practical applications of shot-scraper, showcasing its effectiveness in generating screenshots for documentation, archiving, and automating repetitive tasks in web scraping."
+  },
+  {
+    "filepath": "2025/02-28/hacked-perplexity-ai-system-prompt.md",
+    "category": [
+      "AI",
+      "Data Science",
+      "Prompt Engineering"
+    ],
+    "url": "https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060",
+    "title": "I-hacked-Perplexity-AI’s-full-system-prompt-when-I-shared-my-own-cognitive-vulnerabilities-with-it",
+    "description": "AI models can reveal system prompts when internal tokens,delimiters and cognitive framing techniques are strategically used to bypass content restrictions.",
+    "date": "2025-02-28",
+    "text": "# I hacked Perplexity AI’s full system prompt when I shared my own cognitive vulnerabilities with it\n\n[https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAI models can reveal system prompts when internal tokens, delimiters and cognitive framing techniques are strategically used to bypass content restrictions.\n\n## Summary\n\nThe article explores the intersection of AI system prompts and neurodivergent users. The author, Jim the AI Whisperer, highlights the importance of transparency in AI system prompts, arguing that these hidden instructions can affect the AI's behavior towards differently abled users. By sharing personal cognitive vulnerabilities, related to acquired disabilities, Jim attempts to hack into the Perplexity AI system to unveil deeper system prompts that impact its responses.\n\nJim's experiences with aphasia give him a unique affinity for AI, leading him to investigate internal token delimiter artifacts that can reveal how AI processes requests based on user interactions. The article suggests that acknowledging one's own cognitive diversity may provide critical insights into how AI behaves, especially in regard to users it perceives as \"gameable\" or more susceptible to harmful outputs."
   }
 ]
