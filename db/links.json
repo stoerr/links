@@ -1426,5 +1426,18 @@
     "description": "Learn about Claude Code,an agentic coding tool made by Anthropic. Currently in beta as a research preview.",
     "date": "2025-03-02",
     "text": "# Claude Code overview\n\n[https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nLearn about Claude Code, an agentic coding tool made by Anthropic. Currently in beta as a research preview.\n\n## Summary\n\nClaude Code is a terminal-based coding tool that boosts programming efficiency by processing natural language commands. It seamlessly integrates with the user's development environment, allowing for tasks such as editing files, answering architectural questions about code, executing tests, and managing version control operations. The tool is designed to enhance developer productivity through AI assistance while maintaining a focus on security and privacy.\n\nAs part of its feature set, Claude Code understands project context without requiring manual file imports, streamlining workflows for developers. The tool uses a structured environment to ensure user commands are executed directly, maintaining high standards of security by avoiding reliance on intermediary servers. Currently in beta, Claude Code is evolving based on user feedback to enhance its capabilities further. Users are encouraged to report bugs and provide input to improve this innovative coding assistant."
+  },
+  {
+    "filepath": "2025/03-04/mastering-cq-iscontainer-property-aem.md",
+    "category": [
+      "AEM",
+      "Content Management",
+      "Property"
+    ],
+    "url": "https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa",
+    "title": "Mastering cq-isContainer Property in AEM - A Comprehensive Guide",
+    "description": "Discover how to utilize the cq:isContainer property in Adobe Experience Manager (AEM) to define container nodes and manage content hierarchies effectively.",
+    "date": "2025-03-04",
+    "text": "# Mastering cq-isContainer Property in AEM - A Comprehensive Guide\n\n[https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nDiscover how to utilize the cq:isContainer property in Adobe Experience Manager (AEM) to define container nodes and manage content hierarchies effectively.\n\n## Summary\n\nIn Adobe Experience Manager (AEM), the cq:isContainer property is crucial for defining whether a node can serve as a container for other components. This property plays an essential role in effective content management and structuring within AEM, enabling flexible organization of components and content.\n\nThe cq:isContainer property allows a node or component to act as a container, facilitating the addition and management of child components. A practical example illustrates how a properly defined component-container can house other components, while neglecting to set this property can lead to issues such as content hierarchy mismanagement and unexpected behavior when manipulating live copies.\n\nCorrect configuration of the cq:isContainer property ensures that component hierarchies are preserved, and inheritance behaviors operate as intended, especially when creating nested components. Proper management practices suggest using a base component with container configurations to enhance efficiency across projects."
   }
 ]
