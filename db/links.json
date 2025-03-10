@@ -1439,5 +1439,31 @@
     "description": "Discover how to utilize the cq:isContainer property in Adobe Experience Manager (AEM) to define container nodes and manage content hierarchies effectively.",
     "date": "2025-03-04",
     "text": "# Mastering cq-isContainer Property in AEM - A Comprehensive Guide\n\n[https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nDiscover how to utilize the cq:isContainer property in Adobe Experience Manager (AEM) to define container nodes and manage content hierarchies effectively.\n\n## Summary\n\nIn Adobe Experience Manager (AEM), the cq:isContainer property is crucial for defining whether a node can serve as a container for other components. This property plays an essential role in effective content management and structuring within AEM, enabling flexible organization of components and content.\n\nThe cq:isContainer property allows a node or component to act as a container, facilitating the addition and management of child components. A practical example illustrates how a properly defined component-container can house other components, while neglecting to set this property can lead to issues such as content hierarchy mismanagement and unexpected behavior when manipulating live copies.\n\nCorrect configuration of the cq:isContainer property ensures that component hierarchies are preserved, and inheritance behaviors operate as intended, especially when creating nested components. Proper management practices suggest using a base component with container configurations to enhance efficiency across projects."
+  },
+  {
+    "filepath": "2025/03-09/the-5-second-conversation-hack.md",
+    "category": [
+      "Social Psychology",
+      "Communication",
+      "Relationships"
+    ],
+    "url": "https://medium.com/hello-love/the-5-second-conversation-hack-that-makes-people-instantly-like-you-6591c9a06690",
+    "title": "The 5-Second Conversation Hack That Makes People Instantly Like You",
+    "description": "A Social Psychologist’s Secret to Effortless Connection",
+    "date": "2025-03-09",
+    "text": "# The 5-Second Conversation Hack That Makes People Instantly Like You\n\n[https://medium.com/hello-love/the-5-second-conversation-hack-that-makes-people-instantly-like-you-6591c9a06690](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA Social Psychologist’s Secret to Effortless Connection\n\n## Summary\n\nThe article discusses a simple conversational technique that can make people like you within seconds. By using specific observations about a person or the context, combined with playful self-disclosure, individuals can create an instant rapport. This approach draws on psychological principles, such as Dale Carnegie's principle of showing genuine interest in others and the neurochemical effects of vulnerability, which can enhance connection.\n\nThe hack encourages taking note of the surroundings or the person's behavior, making a light-hearted remark about it, and sharing a personal experience or opinion. For instance, starting a conversation by commenting on a snack table and asking for the other person's controversial food opinion can break the ice effectively.\n\nReal-life examples illustrate the strategy in various scenarios, emphasizing the importance of making observations without judgment and exposing one's own awkwardness to foster a sense of commonality and openness."
+  },
+  {
+    "filepath": "2025/03-09/will-the-future-of-software-development-run-on-vibes.md",
+    "category": [
+      "Artificial Intelligence",
+      "Software Development",
+      "Programming"
+    ],
+    "url": "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/",
+    "title": "Will the future of software development run on vibes",
+    "description": "Accepting AI-written code without understanding how it works is growing in popularity.",
+    "date": "2025-03-09",
+    "text": "# Will the future of software development run on vibes\n\n[https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAccepting AI-written code without understanding how it works is growing in popularity.\n\n## Summary\n\nThe article explores the concept of \"vibe coding,\" a term coined by former OpenAI researcher Andrej Karpathy, where individuals use AI tools like ChatGPT to generate code based solely on natural language prompts. This approach is rapidly popular among developers, especially in prototyping environments where speed and experimentation are prioritized over precision and understanding. Vibe coding has become more accessible with AI coding assistants, potentially lowering barriers for those without traditional programming skills.\n\nWhile vibe coding fosters creativity and quick solutions, there are concerns regarding code reliability and maintainability, especially for more complex systems. Industry experts express wariness about adopting this approach in production-level projects, emphasizing the importance of understanding the code generated by AI. As AI technology continues to evolve, the impact of vibe coding on the software development landscape remains an open question, potentially reshaping roles and responsibilities in programming."
   }
 ]
