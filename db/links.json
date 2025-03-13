@@ -1478,5 +1478,18 @@
     "description": "A presentation covering developments in large language models (LLMs) presented at the NICAR 2025 data journalism conference.",
     "date": "2025-03-10",
     "text": "# Whats new in the world of LLMs for NICAR 2025\n\n[https://simonwillison.net/2025/Mar/8/nicar-llms/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA presentation covering developments in large language models (LLMs) presented at the NICAR 2025 data journalism conference.\n\n## Summary\n\nIn this session, Simon Willison discussed significant advancements in large language models (LLMs) from late 2022 through 2025, targeting their implications for data journalism. He highlighted the historic launch of ChatGPT, the emergence of GPT-4, and a surge of competing models in 2024, noting that many models now offer multi-modal capabilities and are increasingly affordable. Willison also presented the emergence of local models that have improved substantially, making them more viable for individual use.\n\nThe workshop included in-depth discussions on the types of models available, particularly the rise of reasoning-empowered models that can tackle complex problems through inference. He also emphasized the importance of custom evaluations for journalists working with LLMs, alongside the need for robust assessments of new capabilities, especially in extracting information from challenging formats like PDFs. Overall, the session encapsulated the rapid evolution of LLM technology and its applications in journalism, encouraging attendees to stay informed and experimental with these powerful tools."
+  },
+  {
+    "filepath": "2025/03-13/how-i-use-llms-to-help-me-write-code.md",
+    "category": [
+      "Code",
+      "AI",
+      "Development"
+    ],
+    "url": "https://open.substack.com/pub/simonw/p/how-i-use-llms-to-help-me-write-code",
+    "title": "How I use LLMs to help me write code",
+    "description": "Plus CSS view transitions and a major update to llm-openrouter",
+    "date": "2025-03-13",
+    "text": "# How I use LLMs to help me write code\n\n[https://open.substack.com/pub/simonw/p/how-i-use-llms-to-help-me-write-code](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nPlus CSS view transitions and a major update to llm-openrouter\n\n## Summary\n\nIn this newsletter, Simon Willison shares his insights on using Large Language Models (LLMs) for code writing. He discusses the common misconceptions about the ease of coding with LLMs, emphasizing that while they can augment a developer's skills, they require clear expectations and effective prompts to yield good results. Simon outlines several practices for getting the most out of LLMs, including managing context, being specific in instructions, and understanding the limitations due to training cut-off dates.\n\nHe provides practical examples of how he uses LLMs to quickly generate code snippets and streamline his development process. Simon also highlights the importance of human oversight when using LLMs, pointing out that they should be viewed as collaborative tools rather than replacements for skilled developers. By integrating LLMs into his workflow, he not only enhances productivity but also learns and innovates more effectively in his coding projects."
   }
 ]
