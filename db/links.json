@@ -1517,5 +1517,31 @@
     "description": "Introduction to the Architecture of Adobe Experience Manager as a Cloud Service.",
     "date": "2025-03-19",
     "text": "# Introduction to the Architecture of Adobe Experience Manager as a Cloud Service\n\n[https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/architecture](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nIntroduction to the Architecture of Adobe Experience Manager as a Cloud Service.\n\n## Summary\n\nAdobe Experience Manager (AEM) as a Cloud Service provides a modular architecture designed for creating and managing impactful digital experiences. It features a logical architecture that encompasses various solutions including AEM Sites, AEM Assets, and AEM Forms, which can work collaboratively through composable services tailored to specific use cases. The architecture is built around a variety of environments including production, stage, development, and rapid development, facilitating an organized approach to application delivery and testing.\n\nThe service architecture supports multiple high-level composable services such as content management and experience delivery, utilizing a containerized system for dynamic scalability. Key components like the AEM Author and Publish tiers enable efficient content management and delivery, while new innovations streamline processes like content replication and performance metrics. This architecture's foundation allows for seamless updates and maintenance through an automated CI/CD service in Cloud Manager, ensuring optimal performance without downtime during updates."
+  },
+  {
+    "filepath": "2025/03-20/ki-killt-alle-jobs.md",
+    "category": [
+      "Artificial Intelligence",
+      "Economics",
+      "Future Studies"
+    ],
+    "url": "https://www.xing.com/news/article/ki-killt-alle-jobs-und-dann-drei-szenarien",
+    "title": "KI killt alle Jobs - und dann? Drei Szenarien",
+    "description": "Führen KI und Robotik zur Armutskatastrophe oder zum Wohlstand für alle?",
+    "date": "2025-03-20",
+    "text": "# KI killt alle Jobs - und dann? Drei Szenarien\n\n[https://www.xing.com/news/article/ki-killt-alle-jobs-und-dann-drei-szenarien](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nFühren KI und Robotik zur Armutskatastrophe oder zum Wohlstand für alle?\n\n## Summary\n\nDer Artikel diskutiert die potenziellen Auswirkungen von Künstlicher Intelligenz (KI) und Robotik auf die Arbeitswelt und das Einkommen der Menschen. Es wird eine Erkenntnisreise in die Zukunft vorgestellt, die drei Szenarien beschreibt: ein Horrorszenario, ein Krisenszenario und ein Überflussszenario. Die zentrale Frage ist, wie Gesellschaften den wirtschaftlichen Wandel durch KI und Robotik gestalten können, um die Herausforderungen zu meistern.\n\nDer Autor gibt zu bedenken, dass in den nächsten Jahren viele Arbeitsplätze durch humanoide Roboter und KI ersetzt werden könnten. Während einige Menschen von höheren Einkommen profitieren könnten, wird auch eine Vielzahl von Arbeitsplätzen voraussichtlich verloren gehen, ohne dass schnell genug neue entstehen. Die Notwendigkeit einer grundlegenden Änderung in der wirtschaftlichen Struktur wird betont, um sicherzustellen, dass alle Menschen von den Fortschritten im Bereich KI und Robotik profitieren.\n\nSchließlich wird das Überflussszenario als die wünschenswerte Lösung beschrieben, in der durch die Vorteile von KI und Robotik eine Verbesserung der Lebensqualität für alle Bürger möglich wäre. Der Artikel schließt mit einem Aufruf zur aktiven Mitgestaltung und Anpassung an die bevorstehenden Veränderungen, um eine Zukunft im Überfluss zu gestalten."
+  },
+  {
+    "filepath": "2025/03-20/superwhisper-ai-voice-to-text.md",
+    "category": [
+      "AI",
+      "Voice Recognition",
+      "Software"
+    ],
+    "url": "https://superwhisper.com/",
+    "title": "Superwhisper - AI Powered Voice to Text for macOS",
+    "description": "AI powered voice to text application designed for macOS users.",
+    "date": "2025-03-20",
+    "text": "# Superwhisper - AI Powered Voice to Text for macOS\n\n[https://superwhisper.com/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAI powered voice to text application designed for macOS users.\n\n## Summary\n\nSuperwhisper is an AI-driven voice to text software specifically designed for macOS, offering users the ability to dictate text quickly without the need for physical typing. It supports over 100 languages and features various functionalities, such as offline processing and customizable vocabulary. Users can try a free tier with basic features or opt for a Pro version, which includes additional capabilities like audio transcription and priority support.\n\nThe platform is tailored for those seeking to enhance their productivity by transforming their voice into written text effortlessly. Superwhisper is also compatible with both Mac and iPhone, making it a versatile tool for individuals on the go. Testimonials from users highlight its efficiency and privacy, with data processed locally on the device, ensuring user information is secure."
   }
 ]
