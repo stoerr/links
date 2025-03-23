@@ -1543,5 +1543,18 @@
     "description": "AI powered voice to text application designed for macOS users.",
     "date": "2025-03-20",
     "text": "# Superwhisper - AI Powered Voice to Text for macOS\n\n[https://superwhisper.com/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAI powered voice to text application designed for macOS users.\n\n## Summary\n\nSuperwhisper is an AI-driven voice to text software specifically designed for macOS, offering users the ability to dictate text quickly without the need for physical typing. It supports over 100 languages and features various functionalities, such as offline processing and customizable vocabulary. Users can try a free tier with basic features or opt for a Pro version, which includes additional capabilities like audio transcription and priority support.\n\nThe platform is tailored for those seeking to enhance their productivity by transforming their voice into written text effortlessly. Superwhisper is also compatible with both Mac and iPhone, making it a versatile tool for individuals on the go. Testimonials from users highlight its efficiency and privacy, with data processed locally on the device, ensuring user information is secure."
+  },
+  {
+    "filepath": "2025/03-23/prompt-combines-chatgpt-perplexity.md",
+    "category": [
+      "AI",
+      "Research",
+      "Writing"
+    ],
+    "url": "https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc",
+    "title": "1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays",
+    "description": "System prompt grafting ChatGPT-o3-Mini and Perplexity Deep Research to write longer and better AI-generated essays,articles and research reports in one go.",
+    "date": "2025-03-23",
+    "text": "# 1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays\n\n[https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nSystem prompt grafting ChatGPT-o3-Mini and Perplexity Deep Research to write longer and better AI-generated essays, articles and research reports in one go.\n\n## Summary\n\nThe article discusses a unique method to enhance essay writing by merging OpenAI's ChatGPT-o3-Mini with Perplexity Deep Research. It highlights how utilizing both tools can lead to the generation of more detailed and comprehensive essays than either model could provide alone. The author shares a specific prompt for users to input their topics into ChatGPT, which prompts Perplexity to generate thorough academic reports.\n\nA key feature of the prompt is its structured approach, demanding verbosity and detail, thus catering to an academic audience. By utilizing instructions and a modular format, users can expect exhaustive essays that consider all pertinent subtopics. The integration aims to leverage the strengths of both models to produce high-quality, research-driven essays efficiently."
   }
 ]
