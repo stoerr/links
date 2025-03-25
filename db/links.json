@@ -1545,6 +1545,19 @@
     "text": "# Superwhisper - AI Powered Voice to Text for macOS\n\n[https://superwhisper.com/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAI powered voice to text application designed for macOS users.\n\n## Summary\n\nSuperwhisper is an AI-driven voice to text software specifically designed for macOS, offering users the ability to dictate text quickly without the need for physical typing. It supports over 100 languages and features various functionalities, such as offline processing and customizable vocabulary. Users can try a free tier with basic features or opt for a Pro version, which includes additional capabilities like audio transcription and priority support.\n\nThe platform is tailored for those seeking to enhance their productivity by transforming their voice into written text effortlessly. Superwhisper is also compatible with both Mac and iPhone, making it a versatile tool for individuals on the go. Testimonials from users highlight its efficiency and privacy, with data processed locally on the device, ensuring user information is secure."
   },
   {
+    "filepath": "2025/03-23/forget-bitcoin-predictions.md",
+    "category": [
+      "Bitcoin",
+      "Market Analysis",
+      "Charts"
+    ],
+    "url": "https://medium.com/freedom-finance/forget-bitcoin-predictions-these-3-charts-actually-tell-you-when-the-top-is-near-dfea85322dfb",
+    "title": "Forget Bitcoin Predictions — These 3 Charts Actually Tell You When the Top is Near",
+    "description": "Bitcoin headlines are getting loud again — “Bitcoin to $200K!” or “Crash imminent!” Every influencer claims to have the crystal ball for Bitcoin’s future.",
+    "date": "2025-03-23",
+    "text": "# Forget Bitcoin Predictions — These 3 Charts Actually Tell You When the Top is Near\n\n[https://medium.com/freedom-finance/forget-bitcoin-predictions-these-3-charts-actually-tell-you-when-the-top-is-near-dfea85322dfb](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nBitcoin headlines are getting loud again — “Bitcoin to $200K!” or “Crash imminent!” Every influencer claims to have the crystal ball for Bitcoin’s future.\n\n## Summary\n\nThe article explores the unreliability of Bitcoin predictions that dominate headlines, emphasizing the importance of relying on data rather than hype. It introduces three reliable charts that seasoned investors use to identify market peaks. The first chart discussed is the MVRV Z-Score, which compares Bitcoin's market cap with its realized value to assess its true valuation, smoothing out the effects of market speculation. The author suggests that understanding these indicators can lead to better-informed investment decisions instead of following sensational predictions."
+  },
+  {
     "filepath": "2025/03-23/prompt-combines-chatgpt-perplexity.md",
     "category": [
       "AI",
@@ -1556,5 +1569,31 @@
     "description": "System prompt grafting ChatGPT-o3-Mini and Perplexity Deep Research to write longer and better AI-generated essays,articles and research reports in one go.",
     "date": "2025-03-23",
     "text": "# 1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays\n\n[https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nSystem prompt grafting ChatGPT-o3-Mini and Perplexity Deep Research to write longer and better AI-generated essays, articles and research reports in one go.\n\n## Summary\n\nThe article discusses a unique method to enhance essay writing by merging OpenAI's ChatGPT-o3-Mini with Perplexity Deep Research. It highlights how utilizing both tools can lead to the generation of more detailed and comprehensive essays than either model could provide alone. The author shares a specific prompt for users to input their topics into ChatGPT, which prompts Perplexity to generate thorough academic reports.\n\nA key feature of the prompt is its structured approach, demanding verbosity and detail, thus catering to an academic audience. By utilizing instructions and a modular format, users can expect exhaustive essays that consider all pertinent subtopics. The integration aims to leverage the strengths of both models to produce high-quality, research-driven essays efficiently."
+  },
+  {
+    "filepath": "2025/03-24/claude-with-mcps-replaced-cursor.md",
+    "category": [
+      "Claude",
+      "MCPs",
+      "Windsurf"
+    ],
+    "url": "https://wonderwhy-er.medium.com/claude-with-mcps-replaced-cursor-windsurf-how-did-that-happen-c1d1e2795e96",
+    "title": "Claude with MCPs Replaced Cursor - Windsurf — How Did That Happen?",
+    "description": "You can see in the screenshot that I was using Windsurf in December,but by January and February,it was gone from my workflow.",
+    "date": "2025-03-24",
+    "text": "# Claude with MCPs Replaced Cursor - Windsurf — How Did That Happen?\n\n[https://wonderwhy-er.medium.com/claude-with-mcps-replaced-cursor-windsurf-how-did-that-happen-c1d1e2795e96](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nYou can see in the screenshot that I was using Windsurf in December, but by January and February, it was gone from my workflow.\n\n## Summary\n\nThe article discusses the author's transition from using Windsurf in December to the absence of it in January and February, raising the question of what changed. The author had previously documented early experiments with Windsurf and noted a significant evolution in their workflow. They introduced their own MCP, named Claude Computer Commander, allowing for increased functionality such as reading files and managing long-running processes.\n\nThe author emphasizes the benefits of using Claude for more than just writing code, unlocking new possibilities within their workflow. Data, such as a histogram showing usage spikes since December, underscores the evolution of their process and engagement with the technology. The article concludes with insights on the changes that led to these developments."
+  },
+  {
+    "filepath": "2025/03-25/just-a-moment.md",
+    "category": [
+      "Web Development",
+      "User Experience",
+      "JavaScript"
+    ],
+    "url": "https://www.anthropic.com/engineering/claude-think-tool",
+    "title": "Just a moment",
+    "description": "This webpage prompts users to enable JavaScript and cookies to continue accessing content.",
+    "date": "2025-03-25",
+    "text": "# The \"think\" tool: Enabling Claude to stop and think in complex tool use situations\n\n[https://www.anthropic.com/engineering/claude-think-tool](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThe page discusses the \"think\" tool, a feature designed to enhance Claude's ability to process and analyze complex situations where multiple tools or steps might be required. This tool enables Claude to pause, evaluate different options, and make more informed decisions, thereby improving its problem-solving capabilities and overall effectiveness in handling intricate tasks.\n\n## Summary\n\nThe \"think\" tool helps Claude tackle complex tool use cases by allowing it to pause and deliberate, thus enhancing decision-making and problem-solving skills."
   }
 ]
