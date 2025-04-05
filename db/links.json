@@ -1595,5 +1595,31 @@
     "description": "This webpage prompts users to enable JavaScript and cookies to continue accessing content.",
     "date": "2025-03-25",
     "text": "# The \"think\" tool: Enabling Claude to stop and think in complex tool use situations\n\n[https://www.anthropic.com/engineering/claude-think-tool](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThe page discusses the \"think\" tool, a feature designed to enhance Claude's ability to process and analyze complex situations where multiple tools or steps might be required. This tool enables Claude to pause, evaluate different options, and make more informed decisions, thereby improving its problem-solving capabilities and overall effectiveness in handling intricate tasks.\n\n## Summary\n\nThe \"think\" tool helps Claude tackle complex tool use cases by allowing it to pause and deliberate, thus enhancing decision-making and problem-solving skills."
+  },
+  {
+    "filepath": "2025/04-05/cracking-the-code-of-vibe-coding.md",
+    "category": [
+      "Vibe Coding",
+      "AI Development",
+      "Software Design"
+    ],
+    "url": "https://uxdesign.cc/cracking-the-code-of-vibe-coding-124b9288e551",
+    "title": "Cracking the code of vibe coding",
+    "description": "WTF is vibe coding? Why you care and why this is the future of design and business.",
+    "date": "2025-04-05",
+    "text": "# Cracking the code of vibe coding\n\n[https://uxdesign.cc/cracking-the-code-of-vibe-coding-124b9288e551](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nWTF is vibe coding? Why you care and why this is the future of design and business.\n\n## Summary\n\nThe article introduces the concept of \"vibe coding,\" a term signifying a new approach to software development that leverages AI to create functional applications through simple natural language descriptions. The author argues that while this democratization of coding might seem liberating, it poses significant risks to the craftsmanship and understanding traditionally associated with software development. The shift from traditional coding to vibe coding indicates a growing reliance on AI, which could lead to a divide between those who understand software fundamentally and those who merely use AI tools without deeper knowledge.\n\nThe author highlights the importance of maintaining a craft-oriented approach even as tools make it easier to create software. They caution against losing creative and technical depth, emphasizing the need for individuals and organizations to balance rapid prototyping with rigorous engineering practices to ensure the sustainability and quality of software products. The article concludes by encouraging innovation and creativity while leveraging AI, warning that without thoughtful integration, the essence of software development could be compromised in favor of convenience."
+  },
+  {
+    "filepath": "2025/04-05/the-1-minute-introduction.md",
+    "category": [
+      "Behavioral Science",
+      "Communication",
+      "Psychology"
+    ],
+    "url": "https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc",
+    "title": "The 1-Minute Introduction That Makes People Remember You Forever",
+    "description": "A Behavioral Scientist’s Trick to Hack the “Halo Effect”",
+    "date": "2025-04-05",
+    "text": "# The 1-Minute Introduction That Makes People Remember You Forever\n\n[https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA Behavioral Scientist’s Trick to Hack the “Halo Effect”\n\n## Summary\n\nThe article discusses an effective strategy for making memorable introductions, particularly in networking situations. The author shares a personal anecdote about failing to leave a lasting impression at a conference, resulting in a renewed approach that involves a structured method for engaging listeners.\n\nThe proposed three-part formula for an introduction includes starting with a captivating story (the \"Hook\"), adding an unexpected detail (the \"Highlight\"), and finishing with a question that prompts engagement (the \"Hand-off\"). By doing so, individuals can foster curiosity and establish a stronger emotional connection with their audience, enhancing recall.\n\nFinally, the author encourages readers to practice this formula over seven days, ultimately aiming to transform their self-introduction into a remarkable and memorable exchange."
   }
 ]
