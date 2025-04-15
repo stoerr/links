@@ -1621,5 +1621,18 @@
     "description": "A Behavioral Scientist’s Trick to Hack the “Halo Effect”",
     "date": "2025-04-05",
     "text": "# The 1-Minute Introduction That Makes People Remember You Forever\n\n[https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA Behavioral Scientist’s Trick to Hack the “Halo Effect”\n\n## Summary\n\nThe article discusses an effective strategy for making memorable introductions, particularly in networking situations. The author shares a personal anecdote about failing to leave a lasting impression at a conference, resulting in a renewed approach that involves a structured method for engaging listeners.\n\nThe proposed three-part formula for an introduction includes starting with a captivating story (the \"Hook\"), adding an unexpected detail (the \"Highlight\"), and finishing with a question that prompts engagement (the \"Hand-off\"). By doing so, individuals can foster curiosity and establish a stronger emotional connection with their audience, enhancing recall.\n\nFinally, the author encourages readers to practice this formula over seven days, ultimately aiming to transform their self-introduction into a remarkable and memorable exchange."
+  },
+  {
+    "filepath": "2025/04-15/llm-pricing-calculator.md",
+    "category": [
+      "LLM",
+      "Pricing",
+      "Calculator"
+    ],
+    "url": "https://tools.simonwillison.net/llm-prices",
+    "title": "LLM pricing calculator",
+    "description": "A tool to calculate the costs associated with input and output tokens for language models.",
+    "date": "2025-04-15",
+    "text": "# LLM pricing calculator\n\n[https://tools.simonwillison.net/llm-prices](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA tool to calculate the costs associated with input and output tokens for language models.\n\n## Summary\n\nThe LLM pricing calculator provides a user-friendly interface for determining the costs of using language models by inputting the number of prompt and completion tokens. Users can specify their input and output token counts and respective costs per million tokens to calculate the total cost of a session. \n\nThe cost calculation results are displayed in both dollars and cents, which allows for a clear understanding of expenses related to model usage. It's important to note that the prices listed may vary as they can be updated over time."
   }
 ]
