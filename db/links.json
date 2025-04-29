@@ -1634,5 +1634,31 @@
     "description": "A tool to calculate the costs associated with input and output tokens for language models.",
     "date": "2025-04-15",
     "text": "# LLM pricing calculator\n\n[https://tools.simonwillison.net/llm-prices](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA tool to calculate the costs associated with input and output tokens for language models.\n\n## Summary\n\nThe LLM pricing calculator provides a user-friendly interface for determining the costs of using language models by inputting the number of prompt and completion tokens. Users can specify their input and output token counts and respective costs per million tokens to calculate the total cost of a session. \n\nThe cost calculation results are displayed in both dollars and cents, which allows for a clear understanding of expenses related to model usage. It's important to note that the prices listed may vary as they can be updated over time."
+  },
+  {
+    "filepath": "2025/04-17/the-3-level-prompting-system.md",
+    "category": [
+      "Artificial Intelligence",
+      "Prompt Engineering",
+      "Technology"
+    ],
+    "url": "https://medium.com/age-of-awareness/the-3-level-prompting-system-that-makes-ai-insanely-useful-c37f9e64d547",
+    "title": "The 3-Level Prompting System That Makes AI Insanely Useful",
+    "description": "A guide to mastering the art of AI prompting to enhance its effectiveness and usability.",
+    "date": "2025-04-17",
+    "text": "# The 3-Level Prompting System That Makes AI Insanely Useful\n\n[https://medium.com/age-of-awareness/the-3-level-prompting-system-that-makes-ai-insanely-useful-c37f9e64d547](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA guide to mastering the art of AI prompting to enhance its effectiveness and usability.\n\n## Summary\n\nThe article discusses the significance of effective prompting in maximizing the utility of AI tools. It emphasizes that until general AI is achieved, the effectiveness of AI outputs heavily relies on how well users craft their prompts, making prompt design a highly valuable skill. It offers a structured 3-level prompting system designed to aid individuals in crafting better prompts.\n\nThe author shares insights gathered from extensive research and learning, culminating in a practical framework that highlights five core ingredients essential for creating impactful prompts. These ingredients include a defined task, necessary context, and clear outcomes that guide the AI's responses.\n\nReaders will walk away with replicable prompts that can significantly save time and improve their collaboration with AI, ranging from beginners to advanced users."
+  },
+  {
+    "filepath": "2025/04-23/10-ai-tools-replace-dev-team.md",
+    "category": [
+      "Artificial Intelligence",
+      "Software Development",
+      "Technology"
+    ],
+    "url": "https://medium.com/lets-code-future/10-ai-tools-that-replace-a-full-dev-team-almost-8dba13b9253f",
+    "title": "10 AI Tools That Replace a Full Dev Team (Almost)",
+    "description": "The future of AI is transforming coding,debugging,and UI design.",
+    "date": "2025-04-23",
+    "text": "# 10 AI Tools That Replace a Full Dev Team (Almost)\n\n[https://medium.com/lets-code-future/10-ai-tools-that-replace-a-full-dev-team-almost-8dba13b9253f](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThe future of AI is transforming coding, debugging, and UI design.\n\n## Summary\n\nIn 2025, artificial intelligence has emerged as a significant ally for independent developers and tech creators, capable of handling tasks traditionally performed by entire development teams. A software engineer named Shivam Maurya shares personal experiences of utilizing various AI tools to streamline the development process, automate repetitive tasks, and enhance productivity. \n\nThe article highlights 10 AI tools that facilitate aspects such as code writing, bug fixing, and UI design, effectively acting as a powerful co-founder for solo developers. It emphasizes the rapidly evolving landscape of AI technology, illustrating how these tools can significantly reduce the workload typically shouldered by developers, designers, and testers."
   }
 ]
