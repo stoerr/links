@@ -1686,5 +1686,18 @@
     "description": "The numbers clearly show this is a pointless distraction for the climate movement",
     "date": "2025-05-07",
     "text": "# A cheat sheet for why using ChatGPT is not bad for the environment\n\n[https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThe numbers clearly show this is a pointless distraction for the climate movement.\n\n## Summary\n\nThe article argues that using ChatGPT and similar AI chatbots does not significantly harm the environment, suggesting that concerns about their energy use distract from more pressing climate issues. It outlines the minimal personal and global energy footprints associated with ChatGPT usage, comparing them to common daily activities, like showering or using digital devices. The author emphasizes that focusing on these minor impacts detracts from addressing larger systemic changes that are necessary for combating climate change.\n\nThe piece categorizes objections into personal and global use, presenting statistics that illustrate how much energy and water would be consumed through various daily habits compared to using ChatGPT. It asserts that the energy required for ChatGPT prompts is negligible and should not evoke guilt, especially when weighed against far greater sources of carbon emissions in our lifestyles.\n\nFinally, the author encourages readers to focus on more impactful changes, reinforcing that individual behaviors like using AI tools should not overshadow the collective commitment needed to tackle larger environmental challenges effectively."
+  },
+  {
+    "filepath": "2025/05-09/making-aem-groovy-without-console.md",
+    "category": [
+      "AEM",
+      "Groovy",
+      "Sling"
+    ],
+    "url": "https://www.theaemmaven.com/post/making-aem-groovy-without-the-console",
+    "title": "Making AEM Groovy Without the Console",
+    "description": "Learn how you can integrate Groovy 3.0 into your AEM project. Without the AEM Groovy console.",
+    "date": "2025-05-09",
+    "text": "# Making AEM Groovy Without the Console\n\n[https://www.theaemmaven.com/post/making-aem-groovy-without-the-console](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nLearn how you can integrate Groovy 3.0 into your AEM project. Without the AEM Groovy console.\n\n## Summary\n\nIn this post, Juan Ayala discusses the integration of Groovy into AEM projects without relying on the Groovy Console. Initially exploring error handling in AEM, the article reveals how to deploy Groovy scripts and OSGi components effectively, highlighting the improvements in Groovy 3.0 over its previous versions. Ayala emphasizes the differences between Groovy and other technologies in Sling, showcasing examples and providing insights into script engines and factories essential for executing Groovy scripts and templates.\n\nThe article explains the deployment process for Groovy 3.0, the use of the Groovy Maven Plugin, and the intricacies of working with compiled scripts versus templated solutions. Ayala concludes by weighing the pros and cons of adopting Groovy, asserting that while compiling scripts offers considerable benefits, scripting and templating may require further adaptation and testing to be fully efficient in an AEM environment."
   }
 ]
