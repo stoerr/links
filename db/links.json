@@ -1725,5 +1725,18 @@
     "description": "This webpage indicates a temporary delay due to the requirement of enabling JavaScript and cookies.",
     "date": "2025-05-13",
     "text": "# Just a moment...\n\n[https://medium.com/coding-nexus/alphapy-how-this-python-library-made-algorithmic-trading-a-breeze-0a6c46224ed1](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis webpage indicates a temporary delay due to the requirement of enabling JavaScript and cookies.\n\n## Summary\n\nThe content for this page is not accessible at the moment, so no further information about the Python library \"Alphapy\" or its relevance to algorithmic trading can be provided. The page simply requests that users enable JavaScript and cookies to proceed. Therefore, specific details, insights, or features regarding the library cannot be summarized at this time."
+  },
+  {
+    "filepath": "2025/05-17/my-llm-codegen-workflow.md",
+    "category": [
+      "Software Development",
+      "AI",
+      "Code Generation"
+    ],
+    "url": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm",
+    "title": "My LLM codegen workflow atm",
+    "description": "A detailed walkthrough of my current workflow for using LLms to build software,from brainstorming through planning and execution.",
+    "date": "2025-05-17",
+    "text": "# My LLM codegen workflow atm\n\n[https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.\n\n## Summary\n\nIn this blog post, Harper Reed shares an in-depth look at his current workflow for utilizing Large Language Models (LLMs) in software development. The process is structured around two primary paths: greenfield code and legacy modern code, detailing the steps of brainstorming, planning, and execution. He emphasizes the importance of documentation and iterative development, using conversational models to generate comprehensive specifications that can guide further development.\n\nReed discusses notable tools such as Claude and Aider for code generation and debugging. He highlights the collaborative nature of coding with AI while acknowledging the solo aspect of using these tools. Furthermore, he addresses the challenges and potential pitfalls in using LLMs for software development and shares insights on iterative improvement through context-aware transformations of existing codebases.\n\nFinally, Reed reflects on the broader implications of AI in programming while encouraging readers to engage with LLMs, suggesting a skeptical yet curious approach to their implementation in real-world projects."
   }
 ]
