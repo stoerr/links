@@ -1738,5 +1738,18 @@
     "description": "A detailed walkthrough of my current workflow for using LLms to build software,from brainstorming through planning and execution.",
     "date": "2025-05-17",
     "text": "# My LLM codegen workflow atm\n\n[https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA detailed walkthrough of my current workflow for using LLms to build software, from brainstorming through planning and execution.\n\n## Summary\n\nIn this blog post, Harper Reed shares an in-depth look at his current workflow for utilizing Large Language Models (LLMs) in software development. The process is structured around two primary paths: greenfield code and legacy modern code, detailing the steps of brainstorming, planning, and execution. He emphasizes the importance of documentation and iterative development, using conversational models to generate comprehensive specifications that can guide further development.\n\nReed discusses notable tools such as Claude and Aider for code generation and debugging. He highlights the collaborative nature of coding with AI while acknowledging the solo aspect of using these tools. Furthermore, he addresses the challenges and potential pitfalls in using LLMs for software development and shares insights on iterative improvement through context-aware transformations of existing codebases.\n\nFinally, Reed reflects on the broader implications of AI in programming while encouraging readers to engage with LLMs, suggesting a skeptical yet curious approach to their implementation in real-world projects."
+  },
+  {
+    "filepath": "2025/05-27/ai-died-this-week.md",
+    "category": [
+      "Artificial Intelligence",
+      "Technology",
+      "News"
+    ],
+    "url": "https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251",
+    "title": "Just a moment",
+    "description": "This webpage indicates that JavaScript and cookies need to be enabled to continue accessing content.",
+    "date": "2025-05-27",
+    "text": "# Just a moment\n\n[https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis webpage indicates that JavaScript and cookies need to be enabled to continue accessing content.\n\n## Summary\n\nThe webpage is currently inaccessible without enabling JavaScript and cookies, suggesting that the content cannot be viewed directly at this time."
   }
 ]
