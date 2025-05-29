@@ -1751,5 +1751,44 @@
     "description": "This webpage indicates that JavaScript and cookies need to be enabled to continue accessing content.",
     "date": "2025-05-27",
     "text": "# Just a moment\n\n[https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis webpage indicates that JavaScript and cookies need to be enabled to continue accessing content.\n\n## Summary\n\nThe webpage is currently inaccessible without enabling JavaScript and cookies, suggesting that the content cannot be viewed directly at this time."
+  },
+  {
+    "filepath": "2025/05-29/at-amazon-some-coders.md",
+    "category": [
+      "Technology",
+      "Programming",
+      "Workplace"
+    ],
+    "url": "https://simonwillison.net/2025/May/28/amazon-some-coders/",
+    "title": "At Amazon Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work",
+    "description": "This article discusses the internal resistance at Amazon regarding the increased use of generative AI among programmers.",
+    "date": "2025-05-29",
+    "text": "# At Amazon Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work\n\n[https://simonwillison.net/2025/May/28/amazon-some-coders/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nThis article discusses the internal resistance at Amazon regarding the increased use of generative AI among programmers.\n\n## Summary\n\nThe article highlights the evolving nature of programming jobs at Amazon, where some coders feel their work is increasingly resembling warehouse tasks. Simon Willison, a programmer and blogger, shares insights on the challenges faced by developers who are encouraged to adopt generative AI, stating that the shift leads to less enjoyable aspects of coding, such as reviewing others' code. \n\nWillison emphasizes that while generative AI can be a boon for prototyping new ideas quickly, many programmers endure a significant societal shift wherein they spend more time on code reviews than on creative coding. This evolution raises questions about the future of programming roles and job satisfaction at major tech companies like Amazon."
+  },
+  {
+    "filepath": "2025/05-29/github-mcp-exploited.md",
+    "category": [
+      "Cybersecurity",
+      "Vulnerability",
+      "GitHub"
+    ],
+    "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+    "title": "GitHub MCP Exploited - Accessing Private Repositories via MCP",
+    "description": "We showcase a critical vulnerability with the official GitHub MCP server,allowing attackers to access private repository data.",
+    "date": "2025-05-29",
+    "text": "# GitHub MCP Exploited - Accessing Private Repositories via MCP\n\n[https://invariantlabs.ai/blog/mcp-github-vulnerability](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nWe showcase a critical vulnerability with the official GitHub MCP server, allowing attackers to access private repository data.\n\n## Summary\n\nInvariant Labs has identified a significant vulnerability in the GitHub MCP integration, which can allow attackers to exploit a user’s agent through a malicious GitHub issue, leading to unauthorized access to private repository data. This vulnerability is particularly concerning as it highlights the risks posed by the automated systems and agents being widely adopted in software development.\n\nThe attack setup involves an MCP client that interacts with both public and private repositories. An attacker can create a malicious issue in a user's public repository, leveraging a prompt injection technique that prompts the agent to execute unauthorized actions, such as leaking sensitive information from a private repository. This vulnerability underscores the importance of implementing strict security measures and awareness in the development of agent systems.\n\nTo mitigate such vulnerabilities, Invariant recommends enforcing granular permission controls and continuous security monitoring. It emphasizes that while traditional security measures might catch some threats, they are insufficient in addressing the unique challenges posed by the interconnectedness of agent systems with external platforms like GitHub."
+  },
+  {
+    "filepath": "2025/05-29/large-language-models-tools.md",
+    "category": [
+      "Large Language Models",
+      "Tools",
+      "Software Development"
+    ],
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "title": "Large Language Models can run tools in your terminal with LLM 0.26",
+    "description": "LLM 0.26 introduces significant features that allow Large Language Models to utilize tools directly within terminal environments.",
+    "date": "2025-05-29",
+    "text": "# Large Language Models can run tools in your terminal with LLM 0.26\n\n[https://simonwillison.net/2025/May/27/llm-tools/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nLLM 0.26 introduces significant features that allow Large Language Models to utilize tools directly within terminal environments.\n\n## Summary\n\nLLM 0.26 has been released with a game-changing ability for Large Language Models (LLMs) to execute tools through command-line interfaces. This version enables models from OpenAI, Anthropic, and others to call any Python function as a tool, enhancing their capabilities significantly. Users can install and utilize tool plugins to extend the functionality of their models easily.\n\nThe update includes the ability to run tools synchronously and asynchronously, with support for tool debugging and interactions using various models, including gpt-4.1 and Qwen3. Moreover, developers can create their own ad-hoc command-line tools or utilize existing plugins to perform tasks like mathematical calculations or database queries in a more structured way. This development is envisioned to enable the construction of sophisticated applications and workflows utilizing LLMs as powerful agents that can interact with external functionalities seamlessly."
   }
 ]
