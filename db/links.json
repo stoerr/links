@@ -1790,5 +1790,18 @@
     "description": "LLM 0.26 introduces significant features that allow Large Language Models to utilize tools directly within terminal environments.",
     "date": "2025-05-29",
     "text": "# Large Language Models can run tools in your terminal with LLM 0.26\n\n[https://simonwillison.net/2025/May/27/llm-tools/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nLLM 0.26 introduces significant features that allow Large Language Models to utilize tools directly within terminal environments.\n\n## Summary\n\nLLM 0.26 has been released with a game-changing ability for Large Language Models (LLMs) to execute tools through command-line interfaces. This version enables models from OpenAI, Anthropic, and others to call any Python function as a tool, enhancing their capabilities significantly. Users can install and utilize tool plugins to extend the functionality of their models easily.\n\nThe update includes the ability to run tools synchronously and asynchronously, with support for tool debugging and interactions using various models, including gpt-4.1 and Qwen3. Moreover, developers can create their own ad-hoc command-line tools or utilize existing plugins to perform tasks like mathematical calculations or database queries in a more structured way. This development is envisioned to enable the construction of sophisticated applications and workflows utilizing LLMs as powerful agents that can interact with external functionalities seamlessly."
+  },
+  {
+    "filepath": "2025/06-05/intellij-idea-2025-1-model-context-protocol.md",
+    "category": [
+      "IntelliJ",
+      "Development",
+      "Protocol"
+    ],
+    "url": "https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/",
+    "title": "IntelliJ IDEA 2025.1 - Model Context Protocol",
+    "description": "As of its 2025.1 release,IntelliJ IDEA is now also fully MCP Client compatible. What does this mean for you?",
+    "date": "2025-06-05",
+    "text": "# IntelliJ IDEA 2025.1 - Model Context Protocol\n\n[https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAs of its 2025.1 release, IntelliJ IDEA is now also fully MCP Client compatible. What does this mean for you?\n\n## Summary\n\nThis article introduces the Model Context Protocol (MCP) as implemented in IntelliJ IDEA 2025.1, which enhances the IDE's capabilities by allowing it to interact with external data sources. Specifically, it provides a setup guide for enabling MCP Client functionality in IntelliJ IDEA, allowing users to leverage AI assistants for development tasks that include accessing databases and other data sources.\n\nThe MCP Client feature enables IntelliJ's AI Assistant to perform tasks that were previously not possible, such as inspecting database schemas directly within the IDE. The article provides detailed steps on how users can configure the MCP servers to enhance their coding experience, enabling commands that provide read-only database access and fostering improved interaction with tools within the development environment.\n\nOverall, this update represents a significant advancement for IntelliJ IDEA users looking to integrate AI seamlessly into their development workflows, promising increased efficiency and productivity."
   }
 ]
