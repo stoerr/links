@@ -1803,5 +1803,18 @@
     "description": "As of its 2025.1 release,IntelliJ IDEA is now also fully MCP Client compatible. What does this mean for you?",
     "date": "2025-06-05",
     "text": "# IntelliJ IDEA 2025.1 - Model Context Protocol\n\n[https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAs of its 2025.1 release, IntelliJ IDEA is now also fully MCP Client compatible. What does this mean for you?\n\n## Summary\n\nThis article introduces the Model Context Protocol (MCP) as implemented in IntelliJ IDEA 2025.1, which enhances the IDE's capabilities by allowing it to interact with external data sources. Specifically, it provides a setup guide for enabling MCP Client functionality in IntelliJ IDEA, allowing users to leverage AI assistants for development tasks that include accessing databases and other data sources.\n\nThe MCP Client feature enables IntelliJ's AI Assistant to perform tasks that were previously not possible, such as inspecting database schemas directly within the IDE. The article provides detailed steps on how users can configure the MCP servers to enhance their coding experience, enabling commands that provide read-only database access and fostering improved interaction with tools within the development environment.\n\nOverall, this update represents a significant advancement for IntelliJ IDEA users looking to integrate AI seamlessly into their development workflows, promising increased efficiency and productivity."
+  },
+  {
+    "filepath": "2025/06-08/how-mcp-servers-let-ai-run-apps.md",
+    "category": [
+      "Application Development",
+      "Artificial Intelligence",
+      "APIs"
+    ],
+    "url": "https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca",
+    "title": "How MCP Servers Let AI Run Apps Without Frontends",
+    "description": "Discover how MCP transforms APIs into AI agents that replace frontends.",
+    "date": "2025-06-08",
+    "text": "# How MCP Servers Let AI Run Apps Without Frontends\n\n[https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nDiscover how MCP transforms APIs into AI agents that replace frontends.\n\n## Summary\n\nIn 2025, application development has undergone a significant transformation, eliminating the need for traditional frontends in favor of using AI as the interface. The article illustrates how developers can leverage Model Control Protocol (MCP) to convert APIs into AI-controlled tools, thereby allowing AI agents to manage the user interface.\n\nThe concept revolves around two types of APIs: internal APIs that govern application logic and external APIs that provide access to third-party services. With the introduction of MCP, the traditional role of frontends as intermediaries between users and these APIs is becoming obsolete, making way for more streamlined and efficient application interactions driven by AI.\n\nBy adopting this approach, developers can create apps with minimal UI code, utilizing tools like Postman and real-time API integrations to build applications effectively while allowing AI to perform the necessary frontend functions."
   }
 ]
