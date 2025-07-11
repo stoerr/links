@@ -36,6 +36,18 @@ fi
 dir=$(dirname "$(realpath $0)")/..
 cd "$dir"
 
+# remove ?utm_source=substack&utm_medium=email if that's at the end of the url
+if [[ $url == *"\?utm_source=substack&utm_medium=email" ]]; then
+  url="${url%\?utm_source=substack&utm_medium=email}"
+fi
+
+# remove ?utm_source=substack if that's at the end of the url
+if [[ $url == *"\?utm_source=substack" ]]; then
+  url="${url%\?utm_source=substack}"
+fi
+
+echo "URL: $url"
+
 # Check whether the url is already in one of the link files
 # refuse adding if it is - just print the file name and exit
 
@@ -68,7 +80,7 @@ if [[ ! $filename == *.md ]]; then
   filename="$filename.md"
 fi
 
-sed -e "s/UNCHANGEABLEDATEPLACEHOLDER/$(date +%Y-%m-%d)/" -e "s|UNCHANGEABLEURLPLACEHOLDER|$url|" $tmpfilename > $filedir/$filename
+sed -e "s/UNCHANGEABLEDATEPLACEHOLDER/$(date +%Y-%m-%d)/" -e "s|UNCHANGEABLEURLPLACEHOLDER|$url|g" $tmpfilename > $filedir/$filename
 rm -f $tmpfilename
 
 # check that $filedir/$filename is a readable file and not a directory
