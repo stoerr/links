@@ -8,7 +8,7 @@ date: 2025-05-09
 ---
 # Making AEM Groovy Without the Console
 
-[https://www.theaemmaven.com/post/making-aem-groovy-without-the-console](UNCHANGEABLEURLPLACEHOLDER)
+[https://www.theaemmaven.com/post/making-aem-groovy-without-the-console](https://www.theaemmaven.com/post/making-aem-groovy-without-the-console)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-03-24
 ---
 # Claude with MCPs Replaced Cursor - Windsurf — How Did That Happen?
 
-[https://wonderwhy-er.medium.com/claude-with-mcps-replaced-cursor-windsurf-how-did-that-happen-c1d1e2795e96](UNCHANGEABLEURLPLACEHOLDER)
+[https://wonderwhy-er.medium.com/claude-with-mcps-replaced-cursor-windsurf-how-did-that-happen-c1d1e2795e96](https://wonderwhy-er.medium.com/claude-with-mcps-replaced-cursor-windsurf-how-did-that-happen-c1d1e2795e96)
 
 ## Description
 

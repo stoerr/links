@@ -8,7 +8,7 @@ date: 2025-05-13
 ---
 # Just a moment...
 
-[https://medium.com/coding-nexus/alphapy-how-this-python-library-made-algorithmic-trading-a-breeze-0a6c46224ed1](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/coding-nexus/alphapy-how-this-python-library-made-algorithmic-trading-a-breeze-0a6c46224ed1](https://medium.com/coding-nexus/alphapy-how-this-python-library-made-algorithmic-trading-a-breeze-0a6c46224ed1)
 
 ## Description
 

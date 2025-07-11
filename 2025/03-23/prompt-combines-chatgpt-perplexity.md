@@ -8,7 +8,7 @@ date: 2025-03-23
 ---
 # 1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays
 
-[https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc](https://medium.com/prompt-prompts/1-prompt-that-combines-chatgpt-o3-mini-with-perplexity-deep-research-to-write-better-essays-2e5fda7cb4cc)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-05-27
 ---
 # Just a moment
 
-[https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251](https://medium.com/@dylan_combellick/ai-died-this-week-a1fad1e15251)
 
 ## Description
 

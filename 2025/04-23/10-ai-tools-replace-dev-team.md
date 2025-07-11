@@ -8,7 +8,7 @@ date: 2025-04-23
 ---
 # 10 AI Tools That Replace a Full Dev Team (Almost)
 
-[https://medium.com/lets-code-future/10-ai-tools-that-replace-a-full-dev-team-almost-8dba13b9253f](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/lets-code-future/10-ai-tools-that-replace-a-full-dev-team-almost-8dba13b9253f](https://medium.com/lets-code-future/10-ai-tools-that-replace-a-full-dev-team-almost-8dba13b9253f)
 
 ## Description
 

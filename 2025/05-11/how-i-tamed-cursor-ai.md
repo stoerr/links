@@ -8,7 +8,7 @@ date: 2025-05-11
 ---
 # How I Tamed Cursor AI to Write Perfect Code Every Time
 
-[https://medium.com/coding-nexus/how-i-tamed-cursor-ai-to-write-perfect-code-every-time-951851a92f6f](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/coding-nexus/how-i-tamed-cursor-ai-to-write-perfect-code-every-time-951851a92f6f](https://medium.com/coding-nexus/how-i-tamed-cursor-ai-to-write-perfect-code-every-time-951851a92f6f)
 
 ## Description
 

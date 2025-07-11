@@ -8,7 +8,7 @@ date: 2025-05-17
 ---
 # My LLM codegen workflow atm
 
-[https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm](UNCHANGEABLEURLPLACEHOLDER)
+[https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm)
 
 ## Description
 

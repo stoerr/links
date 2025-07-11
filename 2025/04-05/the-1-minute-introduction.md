@@ -8,7 +8,7 @@ date: 2025-04-05
 ---
 # The 1-Minute Introduction That Makes People Remember You Forever
 
-[https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc](https://medium.com/social-science-weekly/the-1-minute-introduction-that-makes-people-remember-you-forever-497cefcfdccc)
 
 ## Description
 

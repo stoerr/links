@@ -8,7 +8,7 @@ date: 2025-05-29
 ---
 # Large Language Models can run tools in your terminal with LLM 0.26
 
-[https://simonwillison.net/2025/May/27/llm-tools/](UNCHANGEABLEURLPLACEHOLDER)
+[https://simonwillison.net/2025/May/27/llm-tools/](https://simonwillison.net/2025/May/27/llm-tools/)
 
 ## Description
 

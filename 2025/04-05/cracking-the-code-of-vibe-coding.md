@@ -8,7 +8,7 @@ date: 2025-04-05
 ---
 # Cracking the code of vibe coding
 
-[https://uxdesign.cc/cracking-the-code-of-vibe-coding-124b9288e551](UNCHANGEABLEURLPLACEHOLDER)
+[https://uxdesign.cc/cracking-the-code-of-vibe-coding-124b9288e551](https://uxdesign.cc/cracking-the-code-of-vibe-coding-124b9288e551)
 
 ## Description
 

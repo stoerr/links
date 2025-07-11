@@ -8,7 +8,7 @@ date: 2025-05-29
 ---
 # At Amazon Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work
 
-[https://simonwillison.net/2025/May/28/amazon-some-coders/](UNCHANGEABLEURLPLACEHOLDER)
+[https://simonwillison.net/2025/May/28/amazon-some-coders/](https://simonwillison.net/2025/May/28/amazon-some-coders/)
 
 ## Description
 

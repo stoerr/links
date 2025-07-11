@@ -8,7 +8,7 @@ date: 2025-03-25
 ---
 # The "think" tool: Enabling Claude to stop and think in complex tool use situations
 
-[https://www.anthropic.com/engineering/claude-think-tool](UNCHANGEABLEURLPLACEHOLDER)
+[https://www.anthropic.com/engineering/claude-think-tool](https://www.anthropic.com/engineering/claude-think-tool)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-05-07
 ---
 # A cheat sheet for why using ChatGPT is not bad for the environment
 
-[https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about](UNCHANGEABLEURLPLACEHOLDER)
+[https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 
 ## Description
 

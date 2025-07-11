@@ -8,7 +8,7 @@ date: 2025-04-15
 ---
 # LLM pricing calculator
 
-[https://tools.simonwillison.net/llm-prices](UNCHANGEABLEURLPLACEHOLDER)
+[https://tools.simonwillison.net/llm-prices](https://tools.simonwillison.net/llm-prices)
 
 ## Description
 

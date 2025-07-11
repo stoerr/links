@@ -8,7 +8,7 @@ date: 2025-06-15
 ---
 # Coding Guidelines for Your AI Agents
 
-[https://blog.jetbrains.com/idea/2025/05/coding-guidelines-for-your-ai-agents/](UNCHANGEABLEURLPLACEHOLDER)
+[https://blog.jetbrains.com/idea/2025/05/coding-guidelines-for-your-ai-agents/](https://blog.jetbrains.com/idea/2025/05/coding-guidelines-for-your-ai-agents/)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-06-08
 ---
 # How MCP Servers Let AI Run Apps Without Frontends
 
-[https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca](UNCHANGEABLEURLPLACEHOLDER)
+[https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca](https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca)
 
 ## Description
 

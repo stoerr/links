@@ -8,7 +8,7 @@ date: 2025-06-05
 ---
 # IntelliJ IDEA 2025.1 - Model Context Protocol
 
-[https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/](UNCHANGEABLEURLPLACEHOLDER)
+[https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/](https://blog.jetbrains.com/idea/2025/05/intellij-idea-2025-1-model-context-protocol/)
 
 ## Description
 
