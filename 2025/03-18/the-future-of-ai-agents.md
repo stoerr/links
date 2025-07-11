@@ -8,7 +8,7 @@ date: 2025-03-18
 ---
 # Just a moment...
 
-[https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6](UNCHANGEABLEURLPLACEHOLDER)
+[https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6](https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6)
 
 ## Description
 

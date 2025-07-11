@@ -8,7 +8,7 @@ date: 2025-01-25
 ---
 # Deterministic Quoting - Making LLMs Safer for Healthcare
 
-[https://mattyyeung.github.io/deterministic-quoting](UNCHANGEABLEURLPLACEHOLDER)
+[https://mattyyeung.github.io/deterministic-quoting](https://mattyyeung.github.io/deterministic-quoting)
 
 ## Description
 

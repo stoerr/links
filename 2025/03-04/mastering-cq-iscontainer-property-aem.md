@@ -8,7 +8,7 @@ date: 2025-03-04
 ---
 # Mastering cq-isContainer Property in AEM - A Comprehensive Guide
 
-[https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa](https://medium.com/%40arunpatidar26/cq-iscontainer-property-in-aem-94e5318e04fa)
 
 ## Description
 

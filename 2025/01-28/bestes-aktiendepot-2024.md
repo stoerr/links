@@ -8,7 +8,7 @@ date: 2025-01-28
 ---
 # Bestes Aktiendepot 2024 - Vergleich & Ratgeber
 
-[https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/depot-vergleich-212281](UNCHANGEABLEURLPLACEHOLDER)
+[https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/depot-vergleich-212281](https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/depot-vergleich-212281)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-01-21
 ---
 # Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-konnen
 
-[https://www.test.de/Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-koennen-6186262-0/](UNCHANGEABLEURLPLACEHOLDER)
+[https://www.test.de/Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-koennen-6186262-0/](https://www.test.de/Smartphone-Nutzung-Apples-Kinderschutz-wo-es-hakt-und-was-Eltern-tun-koennen-6186262-0/)
 
 ## Description
 

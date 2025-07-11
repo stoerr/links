@@ -8,7 +8,7 @@ date: 2025-03-09
 ---
 # Will the future of software development run on vibes
 
-[https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/](UNCHANGEABLEURLPLACEHOLDER)
+[https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 
 ## Description
 

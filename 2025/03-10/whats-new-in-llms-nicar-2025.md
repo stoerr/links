@@ -8,7 +8,7 @@ date: 2025-03-10
 ---
 # Whats new in the world of LLMs for NICAR 2025
 
-[https://simonwillison.net/2025/Mar/8/nicar-llms/](UNCHANGEABLEURLPLACEHOLDER)
+[https://simonwillison.net/2025/Mar/8/nicar-llms/](https://simonwillison.net/2025/Mar/8/nicar-llms/)
 
 ## Description
 

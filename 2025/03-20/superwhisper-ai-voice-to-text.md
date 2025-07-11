@@ -8,7 +8,7 @@ date: 2025-03-20
 ---
 # Superwhisper - AI Powered Voice to Text for macOS
 
-[https://superwhisper.com/](UNCHANGEABLEURLPLACEHOLDER)
+[https://superwhisper.com/](https://superwhisper.com/)
 
 ## Description
 

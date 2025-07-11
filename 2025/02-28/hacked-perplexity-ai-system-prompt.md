@@ -8,7 +8,7 @@ date: 2025-02-28
 ---
 # I hacked Perplexity AI’s full system prompt when I shared my own cognitive vulnerabilities with it
 
-[https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060](https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060)
 
 ## Description
 

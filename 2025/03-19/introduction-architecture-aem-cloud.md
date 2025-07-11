@@ -8,7 +8,7 @@ date: 2025-03-19
 ---
 # Introduction to the Architecture of Adobe Experience Manager as a Cloud Service
 
-[https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/architecture](UNCHANGEABLEURLPLACEHOLDER)
+[https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/architecture](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/architecture)
 
 ## Description
 

@@ -8,7 +8,7 @@ date: 2025-01-20
 ---
 # Resource Override - Chrome Web Store
 
-[https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii](UNCHANGEABLEURLPLACEHOLDER)
+[https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii](https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii)
 
 ## Description
 

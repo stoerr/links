@@ -8,7 +8,7 @@ date: 2025-03-02
 ---
 # Claude Code overview
 
-[https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](UNCHANGEABLEURLPLACEHOLDER)
+[https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 
 ## Description
 

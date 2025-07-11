@@ -8,7 +8,7 @@ date: 2025-02-15
 ---
 # Help scraping track changes to CLI tools by recording their --help using Git
 
-[https://simonwillison.net/2022/Feb/2/help-scraping/](UNCHANGEABLEURLPLACEHOLDER)
+[https://simonwillison.net/2022/Feb/2/help-scraping/](https://simonwillison.net/2022/Feb/2/help-scraping/)
 
 ## Description
 

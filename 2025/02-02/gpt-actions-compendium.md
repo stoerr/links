@@ -8,7 +8,7 @@ date: 2025-02-02
 ---
 # GPT Actions Compendium - List of Free and Open Source GPT Actions
 
-[https://community.openai.com/t/gpt-actions-compendium-list-of-free-and-open-source-gpt-actions/611847](UNCHANGEABLEURLPLACEHOLDER)
+[https://community.openai.com/t/gpt-actions-compendium-list-of-free-and-open-source-gpt-actions/611847](https://community.openai.com/t/gpt-actions-compendium-list-of-free-and-open-source-gpt-actions/611847)
 
 ## Description
 

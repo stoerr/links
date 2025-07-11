@@ -8,7 +8,7 @@ date: 2025-01-20
 ---
 # A better alternative to Resource Override
 
-[https://requestly.com/alternatives/a-better-alternative-to-resource-override/](UNCHANGEABLEURLPLACEHOLDER)
+[https://requestly.com/alternatives/a-better-alternative-to-resource-override/](https://requestly.com/alternatives/a-better-alternative-to-resource-override/)
 
 ## Description
 

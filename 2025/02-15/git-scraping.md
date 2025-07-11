@@ -8,7 +8,7 @@ date: 2025-02-15
 ---
 # Simon Willison - Git scraping
 
-[https://simonwillison.net/series/git-scraping/](UNCHANGEABLEURLPLACEHOLDER)
+[https://simonwillison.net/series/git-scraping/](https://simonwillison.net/series/git-scraping/)
 
 ## Description
 

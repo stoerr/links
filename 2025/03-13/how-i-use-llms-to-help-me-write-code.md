@@ -8,7 +8,7 @@ date: 2025-03-13
 ---
 # How I use LLMs to help me write code
 
-[https://open.substack.com/pub/simonw/p/how-i-use-llms-to-help-me-write-code](UNCHANGEABLEURLPLACEHOLDER)
+[https://open.substack.com/pub/simonw/p/how-i-use-llms-to-help-me-write-code](https://open.substack.com/pub/simonw/p/how-i-use-llms-to-help-me-write-code)
 
 ## Description
 

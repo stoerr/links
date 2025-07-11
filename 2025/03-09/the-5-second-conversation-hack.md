@@ -8,7 +8,7 @@ date: 2025-03-09
 ---
 # The 5-Second Conversation Hack That Makes People Instantly Like You
 
-[https://medium.com/hello-love/the-5-second-conversation-hack-that-makes-people-instantly-like-you-6591c9a06690](UNCHANGEABLEURLPLACEHOLDER)
+[https://medium.com/hello-love/the-5-second-conversation-hack-that-makes-people-instantly-like-you-6591c9a06690](https://medium.com/hello-love/the-5-second-conversation-hack-that-makes-people-instantly-like-you-6591c9a06690)
 
 ## Description
 

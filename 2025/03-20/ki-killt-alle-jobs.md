@@ -8,7 +8,7 @@ date: 2025-03-20
 ---
 # KI killt alle Jobs - und dann? Drei Szenarien
 
-[https://www.xing.com/news/article/ki-killt-alle-jobs-und-dann-drei-szenarien](UNCHANGEABLEURLPLACEHOLDER)
+[https://www.xing.com/news/article/ki-killt-alle-jobs-und-dann-drei-szenarien](https://www.xing.com/news/article/ki-killt-alle-jobs-und-dann-drei-szenarien)
 
 ## Description
 

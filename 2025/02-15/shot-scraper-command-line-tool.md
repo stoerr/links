@@ -8,7 +8,7 @@ date: 2025-02-15
 ---
 # shot-scraper
 
-[https://shot-scraper.datasette.io/](UNCHANGEABLEURLPLACEHOLDER)
+[https://shot-scraper.datasette.io/](https://shot-scraper.datasette.io/)
 
 ## Description
 

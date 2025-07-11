@@ -8,7 +8,7 @@ date: 2025-02-11
 ---
 # Three Observations
 
-[https://blog.samaltman.com/three-observations](UNCHANGEABLEURLPLACEHOLDER)
+[https://blog.samaltman.com/three-observations](https://blog.samaltman.com/three-observations)
 
 ## Description
 

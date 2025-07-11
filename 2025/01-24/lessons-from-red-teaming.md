@@ -8,7 +8,7 @@ date: 2025-01-24
 ---
 # Lessons From Red Teaming 100 Generative AI Products
 
-[https://arxiv.org/abs/2501.07238](UNCHANGEABLEURLPLACEHOLDER)
+[https://arxiv.org/abs/2501.07238](https://arxiv.org/abs/2501.07238)
 
 ## Description
 
