@@ -37,13 +37,13 @@ dir=$(dirname "$(realpath $0)")/..
 cd "$dir"
 
 # remove ?utm_source=substack&utm_medium=email if that's at the end of the url
-if [[ $url == *"\?utm_source=substack&utm_medium=email" ]]; then
-  url="${url%\?utm_source=substack&utm_medium=email}"
+if [[ $url == *"?utm_source=substack&utm_medium=email" ]]; then
+  url="${url%?utm_source=substack&utm_medium=email}"
 fi
 
 # remove ?utm_source=substack if that's at the end of the url
-if [[ $url == *"\?utm_source=substack" ]]; then
-  url="${url%\?utm_source=substack}"
+if [[ $url == *"?utm_source=substack" ]]; then
+  url="${url%?utm_source=substack}"
 fi
 
 echo "URL: $url"
