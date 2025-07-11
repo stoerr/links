@@ -1,14 +1,14 @@
 ---
 filename: using-playwright-mcp-claude-code
 category: Playwright, Claude Code, MCP
-url: https://til.simonwillison.net/claude-code/playwright-mcp-claude-code?utm_source=substackUNCHANGEABLEURLPLACEHOLDERutm_medium=email
+url: https://til.simonwillison.net/claude-code/playwright-mcp-claude-code
 title: Using Playwright MCP with Claude Code
 description: A guide to using the Microsoft Playwright MCP server with Claude Code.
 date: 2025-07-11
 ---
 # Using Playwright MCP with Claude Code
 
-[https://til.simonwillison.net/claude-code/playwright-mcp-claude-code?utm_source=substackUNCHANGEABLEURLPLACEHOLDERutm_medium=email](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code?utm_source=substackUNCHANGEABLEURLPLACEHOLDERutm_medium=email)
+[https://til.simonwillison.net/claude-code/playwright-mcp-claude-code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code)
 
 ## Description
 
