@@ -9,6 +9,8 @@ fi
 progdir=$(dirname "$progfile")/..
 cd $progdir
 
+git pull --rebase
+
 DB=db/llmsearch.db
 
 # if $DB does not exist or is older than a week

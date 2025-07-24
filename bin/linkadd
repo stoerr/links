@@ -36,6 +36,8 @@ fi
 dir=$(dirname "$(realpath $0)")/..
 cd "$dir"
 
+git pull --rebase
+
 # remove ?utm_source=substack&utm_medium=email if that's at the end of the url
 if [[ $url == *"?utm_source=substack&utm_medium=email" ]]; then
   url="${url%?utm_source=substack&utm_medium=email}"

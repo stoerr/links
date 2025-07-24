@@ -1868,5 +1868,31 @@
     "description": "A guide to using the Microsoft Playwright MCP server with Claude Code.",
     "date": "2025-07-11",
     "text": "# Using Playwright MCP with Claude Code\n\n[https://til.simonwillison.net/claude-code/playwright-mcp-claude-code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code)\n\n## Description\n\nA guide to using the Microsoft Playwright MCP server with Claude Code.\n\n## Summary\n\nThis article explains how to set up and use the official Microsoft Playwright MCP server with Claude Code, inspired by Armin's insights. The setup is straightforward; it involves running a simple command (`claude mcp add playwright npx '@playwright/mcp@latest'`) to make Playwright functionalities available within Claude Code.\n\nOnce set up, users can command Claude to use Playwright for various tasks like opening a browser to a specific website. The guide also notes that users must specify \"playwright mcp\" during initial commands to prevent issues with Bash. It discusses how authentication works seamlessly as Claude can use a visible browser window to log in, allowing cookie persistence throughout the session.\n\nAdditionally, the article lists available Playwright tools (like `browser_click` and `browser_navigate`) that users can access via the MCP. Claude is typically capable of selecting the appropriate tool for each task, enhancing user experience and workflow."
+  },
+  {
+    "filepath": "2025/07-12/why-im-selling-my-crypto.md",
+    "category": [
+      "Cryptocurrency",
+      "Investment",
+      "Finance"
+    ],
+    "url": "https://medium.com/freedom-finance/why-im-selling-my-crypto-in-2025-my-honest-exit-plan-fbae9f594351",
+    "title": "Why I’m Selling My Crypto in 2025 - My Honest Exit Plan",
+    "description": "Learn from my painful crypto mistakes! Discover my honest exit plan for 2025 and how to create your own step-by-step.",
+    "date": "2025-07-12",
+    "text": "# Why I’m Selling My Crypto in 2025 - My Honest Exit Plan\n\n[https://medium.com/freedom-finance/why-im-selling-my-crypto-in-2025-my-honest-exit-plan-fbae9f594351](https://medium.com/freedom-finance/why-im-selling-my-crypto-in-2025-my-honest-exit-plan-fbae9f594351)\n\n## Description\n\nLearn from my painful crypto mistakes! Discover my honest exit plan for 2025 and how to create your own step-by-step.\n\n## Summary\n\nIn this article, the author shares their experiences with cryptocurrency investing, detailing how they achieved significant gains during the 2021 bull market only to lose everything due to the absence of a solid exit plan. They emphasize the importance of having a strategy for selling, which they failed to develop and subsequently suffered losses during a market downturn.\n\nThe author expresses a desire to help others avoid similar mistakes, offering their exit plan for 2025 and a step-by-step guide for readers to create their own. They reflect on the unpredictability of the crypto market and the futility of adhering to inflated price targets promoted by influencers, urging readers to be realistic about their investments.\n\nUltimately, the piece serves as a candid account of the lessons learned from past experiences, encouraging readers to prepare for the volatile nature of cryptocurrency investments."
+  },
+  {
+    "filepath": "2025/07-24/promptfoo-llms.md",
+    "category": [
+      "Artificial Intelligence",
+      "Large Language Models",
+      "Security"
+    ],
+    "url": "https://www.promptfoo.dev/",
+    "title": "Secure & Reliable LLMs | Promptfoo",
+    "description": "Eliminate risk with AI red-teaming and evals used by 100,000+ developers.",
+    "date": "2025-07-24",
+    "text": "{important: include the previous line with the --- separator to separate front matter from the content, but remove this comment}\n\n# Secure & Reliable LLMs | Promptfoo\n\n[https://www.promptfoo.dev/](https://www.promptfoo.dev/)\n\n## Description\n\nEliminate risk with AI red-teaming and evals used by 100,000+ developers.\n\n## Summary\n\nPromptfoo helps you find and fix vulnerabilities, maximize output quality, and catch regressions in your AI models. It provides secure and reliable LLMs for developers. The platform is used by a large community of over 100,000 developers."
   }
 ]
