@@ -1907,5 +1907,18 @@
     "description": "Instructions to create a file in a repository that gives Copilot additional context for the work it does in that repository.",
     "date": "2025-08-02",
     "text": "Adding repository custom instructions for GitHub Copilot\n\n[https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)\n\n## Description\nInstructions to create a file in a repository that gives Copilot additional context for the work it does in that repository.\n\n## Summary\nCustom instructions are configured by adding files to a repository's root directory. These files use YAML format to provide Copilot with specific rules or information relevant to the project.\nFollow these steps:\n1. Create a .github/copilot-custom-instructions directory in your repository if it doesn't exist.\n2. Create a new YAML file inside this directory, e.g., instructions.yml or include your custom filename.\n3. Edit the YAML file to define rules following Copilot's documentation, using formats like `trigger: description`.\nOnce implemented, Copilot incorporates these instructions contextually, potentially improving code suggestions or safety features based on your specifications."
+  },
+  {
+    "filepath": "2025/08-08/llm-judge-driving-business.md",
+    "category": [
+      "Artificial Intelligence",
+      "Business Strategy",
+      "Machine Learning"
+    ],
+    "url": "https://hamel.dev/blog/posts/llm-judge/",
+    "title": "Creating a LLM-as-a-Judge That Drives Business Results – Hamel's Blog",
+    "description": "A step-by-step guide with my learnings from 30+ AI implementations.",
+    "date": "2025-08-08",
+    "text": "# Creating a LLM-as-a-Judge That Drives Business Results – Hamel's Blog\n\n[https://hamel.dev/blog/posts/llm-judge/](https://hamel.dev/blog/posts/llm-judge/)\n\n## Description\n\nA step-by-step guide with my learnings from 30+ AI implementations.\n\n## Summary\n\nThe post opens by framing the concept of employing large language models (LLMs) as “judges” within business processes. It outlines how an LLM can evaluate complex inputs, weigh evidence, and produce actionable verdicts, thereby accelerating decision‑making while reducing human bias.\n\nIt then provides a practical, step‑by‑step methodology distilled from over 30 AI implementations. The framework covers problem scoping, model selection, prompt engineering, output validation, and integration into existing workflows. The author shares key lessons—such as the importance of continuous monitoring, domain‑specific fine‑tuning, and rigorous evaluation metrics—to ensure that the LLM’s judgments remain reliable and aligned with business goals.\n\nFinally, the article summarizes expected outcomes—including faster turnaround times, higher consistency, and improved stakeholder trust—and offers actionable recommendations for practitioners looking to adopt an “LLM-as-a-Judge” approach. The take‑away is that, when implemented thoughtfully, this paradigm can deliver measurable business results while maintaining transparency and accountability."
   }
 ]
