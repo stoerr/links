@@ -132,9 +132,20 @@ function displayLinks(displayedLinks) {
         linkElement.classList.add('linkDisplay');
         const summary = link.description ? link.description : link.text.split('\n')[2];
         const text = link.description ? link.text : link.text.split('\n').slice(3).join('<br>');
+
+        // Use date from front matter if available, otherwise extract from filepath
+        let formattedDate = '';
+        if (link.date) {
+            formattedDate = link.date;
+        } else {
+            // Extract date from filepath (e.g., "2024/02-11/filename.md" -> "2024-02-11")
+            const dateMatch = link.filepath.match(/(\d{4})\/(\d{2})-(\d{2})/);
+            formattedDate = dateMatch ? `${dateMatch[1]}-${dateMatch[2]}-${dateMatch[3]}` : '';
+        }
+
         linkElement.innerHTML = `
             <h2><a href="/${linkDescrUrl}">${link.title}</a> <a href="${link.url}">[&#8599;]</a></h2>
-            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}</p>
+            <p>${link.category.map(cat => `<a href="#" class="category-link" data-category="${cat}">#${cat}</a>`).join(', ')}${formattedDate ? ` - ${formattedDate}` : ''}</p>
             <details>
                 <summary>${summary}</summary>
                 <p>${markdownConverter.makeHtml(text)}</p>

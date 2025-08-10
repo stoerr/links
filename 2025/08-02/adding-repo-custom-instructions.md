@@ -1,4 +1,3 @@
-
 ---
 filename: adding-repo-custom-instructions
 category: Software Development, CopilotTools, AIProgramming
