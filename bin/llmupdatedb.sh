@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e
 echo update database for llmsearch.sh
 echo large language model based search
 progfile=$0
