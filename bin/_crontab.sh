@@ -4,7 +4,7 @@ cd $(dirname $0)/..
 exec >> bin/_crontab.sh.log 2>&1
 date
 bin/_makeAll.sh
-git add -A
+git add 20*
 # if there are no changes, don't commit
 if [ -z "$(git status --porcelain)" ]; then
   echo "No changes to commit"

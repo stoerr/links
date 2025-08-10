@@ -69,7 +69,7 @@ async function triggerSearch(event) {
 async function getQueryEmbedding(query) {
     let apiKey = localStorage.getItem('openai_api_key');
     if (!apiKey || !apiKey.startsWith('sk-')) {
-        apiKey = prompt('Please enter your OpenAI API key:');
+        apiKey = prompt('The search is AI / RAG based. Since this is serverless, that needs an OpenAI API key:');
         if (apiKey) localStorage.setItem('openai_api_key', apiKey);
         else return;
     }
