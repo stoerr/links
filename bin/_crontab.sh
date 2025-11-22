@@ -11,5 +11,15 @@ if [ -z "$(git status --porcelain)" ]; then
   echo "No changes to commit"
   exit 0
 fi
-git commit -m "Cron job - background add of links"
+
+COMMIT_MSG=""
+# if command chatgpt is available, use it to generate a better commit message
+if command -v chatgpt &> /dev/null; then
+  COMMIT_MSG=$(git diff --cached | chatgpt -f - "Generate a concise git commit message summarizing these changes")
+fi
+if [ -z "$COMMIT_MSG" ]; then
+  COMMIT_MSG="Cron job - background add of links"
+fi
+
+git commit -m "$COMMIT_MSG"
 git push

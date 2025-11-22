@@ -13,3 +13,8 @@ There are two scripts in the `bin/` directory:
 ## View links
 
 To be done.
+
+## Preconditions
+
+View and execute the command of bin/llminit.sh (caution!), have an OPENAI_API_KEY set in your environment
+or configure llm accordingly.

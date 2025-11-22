@@ -36,7 +36,7 @@ fi
 dir=$(dirname "$(realpath $0)")/..
 cd "$dir"
 
-git pull --rebase
+git pull --rebase --strategy=recursive -X theirs
 
 # remove ?utm_source=substack&utm_medium=email if that's at the end of the url
 if [[ $url == *"?utm_source=substack&utm_medium=email" ]]; then
@@ -90,4 +90,7 @@ if [[ ! -f $filedir/$filename ]]; then
   echo "Could not find file $filedir/$filename"
   exit 1
 fi
+
+(sleep 600; bin/_crontab.sh) &
+
 intellij $filedir/$filename

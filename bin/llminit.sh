@@ -14,3 +14,9 @@ llm install -U llm
 llm install -U llm-sentence-transformers
 llm sentence-transformers register --lazy -a minilm all-MiniLM-L12-v2
 llm sentence-transformers register --lazy -a mpnet all-mpnet-base-v2
+
+brew install pipx
+# if sqlite-utils is not installed, install it pipx install sqlite-utils, but only if it is not already in the command line
+if ! command -v sqlite-utils &> /dev/null; then
+  pipx install sqlite-utils
+fi
