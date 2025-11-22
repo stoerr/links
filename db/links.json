@@ -2024,5 +2024,18 @@
     "description": "A web scraping tool for extracting data from shot-related sources.",
     "date": "2025-11-22",
     "text": "# shot-scraper\n\n[https://shot-scraper.datasette.io/en/stable/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA web scraping tool for extracting data from shot-related sources.\n\n## Summary\n\nThe shot-scraper is a specialized tool designed to facilitate the extraction of data pertaining to shots from various online sources. It aims to provide users with a streamlined experience in gathering information related to this niche subject. The tool is detailed in its documentation, which is intended to assist users in understanding its capabilities and functionalities effectively."
+  },
+  {
+    "filepath": "2025/11-22/sqlite-utils.md",
+    "category": [
+      "SQLite",
+      "Database",
+      "Tools"
+    ],
+    "url": "https://sqlite-utils.datasette.io/en/stable",
+    "title": "sqlite-utils",
+    "description": "A comprehensive tool for managing SQLite databases.",
+    "date": "2025-11-22",
+    "text": "# sqlite-utils\n\n[https://sqlite-utils.datasette.io/en/stable](https://sqlite-utils.datasette.io/en/stable)\n\n## Description\n\nA comprehensive tool for managing SQLite databases.\n\n## Summary\n\nsqlite-utils is a powerful tool designed for working with SQLite databases. It offers a set of utilities for performing various database operations efficiently. Users can leverage this tool to simplify database management tasks, making it easier to interact with SQLite databases through a user-friendly interface.\n\nThe tool is built with flexibility in mind and provides support for a range of features that enhance the SQLite experience. Whether you are looking to create, query, or modify databases, sqlite-utils streamlines these operations, enabling users to focus on their data rather than the complexities of database management.\n\nWith its user-centric design, sqlite-utils is an essential resource for developers and data analysts alike, making it easier to harness the power of SQLite in various applications."
   }
 ]
