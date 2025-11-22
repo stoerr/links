@@ -1818,6 +1818,32 @@
     "text": "# How MCP Servers Let AI Run Apps Without Frontends\n\n[https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca](https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca)\n\n## Description\n\nDiscover how MCP transforms APIs into AI agents that replace frontends.\n\n## Summary\n\nIn 2025, application development has undergone a significant transformation, eliminating the need for traditional frontends in favor of using AI as the interface. The article illustrates how developers can leverage Model Control Protocol (MCP) to convert APIs into AI-controlled tools, thereby allowing AI agents to manage the user interface.\n\nThe concept revolves around two types of APIs: internal APIs that govern application logic and external APIs that provide access to third-party services. With the introduction of MCP, the traditional role of frontends as intermediaries between users and these APIs is becoming obsolete, making way for more streamlined and efficient application interactions driven by AI.\n\nBy adopting this approach, developers can create apps with minimal UI code, utilizing tools like Postman and real-time API integrations to build applications effectively while allowing AI to perform the necessary frontend functions."
   },
   {
+    "filepath": "2025/06-11/a-jargon-free-explanation-of-how-ai.md",
+    "category": [
+      "Artificial Intelligence",
+      "Language Models",
+      "Science"
+    ],
+    "url": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
+    "title": "A jargon-free explanation of how AI large language models work",
+    "description": "Want to really understand large language models? Here’s a gentle primer.",
+    "date": "2025-06-11",
+    "text": "# A jargon-free explanation of how AI large language models work\n\n[https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nWant to really understand large language models? Here’s a gentle primer.\n\n## Summary\n\nThe article provides a clear and accessible explanation of how large language models (LLMs) function, aimed at readers who may not be familiar with technical jargon. It breaks down complex concepts into understandable terms, allowing anyone interested to grasp the fundamental principles behind LLMs.\n\nBy explaining key components such as training processes, neural networks, and the significance of data, the piece demystifies how these models generate human-like text. The focus is on creating a foundational understanding, thus making the technology less intimidating for the general public.\n\nOverall, the article serves as an excellent introduction to the topic, encouraging curiosity about artificial intelligence and its applications in language processing."
+  },
+  {
+    "filepath": "2025/06-11/wie-funktionieren-llms.md",
+    "category": [
+      "Large Language Models",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "url": "https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/",
+    "title": "Wie funktionieren LLMs - Ein Blick ins Innere großer Sprachmodelle",
+    "description": "Woraus bestehen große Sprachmodelle (Large Language Models)? KI-Experten und Expertinnen erklären die Funktionsweise von LLMs.",
+    "date": "2025-06-11",
+    "text": "# Wie funktionieren LLMs - Ein Blick ins Innere großer Sprachmodelle\n\n[https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nWoraus bestehen große Sprachmodelle (Large Language Models)? KI-Experten und Expertinnen erklären die Funktionsweise von LLMs.\n\n## Summary\n\nDer Blogbeitrag des Fraunhofer IESE beschäftigt sich mit der Funktionsweise großer Sprachmodelle, auch bekannt als Large Language Models (LLMs). In dem Artikel erläutern Experten, aus welchen Komponenten und Technologien diese Modelle bestehen und wie sie arbeiten.\n\nDie LLMs sind innovative Systeme, die durch das Training auf riesigen Datensätzen dazu in der Lage sind, menschenähnliche Texte zu generieren und komplexe Sprachaufgaben zu bewältigen. Das Verständnis der zugrunde liegenden Mechanismen ist entscheidend für die Weiterentwicklung von KI-Anwendungen.\n\nDer Beitrag bietet nicht nur technische Einblicke, sondern auch Perspektiven in Bezug auf die potentiellen Anwendungsgebiete und Herausforderungen, die mit der Implementierung von LLMs verbunden sind."
+  },
+  {
     "filepath": "2025/06-15/coding-guidelines-ai-agents.md",
     "category": [
       "Software Development",
@@ -1842,6 +1868,32 @@
     "description": "Discover Runner H,a browser-native AI agent that automates real-world web tasks,from canceling Comcast to booking DMV slots,fully on its own.",
     "date": "2025-06-15",
     "text": "# This AI Agent Cancels Subscriptions for You\n\n[https://javascript.plainenglish.io/this-new-ai-browser-agent-just-changed-everything-and-its-open-source-b21d90af7153](https://javascript.plainenglish.io/this-new-ai-browser-agent-just-changed-everything-and-its-open-source-b21d90af7153)\n\n## Description\n\nDiscover Runner H, a browser-native AI agent that automates real-world web tasks, from canceling Comcast to booking DMV slots, fully on its own.\n\n## Summary\n\nThe article introduces Runner H, a new browser-native AI agent capable of executing natural language tasks autonomously. The author recounts their experience asking Runner H to find the cheapest flights to Tokyo, book a hotel, and summarize Reddit reviews, showcasing its impressive functionality. \n\nThis AI tool represents not just an individual application but a broader ecosystem launched by a new company, which includes an open-source framework and research detailing its architecture. The comprehensive features of Runner H signify a significant advancement in how AI can assist users with practical web tasks."
+  },
+  {
+    "filepath": "2025/06-16/optimale-schreibtischhoehe.md",
+    "category": [
+      "Ergonomics",
+      "Office",
+      "Furniture"
+    ],
+    "url": "https://www.blitzrechner.de/ergonomie/",
+    "title": "Optimale Schreibtischhöhe berechnen - Ergonomisches Büro",
+    "description": "Für Büro & Home-Office - ganz einfach die richtige Schreibtischhöhe ausrechnen.",
+    "date": "2025-06-16",
+    "text": "# Optimale Schreibtischhöhe berechnen - Ergonomisches Büro\n\n[https://www.blitzrechner.de/ergonomie/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nFür Büro & Home-Office: Ganz einfach die richtige Schreibtischhöhe ausrechnen.\n\n## Summary\n\nDie Webseite bietet eine praktische Anleitung zur Berechnung der optimalen Schreibtischhöhe für ergonomisches Arbeiten im Büro oder Home-Office. Sie unterstützt die Benutzer dabei, die richtigen Einstellungen für Büromöbel vorzunehmen, um gesundheitliche Risiken zu minimieren. Darüber hinaus gibt die Seite Tipps zur richtigen Monitorentfernung und stellt eine Checkliste zur Verfügung, um sicherzustellen, dass alles ergonomisch optimal eingerichtet ist."
+  },
+  {
+    "filepath": "2025/06-25/polars-dataframes-for-the-new-era.md",
+    "category": [
+      "Data Science",
+      "Programming",
+      "Data Analysis"
+    ],
+    "url": "https://pola.rs/",
+    "title": "Polars - DataFrames for the new era",
+    "description": "DataFrames for the new era",
+    "date": "2025-06-25",
+    "text": "# Polars - DataFrames for the new era\n\n[https://pola.rs/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nDataFrames for the new era (Pandas replacement)\n\n## Summary\n\nPolars is a library that offers powerful DataFrame capabilities designed for efficient data manipulation and analysis in modern programming environments. The tool aims to redefine the performance and usability of DataFrame operations, which are essential in data science and analytics workflows.\n\nThe framework is geared towards users who require fast and efficient data processing. It provides a user-friendly interface while optimizing computational performance, making it suitable for handling large datasets and complex operations without compromising speed.\n\nOverall, Polars represents a new wave of DataFrame libraries that prioritize performance and ease of use, catering to the evolving needs of data-driven applications."
   },
   {
     "filepath": "2025/07-11/i-shipped-a-macos-app.md",
@@ -1883,6 +1935,19 @@
     "text": "# Why I’m Selling My Crypto in 2025 - My Honest Exit Plan\n\n[https://medium.com/freedom-finance/why-im-selling-my-crypto-in-2025-my-honest-exit-plan-fbae9f594351](https://medium.com/freedom-finance/why-im-selling-my-crypto-in-2025-my-honest-exit-plan-fbae9f594351)\n\n## Description\n\nLearn from my painful crypto mistakes! Discover my honest exit plan for 2025 and how to create your own step-by-step.\n\n## Summary\n\nIn this article, the author shares their experiences with cryptocurrency investing, detailing how they achieved significant gains during the 2021 bull market only to lose everything due to the absence of a solid exit plan. They emphasize the importance of having a strategy for selling, which they failed to develop and subsequently suffered losses during a market downturn.\n\nThe author expresses a desire to help others avoid similar mistakes, offering their exit plan for 2025 and a step-by-step guide for readers to create their own. They reflect on the unpredictability of the crypto market and the futility of adhering to inflated price targets promoted by influencers, urging readers to be realistic about their investments.\n\nUltimately, the piece serves as a candid account of the lessons learned from past experiences, encouraging readers to prepare for the volatile nature of cryptocurrency investments."
   },
   {
+    "filepath": "2025/07-15/shirin-khosravi-jam-rag-ai-agents.md",
+    "category": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software Engineering"
+    ],
+    "url": "https://substack.com/@shirinkjam/note/c-133160958",
+    "title": "Shirin Khosravi Jam on Substack - I taught myself how to build RAG + AI Agents in production",
+    "description": "Shirin Khosravi Jam outlines a roadmap for building RAG and AI Agents,sharing essential resources and steps based on her experience.",
+    "date": "2025-07-15",
+    "text": "# Shirin Khosravi Jam on Substack - I taught myself how to build RAG + AI Agents in production\n\n[https://substack.com/@shirinkjam/note/c-133160958](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nShirin Khosravi Jam outlines a roadmap for building RAG and AI Agents, sharing essential resources and steps based on her experience.\n\n## Summary\n\nIn her article, Shirin Khosravi Jam discusses her journey of teaching herself how to build Retrieval-Augmented Generation (RAG) systems and AI Agents in production, highlighting that many claiming to be \"AI Engineers\" lack real experience. She provides a four-step plan along with invaluable resources that can guide aspiring engineers to construct and deploy their systems effectively.\n\nThe steps include mastering fundamental concepts in machine learning and software, building and deploying large language models (LLMs), going beyond the basic hype of AI Agents to understand their complexities, implementing RAG systems with real-world considerations, and solidifying software and infrastructure competencies. She emphasizes that real production environments require serious trade-offs in latency, cost, and maintainability, urging readers to avoid unrealistic demos."
+  },
+  {
     "filepath": "2025/07-24/promptfoo-llms.md",
     "category": [
       "Artificial Intelligence",
@@ -1920,5 +1985,44 @@
     "description": "A step-by-step guide with my learnings from 30+ AI implementations.",
     "date": "2025-08-08",
     "text": "# Creating a LLM-as-a-Judge That Drives Business Results – Hamel's Blog\n\n[https://hamel.dev/blog/posts/llm-judge/](https://hamel.dev/blog/posts/llm-judge/)\n\n## Description\n\nA step-by-step guide with my learnings from 30+ AI implementations.\n\n## Summary\n\nThe post opens by framing the concept of employing large language models (LLMs) as “judges” within business processes. It outlines how an LLM can evaluate complex inputs, weigh evidence, and produce actionable verdicts, thereby accelerating decision‑making while reducing human bias.\n\nIt then provides a practical, step‑by‑step methodology distilled from over 30 AI implementations. The framework covers problem scoping, model selection, prompt engineering, output validation, and integration into existing workflows. The author shares key lessons—such as the importance of continuous monitoring, domain‑specific fine‑tuning, and rigorous evaluation metrics—to ensure that the LLM’s judgments remain reliable and aligned with business goals.\n\nFinally, the article summarizes expected outcomes—including faster turnaround times, higher consistency, and improved stakeholder trust—and offers actionable recommendations for practitioners looking to adopt an “LLM-as-a-Judge” approach. The take‑away is that, when implemented thoughtfully, this paradigm can deliver measurable business results while maintaining transparency and accountability."
+  },
+  {
+    "filepath": "2025/10-05/agents-md.md",
+    "category": [
+      "Open Format",
+      "Coding Agents",
+      "Software Projects"
+    ],
+    "url": "https://agents.md/",
+    "title": "AGENTS-md",
+    "description": "AGENTS.md is a simple,open format for guiding coding agents.",
+    "date": "2025-10-05",
+    "text": "# AGENTS.md\n\n[https://agents.md/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nAGENTS.md is a simple, open format for guiding coding agents.\n\n## Summary\n\nAGENTS.md serves as a guiding framework for coding agents, functioning similarly to a README file. This format is utilized by over 20,000 open-source projects, showing its popularity and utility within the programming community. \n\nThe concept behind AGENTS.md is to provide a standardized way to articulate the intentions and functionalities of coding agents, allowing developers to collaborate more effectively. Its open nature encourages contributions and adaptations from various projects, further enriching the software development landscape."
+  },
+  {
+    "filepath": "2025/10-05/langchain4j-langchain4j.md",
+    "category": [
+      "Documentation",
+      "Software",
+      "Development"
+    ],
+    "url": "https://docs.langchain4j.dev/",
+    "title": "LangChain4j - LangChain4j",
+    "description": "Description will go into a meta tag in <head />",
+    "date": "2025-10-05",
+    "text": "# LangChain4j - LangChain4j\n\n[https://docs.langchain4j.dev/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nDescription will go into a meta tag in <head />\n\n## Summary\n\nThe webpage provides documentation for LangChain4j, outlining its features and capabilities. It includes essential meta information to enhance searchability and user engagement, such as the title and description. Overall, the content aims to inform users about what LangChain4j offers and how it can be utilized in software development."
+  },
+  {
+    "filepath": "2025/11-22/shot-scraper.md",
+    "category": [
+      "Software",
+      "Web Scraping",
+      "Data"
+    ],
+    "url": "https://shot-scraper.datasette.io/en/stable/",
+    "title": "shot-scraper",
+    "description": "A web scraping tool for extracting data from shot-related sources.",
+    "date": "2025-11-22",
+    "text": "# shot-scraper\n\n[https://shot-scraper.datasette.io/en/stable/](UNCHANGEABLEURLPLACEHOLDER)\n\n## Description\n\nA web scraping tool for extracting data from shot-related sources.\n\n## Summary\n\nThe shot-scraper is a specialized tool designed to facilitate the extraction of data pertaining to shots from various online sources. It aims to provide users with a streamlined experience in gathering information related to this niche subject. The tool is detailed in its documentation, which is intended to assist users in understanding its capabilities and functionalities effectively."
   }
 ]

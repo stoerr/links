@@ -2,4 +2,17 @@
 set -e
 bin/makeLinkJson.js
 bin/llmupdatedb.sh
-sqlite-utils rows db/llmsearch.db -c id -c embedding -c content -o id --json-cols embeddings > db/embeddings.json
+sqlite-utils rows db/llmsearch.db -c id -c embedding -c content -o id --json-cols embeddings > db/embeddings.json.new
+# exit if command failed
+if [ $? -ne 0 ]; then
+  echo "sqlite-utils command failed"
+  exit 1
+fi
+# if new file is not empty, move it to the final location
+if [ -s db/embeddings.json.new ]; then
+  mv db/embeddings.json.new db/embeddings.json
+else
+  echo "New embeddings.json is empty, not replacing existing file"
+  rm db/embeddings.json.new
+fi
+

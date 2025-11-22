@@ -2,6 +2,7 @@
 # is added to the crontab to ensure timely publication of links so that the search mechanism works
 cd $(dirname $0)/..
 exec >> bin/_crontab.sh.log 2>&1
+echo "========================="
 date
 bin/_makeAll.sh
 git add 20*
