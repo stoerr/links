@@ -10,10 +10,6 @@ There are two scripts in the `bin/` directory:
 - linkadd: adds an url : it is summarized with ChatGPT, and creates a file about it that is opened in intellij.
 - linksearch: llm based search for links
 
-## View links
-
-To be done.
-
 ## Preconditions
 
 View and execute the command of bin/llminit.sh (caution!), have an OPENAI_API_KEY set in your environment
