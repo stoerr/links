@@ -2050,5 +2050,18 @@
     "description": "Our split ergonomic keyboards will help you increase your performance and comfort thanks to advanced ergonomic features like split layout,tenting,thumbkeys,wireless connectivity and much more.",
     "date": "2025-12-10",
     "text": "# The Best Ergonomic Keyboards for You - Dygma\n\n[https://dygma.com/](https://dygma.com/)\n\n## Description\n\nOur split ergonomic keyboards will help you increase your performance and comfort thanks to advanced ergonomic features like split layout, tenting, thumbkeys, wireless connectivity and much more.\n\n## Summary\n\nDygma offers a range of split ergonomic keyboards designed to enhance both performance and comfort. These keyboards incorporate advanced ergonomic features such as a split layout, which allows for a more natural hand position while typing. Additionally, the tenting design helps to reduce strain on the wrists, promoting a healthier typing posture.\n\nThe keyboards are also equipped with thumbkeys, which improve accessibility and reduce finger movement. Wireless connectivity options are available, providing users with flexibility and convenience in their workspace setup. Overall, Dygma's ergonomic keyboards are engineered to enhance user experience and productivity by prioritizing comfort and ergonomic design."
+  },
+  {
+    "filepath": "2025/12-22/reader-api.md",
+    "category": [
+      "Reader",
+      "API",
+      "LLM"
+    ],
+    "url": "https://jina.ai/reader/",
+    "title": "Reader API",
+    "description": "Convert any URL to Markdown for better grounding LLMs.",
+    "date": "2025-12-22",
+    "text": "# Reader API\n\n[https://jina.ai/reader/](https://jina.ai/reader/)\n\n## Description\n\nConvert any URL to Markdown for better grounding LLMs.\n\n## Summary\n\nThe Reader API is a tool designed to convert URLs into Markdown format, facilitating better integration and\nunderstanding for language learning models (LLMs). By transforming web content into an easily readable and processable\nformat, the API enhances the grounding of LLMs, allowing them to better interpret and utilize the information found\nonline.\n\nThis feature is particularly useful for developers and researchers looking to incorporate accurate and structured data\nfrom various web sources into their applications. The ability to convert diverse web pages into a standardized format\nenables improved data accessibility and usability, streamlining the development process and advancing the capabilities\nof artificial intelligence applications.\n\n[Usage 1] https://r.jina.ai/YOUR_URL\n[Usage 2] https://s.jina.ai/YOUR_SEARCH_QUERY\n[Homepage] https://jina.ai/reader"
   }
 ]
