@@ -2063,5 +2063,18 @@
     "description": "Convert any URL to Markdown for better grounding LLMs.",
     "date": "2025-12-22",
     "text": "# Reader API\n\n[https://jina.ai/reader/](https://jina.ai/reader/)\n\n## Description\n\nConvert any URL to Markdown for better grounding LLMs.\n\n## Summary\n\nThe Reader API is a tool designed to convert URLs into Markdown format, facilitating better integration and\nunderstanding for language learning models (LLMs). By transforming web content into an easily readable and processable\nformat, the API enhances the grounding of LLMs, allowing them to better interpret and utilize the information found\nonline.\n\nThis feature is particularly useful for developers and researchers looking to incorporate accurate and structured data\nfrom various web sources into their applications. The ability to convert diverse web pages into a standardized format\nenables improved data accessibility and usability, streamlining the development process and advancing the capabilities\nof artificial intelligence applications.\n\n[Usage 1] https://r.jina.ai/YOUR_URL\n[Usage 2] https://s.jina.ai/YOUR_SEARCH_QUERY\n[Homepage] https://jina.ai/reader"
+  },
+  {
+    "filepath": "2025/12-23/claude-skills-are-awesome-maybe-a-bigger-deal-than-mcp.md",
+    "category": [
+      "AI",
+      "NLP",
+      "Models"
+    ],
+    "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+    "title": "Claude Skills are awesome,maybe a bigger deal than MCP",
+    "description": "Anthropic this morning introduced Claude Skills,a new pattern for making new abilities available to their models.",
+    "date": "2025-12-23",
+    "text": "# Claude Skills are awesome, maybe a bigger deal than MCP\n\n[https://simonwillison.net/2025/Oct/16/claude-skills/](https://simonwillison.net/2025/Oct/16/claude-skills/)\n\n## Description\n\nAnthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models.\n\n## Summary\n\nClaude Skills represent an innovative approach by Anthropic to enhance the functionality of their AI models. This\ndevelopment aims to improve the performance of Claude in tackling specific tasks by utilizing these newly introduced\nSkills. With the introduction of Claude Skills, there is potential for a significant evolution in the way AI interacts\nwith various applications and challenges, positioning it as a key advancement in the field of artificial intelligence."
   }
 ]
