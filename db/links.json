@@ -2102,5 +2102,18 @@
     "description": "This webpage discusses the evolving trends in IT talent and workforce dynamics projected for 2025.",
     "date": "2025-12-30",
     "text": "# IT Talent Trends 2025\n\n[https://www.infotech.com/research/ss/it-talent-trends-2025](https://www.infotech.com/research/ss/it-talent-trends-2025)\n\n## Description\n\nThis webpage discusses the evolving trends in IT talent and workforce dynamics projected for 2025.\n\n## Summary\n\nThe report outlines key trends shaping the IT workforce landscape by 2025, focusing on the demand for skilled professionals and emerging roles within the industry. It highlights the importance of adaptability in skill sets to keep pace with rapid technological advancement and organizational changes.\n\nAdditionally, the document emphasizes the impact of remote work on talent acquisition and retention strategies, as companies seek to build diverse and inclusive teams. It suggests that businesses will need to invest significantly in training and development to ensure their workforce is equipped for future challenges."
+  },
+  {
+    "filepath": "2026/01-08/code-execution-or-dsl.md",
+    "category": [
+      "Code Execution",
+      "Domain-Specific Language",
+      "AI"
+    ],
+    "url": "https://www.adesso.de/de/news/blog/code-execution-oder-domain-specific-language-dsl.jsp",
+    "title": "Code-Execution oder Domain-Specific Language (DSL)",
+    "description": "Der Blog-Beitrag zeigt,wie Agentic AI effizient wird,ohne Sicherheit und Compliance zu opfern – mit Workflow-DSL statt ungeprüftem Code Mode.",
+    "date": "2026-01-08",
+    "text": "# Code-Execution oder Domain-Specific Language (DSL)\n\n[https://www.adesso.de/de/news/blog/code-execution-oder-domain-specific-language-dsl.jsp](https://www.adesso.de/de/news/blog/code-execution-oder-domain-specific-language-dsl.jsp)\n\n## Description\n\nDer Blog-Beitrag zeigt, wie Agentic AI effizient wird, ohne Sicherheit und Compliance zu opfern – mit Workflow-DSL statt ungeprüftem Code Mode.\n\n## Summary\n\nIn diesem Blog-Beitrag wird die Diskussion über die Vor- und Nachteile von Code-Execution und Domain-Specific Languages (DSL) eingehend behandelt. Es wird erörtert, wie Agentic AI durch den Einsatz von Workflow-DSL eine Balance zwischen Effizienz und Sicherheit erreichen kann. \n\nDer Autor argumentiert, dass die Verwendung von DSL nicht nur die Effizienz steigert, sondern auch wichtige Sicherheits- und Compliance-Anforderungen berücksichtigt, die bei der Verwendung von nicht geprüften Code-Modusen oft vernachlässigt werden. Es wird angesprochen, welche Vorteile das Implementieren von Workflow-DSL für Unternehmen mit sich bringt und wie dies zur Risikominderung beiträgt."
   }
 ]
