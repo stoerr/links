@@ -2128,5 +2128,18 @@
     "description": "A humorous take on superstition.",
     "date": "2026-01-08",
     "text": "# xkcd: Superstition\n\n[https://xkcd.com/3191/](https://xkcd.com/3191/)\n\n## Description\n\nA humorous take on superstition.\n\n## Summary\n\nThis xkcd comic explores the concept of superstition in a light-hearted manner. It presents various common\nsuperstitions, poking fun at the illogical beliefs people hold. The comic's simple yet effective art style complements\nthe clever humor, illustrating the absurdity behind certain superstitions and encouraging readers to reflect on their\nown beliefs."
+  },
+  {
+    "filepath": "2026/01-28/the-agent-skills-directory.md",
+    "category": [
+      "AI",
+      "Skills",
+      "Directory"
+    ],
+    "url": "https://skills.sh/",
+    "title": "The Agent Skills Directory",
+    "description": "Discover and install skills for AI agents.",
+    "date": "2026-01-28",
+    "text": "# The Agent Skills Directory\n\n[https://skills.sh/](https://skills.sh/)\n\n## Description\n\nDiscover and install skills for AI agents.\n\n## Summary\n\nThe Agent Skills Directory is a resource that allows users to discover various skills tailored for AI agents. It offers a simple platform for browsing and installing these skills, enhancing the capabilities of AI systems. The website emphasizes ease of use and accessibility, making it easier for developers and users to adopt and implement AI solutions effectively."
   }
 ]
