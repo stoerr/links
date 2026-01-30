@@ -2154,5 +2154,18 @@
     "description": "Dan Shapiro's blog post discusses the five levels of software development from simple autocomplete features to complex automation in software factories.",
     "date": "2026-01-29",
     "text": "# The Five Levels - from Spicy Autocomplete to the Dark Factory\n\n[https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)\n\n## Description\n\nDan Shapiro's blog post discusses the five levels of software development from simple autocomplete features to complex\nautomation in software factories.\n\n## Summary\n\nIn this blog post, Dan Shapiro outlines a framework for understanding the evolution of software capabilities, starting\nfrom basic features like spicy autocomplete, which enhances user input functionality, to sophisticated systems akin to\na \"Dark Factory\" that automate many aspects of software development. He emphasizes how each level represents a step\ntowards greater efficiency and sophistication in software solutions.\n\nShapiro expands on the implications of these levels for developers and organizations, discussing the skills and tools\nrequired to progress through them. He also reflects on the challenges and opportunities presented by increasingly\nautomated software development processes, encouraging readers to embrace these advancements.\n\nThe post serves as a thoughtful exploration of the future of software development, inviting readers to consider how they\ncan adapt to and leverage these levels in their own work and within their teams."
+  },
+  {
+    "filepath": "2026/01-30/open-code-the-open-source-ai.md",
+    "category": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Coding"
+    ],
+    "url": "https://opencode.ai/",
+    "title": "OpenCode - The open source AI coding agent",
+    "description": "OpenCode - The open source coding agent.",
+    "date": "2026-01-30",
+    "text": "# OpenCode - The open source AI coding agent\n\n[https://opencode.ai/](https://opencode.ai/)\n\n## Description\n\nOpenCode - The open source coding agent.\n\n## Summary\n\nOpenCode is an innovative platform that serves as an open source AI coding agent. The initiative aims to democratize\ncoding by providing resources and tools that facilitate coding practices. By leveraging the power of artificial\nintelligence, OpenCode seeks to enhance the coding experience for developers of all levels.\n\nThe website emphasizes the importance of collaboration within the open-source community to improve coding proficiency\nand efficiency. It offers a user-friendly interface designed to support various coding tasks, making it an invaluable\nresource for programmers.\n\nOverall, OpenCode represents a significant step towards integrating advanced AI into the software development lifecycle,\nultimately fostering a more inclusive environment for coding enthusiasts."
   }
 ]
