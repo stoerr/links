@@ -2167,5 +2167,18 @@
     "description": "OpenCode - The open source coding agent.",
     "date": "2026-01-30",
     "text": "# OpenCode - The open source AI coding agent\n\n[https://opencode.ai/](https://opencode.ai/)\n\n## Description\n\nOpenCode - The open source coding agent.\n\n## Summary\n\nOpenCode is an innovative platform that serves as an open source AI coding agent. The initiative aims to democratize\ncoding by providing resources and tools that facilitate coding practices. By leveraging the power of artificial\nintelligence, OpenCode seeks to enhance the coding experience for developers of all levels.\n\nThe website emphasizes the importance of collaboration within the open-source community to improve coding proficiency\nand efficiency. It offers a user-friendly interface designed to support various coding tasks, making it an invaluable\nresource for programmers.\n\nOverall, OpenCode represents a significant step towards integrating advanced AI into the software development lifecycle,\nultimately fostering a more inclusive environment for coding enthusiasts."
+  },
+  {
+    "filepath": "2026/02-07/shipping-at-inference-speed.md",
+    "category": [
+      "Software Engineering",
+      "Performance Optimization",
+      "Code Analysis"
+    ],
+    "url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
+    "title": "Shipping at Inference-Speed - Peter Steinberger",
+    "description": "Why I stopped reading code and started watching it stream by.",
+    "date": "2026-02-07",
+    "text": "# Shipping at Inference-Speed - Peter Steinberger\n\n[https://steipete.me/posts/2025/shipping-at-inference-speed](https://steipete.me/posts/2025/shipping-at-inference-speed)\n\n## Description\n\nWhy I stopped reading code and started watching it stream by.\n\n## Summary\n\nIn the article \"Shipping at Inference-Speed,\" Peter Steinberger discusses his journey from reading code to observing its\nexecution in real-time. He emphasizes the benefits of understanding the flow of code through a live stream, which allows\nfor immediate insights into performance and functionality.\n\nBy adopting this approach, Steinberger argues that developers can improve their debugging processes and optimize code\nperformance. The article highlights how this shift in perspective can lead to more effective development practices and\ninnovative troubleshooting methods in software engineering."
   }
 ]
