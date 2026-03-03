@@ -2180,5 +2180,83 @@
     "description": "Why I stopped reading code and started watching it stream by.",
     "date": "2026-02-07",
     "text": "# Shipping at Inference-Speed - Peter Steinberger\n\n[https://steipete.me/posts/2025/shipping-at-inference-speed](https://steipete.me/posts/2025/shipping-at-inference-speed)\n\n## Description\n\nWhy I stopped reading code and started watching it stream by.\n\n## Summary\n\nIn the article \"Shipping at Inference-Speed,\" Peter Steinberger discusses his journey from reading code to observing its\nexecution in real-time. He emphasizes the benefits of understanding the flow of code through a live stream, which allows\nfor immediate insights into performance and functionality.\n\nBy adopting this approach, Steinberger argues that developers can improve their debugging processes and optimize code\nperformance. The article highlights how this shift in perspective can lead to more effective development practices and\ninnovative troubleshooting methods in software engineering."
+  },
+  {
+    "filepath": "2026/03-03/assertj-fluent-assertions-java.md",
+    "category": [
+      "Java",
+      "Libraries",
+      "Testing"
+    ],
+    "url": "https://assertj.github.io/doc/",
+    "title": "AssertJ - fluent assertions java library",
+    "description": "A library that provides fluent assertions for Java.",
+    "date": "2026-03-03",
+    "text": "# AssertJ - fluent assertions java library\n\n[https://assertj.github.io/doc/](https://assertj.github.io/doc/)\n\n## Description\n\nA library that provides fluent assertions for Java.\n\n## Summary\n\nAssertJ is a powerful library designed to enable developers to write fluent assertions in their Java tests. The aim is to improve the readability and expressiveness of assertions while providing a rich set of features and capabilities.\n\nWith AssertJ, users can create more fluent and intuitive assertions compared to traditional assertion libraries. This enhances the overall development experience, making it easier to write tests that are clear and understandable, resulting in better-maintained test suites. The library is regularly updated and maintained, ensuring it stays compatible with the latest Java versions and testing practices."
+  },
+  {
+    "filepath": "2026/03-03/breakthrough-method-for-agile-ai.md",
+    "category": [
+      "Agile",
+      "Ai",
+      "Development"
+    ],
+    "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "title": "GitHub - bmad-code-org/BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development",
+    "description": "Breakthrough Method for Agile Ai Driven Development - bmad-code-org/BMAD-METHOD",
+    "date": "2026-03-03",
+    "text": "# GitHub - bmad-code-org/BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development\n\n[https://github.com/bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)\n\n## Description\n\nBreakthrough Method for Agile Ai Driven Development - bmad-code-org/BMAD-METHOD\n\n## Summary\n\nThe BMAD Method represents a significant innovation in the area of Agile development, particularly focusing on integrating artificial intelligence (AI) into the development process. This approach aims to streamline workflows, enhance collaboration, and optimize decision-making in software development projects.\n\nThe GitHub repository for BMAD offers resources, documentation, and tools to implement this methodology effectively. It serves as a platform for collaboration among developers and encourages contributions to refine and improve the method over time.\n\nIn summary, BMAD is positioned as a transformative approach in the rapid evolution of software development, leveraging AI to create more efficient and agile project management practices."
+  },
+  {
+    "filepath": "2026/03-03/context-engineering.md",
+    "category": [
+      "Agents",
+      "Context Engineering",
+      "AI"
+    ],
+    "url": "https://blog.langchain.com/context-engineering-for-agents/",
+    "title": "Context Engineering",
+    "description": "Agents need context to perform tasks,and this post explores strategies for effective context engineering.",
+    "date": "2026-03-03",
+    "text": "# Context Engineering\n\n[https://blog.langchain.com/context-engineering-for-agents/](https://blog.langchain.com/context-engineering-for-agents/)\n\n## Description\n\nAgents need context to perform tasks, and this post explores strategies for effective context engineering.\n\n## Summary\n\nContext engineering is the art and science of filling the context window with the right information at each step of an agent’s trajectory. This is crucial for agents to perform tasks effectively. The article breaks down several common strategies for improving context for agents: write, select, compress, and isolate.\n\nThese strategies help to ensure that agents have the necessary information while minimizing noise, thereby enhancing their ability to make informed decisions and take appropriate actions based on the context provided. By applying these techniques, practitioners can optimize the performance of agents in various applications."
+  },
+  {
+    "filepath": "2026/03-03/effective-context-engineering.md",
+    "category": [
+      "AI",
+      "Engineering",
+      "Agents"
+    ],
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "title": "Effective Context Engineering for AI Agents",
+    "description": "A guide on optimizing context handling for AI agents to enhance their effectiveness.",
+    "date": "2026-03-03",
+    "text": "# Effective Context Engineering for AI Agents\n\n[https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)\n\n## Description\n\nA guide on optimizing context handling for AI agents to enhance their effectiveness.\n\n## Summary\n\nThe webpage discusses strategies for effective context engineering, focusing on how AI agents can better utilize context to improve their performance and decision-making. It outlines the importance of surrounding information, understanding user intent, and managing context switches effectively.\n\nFurthermore, the article provides practical techniques for refining context, emphasizing iteration, testing, and user feedback. It aims to equip developers with the tools needed to create more intuitive and responsive AI systems that can adapt to varying scenarios and user needs."
+  },
+  {
+    "filepath": "2026/03-03/langgraph-overview.md",
+    "category": [
+      "Langgraph",
+      "Agents",
+      "Control"
+    ],
+    "url": "https://docs.langchain.com/oss/python/langgraph/overview",
+    "title": "LangGraph overview - Docs by LangChain",
+    "description": "Gain control with LangGraph to design agents that reliably handle complex tasks",
+    "date": "2026-03-03",
+    "text": "# LangGraph overview - Docs by LangChain\n\n[https://docs.langchain.com/oss/python/langgraph/overview](https://docs.langchain.com/oss/python/langgraph/overview)\n\n## Description\n\nGain control with LangGraph to design agents that reliably handle complex tasks.\n\n## Summary\n\nLangGraph is a tool designed to help developers create agents capable of managing complex tasks effectively. By utilizing LangGraph, users can gain a significant degree of control over the behavior and functionality of their agents. The documentation provides insights into the features and capabilities of LangGraph, making it easier to understand how to implement it in various applications. This enables developers to craft more reliable and efficient solutions leveraging the power of LangGraph."
+  },
+  {
+    "filepath": "2026/03-03/voice-assistant-prompt-optimization.md",
+    "category": [
+      "Application",
+      "Automation",
+      "AI"
+    ],
+    "url": "https://github.com/heiko-hotz/voice-assistant-prompt-optimization",
+    "title": "GitHub - heiko-hotz/voice-assistant-prompt-optimization - Sample application to demonstrate Automated Prompt Engineering for Gemini Live API",
+    "description": "Sample application to demonstrate Automated Prompt Engineering for Gemini Live API.",
+    "date": "2026-03-03",
+    "text": "# GitHub - heiko-hotz/voice-assistant-prompt-optimization - Sample application to demonstrate Automated Prompt Engineering for Gemini Live API\n\n[https://github.com/heiko-hotz/voice-assistant-prompt-optimization](https://github.com/heiko-hotz/voice-assistant-prompt-optimization)\n\n## Description\n\nSample application to demonstrate Automated Prompt Engineering for Gemini Live API.\n\n## Summary\n\nThis GitHub repository contains a sample application designed to showcase Automated Prompt Engineering specifically tailored for the Gemini Live API. The purpose of this application is to provide examples and insights into the mechanisms of automating prompt creation and optimization.\n\nThe project is intended primarily for informational purposes, providing developers and researchers a practical demonstration of how to effectively utilize the Gemini Live API through expertly engineered prompts. Users can explore the implementation and understand the potential applications in voice assistant technology and related domains."
   }
 ]
