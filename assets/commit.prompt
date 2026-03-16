@@ -1,0 +1,5 @@
+Generate a concise git commit message summarizing these changes.
+This is a repository containing many many links I collected.
+New markdown files contain information about added links, one file per link.
+Example:
+"add link about MCP: Docker MCP Catalog"

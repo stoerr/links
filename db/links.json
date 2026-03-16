@@ -2297,5 +2297,31 @@
     "description": "Chrome DevTools for coding agents.",
     "date": "2026-03-16",
     "text": "# GitHub - ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents\n\n[https://github.com/ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n## Description\n\nChrome DevTools for coding agents.\n\n## Summary\n\nThe GitHub repository for Chrome DevTools named \"chrome-devtools-mcp\" focuses on tools designed specifically for coding agents. It invites developers and contributors to partake in the project, fostering an open-source environment where users can collaborate and enhance these development tools.\n\nUsers can access this repository to contribute, report issues, or explore the capabilities of Chrome DevTools as it relates to coding agents, making it a valuable resource for developers looking to improve their coding practices. The project encourages active participation from the community to help drive its growth and functionality."
+  },
+  {
+    "filepath": "2026/03-17/docker-mcp-catalog.md",
+    "category": [
+      "Docker",
+      "MCP",
+      "Servers"
+    ],
+    "url": "https://hub.docker.com/mcp",
+    "title": "Docker MCP Catalog - Discover Secure,Top MCP Servers",
+    "description": "A platform for discovering secure and top MCP servers.",
+    "date": "2026-03-17",
+    "text": "# Docker MCP Catalog - Discover Secure, Top MCP Servers\n\n[https://hub.docker.com/mcp](https://hub.docker.com/mcp)\n\n## Description\n\nA platform for discovering secure and top MCP servers.\n\n## Summary\n\nThe Docker MCP Catalog is a resource designed for users to explore a wide array of MCP servers that emphasize security and reliability. It serves as a hub for developers and system administrators looking to implement or utilize these servers in their projects.\n\nVisitors can expect to find curated listings of MCP servers that meet stringent security standards, ensuring that their projects can leverage these resources safely. This catalog is particularly useful for organizations that prioritize security in their infrastructure."
+  },
+  {
+    "filepath": "2026/03-17/model-context-protocol-servers.md",
+    "category": [
+      "Software",
+      "Development",
+      "Open Source"
+    ],
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "title": "GitHub - modelcontextprotocol/servers - Model Context Protocol Servers",
+    "description": "Model Context Protocol Servers. Contribute to modelcontextprotocol/servers development by creating an account on GitHub.",
+    "date": "2026-03-17",
+    "text": "# GitHub - modelcontextprotocol/servers - Model Context Protocol Servers\n\n[https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)\n\n## Description\n\nModel Context Protocol Servers. Contribute to modelcontextprotocol/servers development by creating an account on GitHub.\n\n## Summary\n\nThe Model Context Protocol Servers repository is hosted on GitHub and focuses on enabling the development and collaboration of Model Context Protocol-related projects. Users are encouraged to contribute to the project's ongoing development. The page includes essential information, promotional content, and metadata indicating the repository's purpose.\n\nPotential contributors can view the project details, get updates, and see existing contributions. By creating an account on GitHub, developers can participate in advancing this open-source initiative."
   }
 ]

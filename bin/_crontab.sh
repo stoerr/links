@@ -15,7 +15,7 @@ fi
 COMMIT_MSG=""
 # if command chatgpt is available, use it to generate a better commit message
 if command -v chatgpt &> /dev/null; then
-  COMMIT_MSG=$(git diff --cached | chatgpt -f - "Generate a concise git commit message summarizing these changes")
+  COMMIT_MSG="Automatic: $(git diff --cached | chatgpt -f - "Generate a concise git commit message summarizing these changes.")"
 fi
 if [ -z "$COMMIT_MSG" ]; then
   COMMIT_MSG="Cron job - background add of links"

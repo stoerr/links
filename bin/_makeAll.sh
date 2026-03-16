@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 bin/makeLinkJson.js
+jq -r '.[] | .category? // empty | .[]' db/links.json | sort | uniq -c | sort -nr | sed -E 's/^[[:space:]]*[0-9]+[[:space:]]+//' > db/categories.txt
 bin/llmupdatedb.sh
 sqlite-utils rows db/llmsearch.db -c id -c embedding -c content -o id --json-cols embeddings > db/embeddings.json.new
 # exit if command failed

@@ -4,7 +4,9 @@ Fill the following markdown template with the information about the previous tex
 The same placeholders should get the same content. Include both `---` from the example below.
 Do not change the lines with the UNCHANGEABLEDATEPLACEHOLDER and UNCHANGEABLEURLPLACEHOLDER.
 DO NOT print anything else except the template, not even ``` quotes.
+For the categories there is a list of preferred keywords appended, but feel free to use other categories if appropriate.
 
+```markdown
 ---
 filename: {suggested-filename-from-short-title-in-kebab-case-maximal-5-words}
 category: {up to 3 comma separated list of keywords / categories (words) in Title Case. Prefer IEEE taxonomy.}
@@ -27,3 +29,7 @@ date: UNCHANGEABLEDATEPLACEHOLDER
 
 {summary of the content of the webpage, at most three paragraphs}
 
+```
+
+================================================================================
+Preferred keywords for categories:
