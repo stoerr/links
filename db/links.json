@@ -2284,5 +2284,18 @@
     "description": "Dieser Blog-Beitrag warum der Schritt zur Agentic Enterprise vor allem eine Business- und Governance-Frage ist.",
     "date": "2026-03-09",
     "text": "# Agentic AI in der Versicherungsbranche - Wie der Shift vom „Chatten“ zum „Handeln“ gelingt\n\n[https://www.adesso.de/de/news/blog/agentic-ai-in-der-versicherungsbranche-wie-der-shift-vom-chatten-zum-handeln-gelingt.jsp](https://www.adesso.de/de/news/blog/agentic-ai-in-der-versicherungsbranche-wie-der-shift-vom-chatten-zum-handeln-gelingt.jsp)\n\n## Description\n\nDieser Blog-Beitrag warum der Schritt zur Agentic Enterprise vor allem eine Business- und Governance-Frage ist.\n\n## Summary\n\nDer Blog-Beitrag beleuchtet den Übergang zur Agentic Enterprise in der Versicherungsbranche und argumentiert, dass dieser Schritt mehr eine Frage des Geschäftsmodells und der Governance ist, als eine technische Herausforderung. Der Fokus liegt auf der Notwendigkeit, über den Einsatz von KI in der Kundenkommunikation hinauszugehen und KI-Lösungen zu implementieren, die tatsächliche Entscheidungen und Handlungen ermöglichen.\n\nZusätzlich wird dargelegt, wie Unternehmen ihre Strategien und Strukturen anpassen müssen, um den Anforderungen einer zunehmend automatisierten und intelligenten Umgebung gerecht zu werden. Die Transformation erfordert nicht nur technologische Investitionen, sondern auch ein Umdenken in Bezug auf Verantwortungsbereiche und Entscheidungsprozesse innerhalb der Organisation.\n\nAbschließend wird darauf hingewiesen, dass der Erfolg dieser Transformation sowohl von der Bereitschaft der Unternehmen abhängt, innovativ zu sein, als auch von der Fähigkeit, die Governance entsprechend zu gestalten und anzupassen."
+  },
+  {
+    "filepath": "2026/03-16/chrome-devtools-for-coding-agents.md",
+    "category": [
+      "Chrome DevTools",
+      "Coding Agents",
+      "Development"
+    ],
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "title": "GitHub - ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents",
+    "description": "Chrome DevTools for coding agents.",
+    "date": "2026-03-16",
+    "text": "# GitHub - ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents\n\n[https://github.com/ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n## Description\n\nChrome DevTools for coding agents.\n\n## Summary\n\nThe GitHub repository for Chrome DevTools named \"chrome-devtools-mcp\" focuses on tools designed specifically for coding agents. It invites developers and contributors to partake in the project, fostering an open-source environment where users can collaborate and enhance these development tools.\n\nUsers can access this repository to contribute, report issues, or explore the capabilities of Chrome DevTools as it relates to coding agents, making it a valuable resource for developers looking to improve their coding practices. The project encourages active participation from the community to help drive its growth and functionality."
   }
 ]
