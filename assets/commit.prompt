@@ -1,5 +1,5 @@
 Generate a concise git commit message summarizing these changes.
 This is a repository containing many many links I collected.
-New markdown files contain information about added links, one file per link.
-Example:
+New markdown files in 20*/*/* contain information about added links, one file per link.
+Example if there is only one new markdown file, MCP is a category:
 "add link about MCP: Docker MCP Catalog"

@@ -28,6 +28,7 @@ replay_pid*
 /_index.html
 *.log
 db/*.new
+db/categories.txt
 
 # IntelliJ idea
 /.idea/
